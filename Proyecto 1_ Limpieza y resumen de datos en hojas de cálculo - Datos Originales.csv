@@ -1,0 +1,1001 @@
+Fecha de venta,Ciudad,Producto,Precio unitario,Cantidad,Monto total,Cliente,Email,ID de orden
+"Oct 03, 2024",Monterrey  ,Auriculares-Con cable-32GB,439.01,5,2195.05,Sandra B√°ez,maria-teresamanzanares@jaquez.com,d7c9e19e-1228-4326-8b2a-cde42e222a67
+10/15/2024,Bogotá,Auriculares-Bluetooth-8GB,1090.69,1,1090.69,Mariano Leticia Palomino,brunoflorez@hotmail.com,c1103728-e36d-48da-ba95-42c7fc1ccca5
+27/10/2024,Bogotá,Laptop-Gaming-32GB,1174.54,2,2349.08,Gregorio Gayt√°n,maytezedillo@grupo.com,1fd52e4f-ce34-4747-8dc7-fa4b9fe57dc4
+"Nov 02, 2024",Medellín,Tablet-Pro-8GB,1291.38,4,5165.52,Alejandra Araceli Guti√©rrez,jtovar@trujillo-orellana.com,0ada26be-f753-405b-a1a4-3599df81e700
+28/11/2024,Medellín,Teléfono-Gama alta-4GB,1450.89,1,1450.89,Miguel √Ångel Mondrag√≥n Benav√≠dez,bmontanez@yahoo.com,9300cdf6-1250-4659-917a-93641a266da5
+11/05/2024,Cali,Teléfono-Gama alta-8GB,670.67,4,2682.68,Gabino Conchita Bueno,wvega@yahoo.com,c46fe29a-c3e5-4c00-b9ea-94b719c84734
+"Dec 01, 2024",  Guadalajara,Tablet-Mini-4GB,1114.1,3,3342.3,Karla Pineda Arriaga,acabrera@yahoo.com,35bff7d1-834a-47b1-8627-e9ce0847bae9
+12/10/2024,Ciudad de M√©xico,Tablet-Pro-8GB,1001.63,3,3004.89,Dr. Rolando Mares,mercadohilda@gmail.com,5199a25e-ee56-4e1f-9c71-21f24998e8fc
+15/12/2024,Cali,Laptop-Ultraliviana-16GB,181.56,4,726.24,Virginia Mondrag√≥n,josefina68@proyectos.com,e58774cc-8183-4c21-b23d-1089685c61dd
+23/12/2024,GUADALAJARA,Tablet-Mini-4GB,964.35,5,4821.75,Luis Manuel Aldonza Contreras,castilloteodoro@yahoo.com,4e85609f-8a23-4d99-a616-2f83279d0dc0
+"Oct 09, 2024",Bogotá,Auriculares-Bluetooth-16GB,120.46,1,120.46,Indira Guadalupe Montez Alcaraz,brivera@club.com,a076e80e-95f4-4b8d-8e0e-af032fd3e7e3
+11/25/2024,Medellín,Auriculares-Con cable-16GB,1061.61,1,1061.61,Lic. Luz de la Garza,esparta94@gmail.com,b76b9aa0-31e3-4e6d-905f-d7fc227d629a
+19/12/2024,Cali,Tablet-Pro-4GB,2440.84,5,12204.2,Sr(a). Karla Mateo,reynaldo65@esparza.com,fde0973c-ba07-4b7c-b196-f9743e17466a
+10/21/2024,Monterrey  ,Teléfono-Gama baja-16GB,121.68,2,243.36,Abril Julio T√≥rrez Segovia,xsaenz@hotmail.com,0281b754-3298-47cb-85b3-b7e7a8c57bab
+"Nov 30, 2024",Guadalajara,Tablet-Pro-32GB,1109.64,3,,Ing. Esteban Curiel,juliavergara@barraza.info,6d6dc8da-1c46-48a9-9864-d6731b144bc7
+12/05/2024,Guadalajara,Tablet-Mini-32GB,2246.48,1,2246.48,Hilda M√≥nica Acu√±a Zedillo,lhidalgo@yahoo.com,6d865eac-7ee1-4c9f-bf09-98a0163a585b
+22/10/2024,Bogotá,Auriculares-Cancelación de ruido-4GB,129.07,4,516.28,Iv√°n Sanches Vallejo,reinaenriquez@sarabia-badillo.com,166ba421-1a83-493d-b4f5-5832605721e4
+"Dec 28, 2024",Monterrey,Auriculares-Bluetooth-16GB,1724.31,2,3448.62,Alejandra Rold√°n,almafajardo@proyectos.com,530801f5-4c88-4d00-b297-5944ebece83d
+10/12/2024,Bogotá,Teléfono-Gama alta-16GB ,1445.1,4,5780.4,Lorenzo Wendolin M√©ndez Gollum,ffuentes@ochoa-molina.com,116022d7-56fc-4596-aeba-30c58ab21dbf
+"Nov 14, 2024",Cali,Tablet-Estándar-16GB,1618.43,3,4855.29,Catalina Adela Galarza Camacho,yfarias@industrias.com,6685e5bb-9081-494c-b6aa-422ddb87955d
+29/12/2024,Ciudad de M√©xico,Teléfono-Gama media-4GB,2070.23,5,10351.15,Aldo Rodr√≠gez,isabelojeda@grupo.com,f8087330-1de4-4af6-8cae-e91d660b819f
+11/10/2024,Medellín,Teléfono-Gama baja-8GB,763.62,1,763.62,Sr(a). Carlota Aguayo,auroralugo@acuna-mercado.com,d58eb71d-bd78-4ec3-8a70-34213c01464b
+"Dec 16, 2024",Monterrey,Teléfono-Gama media-4GB,658.01,5,3290.05,Aurora Amador Mendoza Prieto,margarita69@grupo.net,45698812-aa8b-4fea-b214-81743c8c3e1d
+14/10/2024,MONTERREY,Tablet-Pro-4GB,162.56,4,650.24,Gabino Rub√©n Men√©ndez,bernardovillagomez@laboratorios.org,df7f87e2-753a-411f-bbe9-b634b149f17c
+12/31/2024,Cali,Laptop-Ultraliviana-32GB,1721.22,4,6884.88,Roberto Mar√≠a Cristina Madera Alejandro,teodoro56@yahoo.com,bfde20ee-a837-4bd7-af36-f9e5b40dfe3b
+"Oct 03, 2024",Bogotá,Tablet-Estándar-16GB,741.79,2,1483.58,Uriel Helena Caldera,pizarrojaqueline@acuna-moreno.com,91de2837-a873-4607-8185-7fa6844d2be8
+11/10/2024,CIUDAD DE M√âXICO ,Auriculares-Cancelación de ruido-4GB,489.42,3,1468.26,Sr(a). M√≥nica Cortez,benito43@corporacin.com,814e531c-1781-4af9-86e2-0da4494565c9
+12/24/2024,Ciudad de M√©xico,Laptop-Oficina-16GB,1247.53,4,4990.12,Trinidad Badillo,coronadomodesto@hotmail.com,698672ae-dbbd-4086-a5f7-90c3dfe00ff8
+"Oct 27, 2024",Cali,Teléfono-Gama baja-4GB,273.42,4,1093.68,Noem√≠ Julia Zepeda,gilalta-gracia@miramontes.com,102bcf63-b887-46cb-8d4f-8c9404340da9
+14/11/2024,Bogotá,Teléfono-Gama media-4GB,160.68,1,160.68,Armando Ricardo Dur√°n,trevinozeferino@hotmail.com,c2c34b94-f490-4a39-9f0d-d895d228fae3
+11/28/2024,Tulum,Teléfono-Gama alta-16GB,2297.62,4,9190.48,Asunci√≥n Rebeca Rivero,rosalia18@gmail.com,dba5fcd9-c9cd-46ba-a785-12d580ffe57a
+"Nov 05, 2024",Ciudad de M√©xico,Laptop-Gaming-8GB,1040.78,2,2081.56,Ruby Virginia Salcido,zoe99@ornelas.com,10459092-6977-440d-ad85-b85e03763cf7
+23/10/2024,Cali,Laptop-Oficina-8GB,1850.94,1,1850.94,Blanca Ord√≥√±ez Matos,yuridiavillagomez@yahoo.com,e9bf9df3-945d-4164-9afd-4e3cdee9991c
+12/31/2024,Guadalajara,Auriculares-Con cable-8GB,134.89,5,674.45,Mar√≠a Jos√© Jacobo Perales Ortiz,oliver93@hotmail.com,ead07a50-6dc3-4997-a078-77b5ae38bb54
+10/08/2024,Medellín,Laptop-Ultraliviana-4GB,2314.37,5,11571.85,Rosalia Alc√°ntar,luisamata@barajas-de.org,a9fee7b5-3729-4db8-815f-355ff6236823
+"Dec 15, 2024",Monterrey,Tablet-Mini-8GB,787.6,1,787.6,Emilio Almaraz,avera@yahoo.com,72bb2e02-f0ab-4425-ad19-83e3487dfc79
+25/12/2024,Guadalajara,Auriculares-Cancelación de ruido-32GB,1532.2,1,1532.2,Dar√≠o Mart√≠n Tovar,eduardo10@gmail.com,ced0a1f9-ee13-48fd-ae58-db4f7cdfb189
+10/29/2024,Guadalajara,Auriculares-Cancelación de ruido-8GB,1741.09,4,6964.36,Nadia Ana Mar√≠a Merino Arteaga,arico@almaraz-ontiveros.com,446489c3-d916-48e8-af47-535cb42956ac
+12/14/2024,Cali,Laptop-Gaming-4GB,2116.69,2,4233.38,Uriel Montes Contreras,fserrano@vela.com,ab896c73-e2a6-4dc5-922f-889ab750954e
+"Oct 12, 2024",Guadalajara,Auriculares-Bluetooth-4GB,1065.52,2,2131.04,Seraf√≠n Samuel Tamayo B√°ez,bruno78@vega.org,c196a64f-ac47-4c79-b416-d0807432cfa3
+01/11/2024,Bogotá,Auriculares-Con cable-16GB,1919.71,4,7678.84,Lic. Jos√© Manu√©l Torres,renatoorellana@gmail.com,5004d2bb-d9ba-4955-8ee4-bf09d5db221e
+11/15/2024,Medellín,Tablet-Pro-8GB,450.01,4,1800.04,Daniel Carlota Arredondo Linares,olveraalvaro@hotmail.com,50132920-f6aa-4e4d-8964-c48df8dcf12f
+"Dec 03, 2024",Medellín,Laptop-Gaming-32GB,2294.28,1,2294.28,Hilda Razo Lerma,salvadorsuarez@gmail.com,5eb1511c-6bde-49b4-b1e9-39aeeca914bc
+12/05/2024,Ciudad de M√©xico,Tablet-Mini-4GB,496.1,3,1488.3,Mauricio Oquendo Bustos,yalba@corporacin.com,36d91d20-825b-4909-9326-ca55a5ba261f
+20/10/2024,Ciudad de M√©xico,Tablet-Mini-16GB,1529.1,1,1529.1,Amalia Guillermina Ozuna Santana,ramiroenriquez@borrego-cuellar.com,62a28aa3-fc75-41e7-abc8-fbb577726ebd
+11/30/2024,Medellín,Laptop-Oficina-16GB,2256.04,5,11280.2,Gabino Barrera Quiroz,razoraul@yahoo.com,02858336-ce07-4437-8326-04e65dd55fe4
+"Dec 23, 2024",Guadalajara,Tablet-Estándar-4GB,625.26,5,3126.3,Dr. Alonso Lucero,villegasalejandra@gmail.com,46930688-ab22-4f38-922e-c8bdee972554
+11/11/2024,Cali,Laptop-Ultraliviana-16GB,1933.07,3,5799.21,Zeferino Clara Ure√±a Ramos,anaranjo@despacho.com,00f3b5c0-94a8-46ed-a8a8-4d11bde44da7
+11/01/2024,Cali.  ,Teléfono-Gama baja-32GB,434.9,1,434.9,Mtro. Magdalena Morales,catalina33@yahoo.com,9d83faf6-b95d-4623-85a1-78d8b416dd3f
+"Oct 31, 2024",Tulum,Laptop-Oficina-32GB,1889.28,4,7557.12,Mar√≠a Cristina Raquel Carranza Orosco,ernesto07@gmail.com,3217ab5c-f143-443a-aece-3a47846a3ff2
+12/10/2024,Monterrey,Laptop-Oficina-32GB,1708.81,1,1708.81,Jorge Luis Baca,egalindo@gmail.com,2f12cb9e-2010-490d-9bfa-31410ba27433
+10/22/2024,Ciudad de M√©xico,Laptop-Oficina-8GB ,1524.07,1,1524.07,Abelardo H√©ctor Brito Solorzano,eugenia47@de.com,ac86de05-18a9-4269-876c-d1c20900fd8f
+"Dec 28, 2024",Monterrey,Laptop-Ultraliviana-4GB,372.92,3,1118.76,Pilar Luisa Bonilla Garrido,silviapabon@corporacin.com,403acb42-0f8a-41c6-b42a-d1adc4b62bfb
+"Oct 08, 2024",Medellín,Tablet-Estándar-4GB,2168.25,3,6504.75,Fernando M√°rquez Almaraz,benitezcarlota@yahoo.com,1d366307-d6bd-4e44-b202-bab1ce141dbd
+10/15/2024,Monterrey,Auriculares-Cancelación de ruido-8GB,882.55,5,4412.75,Ver√≥nica Wendolin Ter√°n,felipe81@espino.info,6a83774a-e4f8-4c9b-ae75-2c985e801156
+12/18/2024,Bogotá,Laptop-Ultraliviana-16GB,602.68,3,1808.04,Lic. Ricardo Coronado,opaz@proyectos.net,84862dcd-d58c-423c-99b1-8b1ee8b38e4e
+11/17/2024,Medellín,Teléfono-Gama alta-32GB ,2405.31,5,,Virginia Aldonza Zamora Longoria,bpacheco@hotmail.com,512f8818-bb8d-466a-9f10-79bd8f52408b
+"Nov 25, 2024",Guadalajara,Auriculares-Bluetooth-16GB,564.69,2,1129.38,Alonso Paola Rocha,ujasso@olivares.com,8588db90-3e5f-471e-8500-c89cbc6d1623
+12/20/2024,Cali,Teléfono-Gama media-4GB,2373.12,2,4746.24,Aida Marrero,juana18@yahoo.com,84603ef1-6930-4a3e-b3f4-2e56b1a84398
+10/10/2024,BOGOT√Å,Laptop-Oficina-16GB,278.37,3,835.11,Mtro. C√©sar Verduzco,maria-elena87@proyectos.biz,af1640cb-8d21-4be4-a497-cf19ebe3fa3e
+"Dec 07, 2024",Monterrey,Laptop-Gaming-4GB,1636.89,2,3273.78,Rodrigo Yeni Avil√©s,juan-carlos48@del.info,fa21bde8-c128-4e66-83c3-a35891b527e7
+11/13/2024,Bogotá,Auriculares-Bluetooth-4GB,,1,1787.41,Cynthia Aguilera Figueroa,eloyarroyo@yahoo.com,6a533065-10e9-417f-90b8-cc321916284c
+12/02/2024,GUADALAJARA,Tablet-Mini-16GB,218.94,3,656.82,Omar Casares Benav√≠dez,humberto17@tapia.com,be2593fe-882a-47b4-84fb-96d56973714b
+"Nov 19, 2024",Monterrey,Laptop-Ultraliviana-4GB,1077.1,5,5385.5,Sr(a). Mario Cort√©s,oliviacarmona@magana.net,9b5f5828-58aa-4107-b467-e223f64cae41
+21/11/2024,Ciudad de M√©xico,Laptop-Oficina-4GB,2297.78,4,9191.12,Delia Rosario,guruleserafin@industrias.biz,a23fb156-d7f0-48b3-8429-51722fc91010
+11/07/2024,Ciudad de M√©xico,Tablet-Estándar-4GB,127.95,4,511.8,Citlali Jorge Gast√©lum,patricia75@corporacin.com,b7d845eb-4a64-4099-a793-3f93363ea49e
+"Dec 31, 2024",Cali,Teléfono-Gama alta-4GB,1545.28,2,3090.56,Lic. Mateo Salazar,aurora38@hotmail.com,8d472941-b5df-4f80-b3a6-ece0e6978e8a
+24/12/2024,Medellín,Tablet-Estándar-16GB,97.52,1,97.52,Ing. Emilia Fajardo,estelarocha@oquendo.org,8e37e816-5b3d-4cf1-9cef-cf002ceb456f
+12/11/2024,Bogotá,Tablet-Pro-4GB,817.03,2,1634.06,Leonel Salcido,carranzamaria-jose@yahoo.com,b970ae82-fee0-482e-b413-b42d8439bc7e
+"Oct 18, 2024",Monterrey,Auriculares-Bluetooth-4GB,721.04,4,2884.16,Ren√© Rafa√©l Rocha,hugodel-rio@reyna.com,21eb6780-a2cf-4959-81fd-6bec09658cd0
+12/22/2024,Guadalajara,Tablet-Mini-8GB,1636.65,2,3273.3,Gonzalo Rasc√≥n,hilda61@grupo.info,632f3ed9-ab81-468b-93d0-16a797a5d1c7
+11/04/2024,Medellín,Teléfono-Gama alta-16GB,2114.2,5,10571,Patricio Palomino,carolinaoquendo@industrias.net,b3d5e0b4-2834-4e54-a96a-d9085614ca23
+"Dec 13, 2024",Monterrey,Laptop-Oficina-16GB,934.1,2,1868.2,Roberto Mateo Hurtado Le√≥n,sperales@hotmail.com,0332c3e0-2f25-4dfd-ad14-79f12be80567
+10/25/2024,Ciudad de M√©xico,Tel√©fono-Gama media-8GB,2095.64,5,10478.2,Dr. Agust√≠n Sandoval,cornelio15@grupo.com,1a1b2b13-06f4-45bf-a9e9-678df211aedf
+"Nov 29, 2024",Guadalajara,Tablet-Estándar-4GB,337.5,5,1687.5,Silvano Villanueva Alcaraz,nunezmanuel@yahoo.com,da98ee54-efa1-4a37-a44f-16e69c8a3769
+10/24/2024,Cali,Auriculares-Con cable-8GB,1962.79,3,5888.37,Gonzalo Cort√©s Nieto,cabanmauricio@partida-barrios.net,f175c4e2-a107-42a1-87d8-ae02bbeada76
+"Dec 01, 2024",Ciudad de M√©xico,Tablet-Estándar-8GB,2261.15,1,2261.15,Marco Antonio Mercado Henr√≠quez,grobledo@gmail.com,6c9a8394-7c0d-49dd-814c-cdca8e78dbd5
+11/04/2024,Bogotá,Laptop-Gaming-32GB,1491.19,5,7455.95,Elias Sotelo Espinal,tvalle@guzman.org,4082ebc9-a484-41c7-ae7f-fcdfa5f8c7f8
+11/23/2024,CALI,Tablet-Pro-16GB,405.62,4,1622.48,√Ångel D√°vila,lomelivictoria@alvarez-olivo.org,4466335e-c645-4d4b-a152-4044038bf97c
+11/03/2024,Monterrey,Laptop-Oficina-32GB,2157.37,5,10786.85,Ing. Alejandra Delgadillo,casaresramon@hotmail.com,bc02e752-e8f9-4729-a7cd-24ba1ff00164
+11/13/2024,Monterrey,Tablet-Mini-8GB,625.41,2,1250.82,Arturo Haro Varela,ssosa@hotmail.com,2feb799d-af20-4c3b-99b5-36c59009058b
+10/13/2024,Monterrey,Tablet-Mini-8GB,1664.18,3,4992.54,Asunci√≥n Samaniego,arellanoalfredo@gmail.com,4e9e641c-a0d6-4903-8f6e-f87d90c24aa0
+"Nov 26, 2024",Monterrey,Tablet-Estándar-32GB,2229.46,3,6688.38,Paola Leyva Maestas,reynaldogaribay@hotmail.com,dafa21d9-a2ea-4867-b143-31f8243c024c
+11/07/2024,Cali,Auriculares-Cancelación de ruido-32GB,371.34,3,1114.02,Ren√© Luna Pineda,hocampo@corporacin.net,75b08c4a-c440-4f59-a757-c070085c6101
+13/10/2024,Cali,Laptop-Oficina-16GB,,4,9938.64,Israel de Anda Rodr√≠guez,sonia24@gmail.com,7da07b63-351f-4e52-aa15-8e1320b57edf
+29/10/2024,Cali,Teléfono-Gama media-32GB,271.58,5,1357.9,Benito Carla Cano Olvera,antoniovillalobos@gmail.com,7f6c0f86-6158-4f16-8105-a9407f403fe9
+"Nov 20, 2024",Medellín,Laptop-Ultraliviana-4GB,2371.6,2,4743.2,Timoteo Abelardo Ur√≠as Ni√±o,bfajardo@gmail.com,279ccf00-0de5-4813-a6ed-58a52bc1a5ad
+"Oct 22, 2024",Cali,Laptop-Oficina-16GB,2392.65,4,9570.6,Julia Gonzalo Armend√°riz,jose-manuelcazares@franco.org,ce229233-81ec-4127-be94-95ce93175cd4
+11/21/2024,Monterrey,Laptop-Gaming-32GB,1738.96,4,6955.84,Carlota Julio de Jes√∫s,de-la-fuentereina@gmail.com,17ce4fbf-b0f5-4e3b-aeb9-956b5c881168
+23/11/2024,Cali,Teléfono-Gama alta-8GB,1877.63,2,3755.26,Abelardo Cynthia Crespo,ecasas@yahoo.com,bfef5ecf-9029-4f0b-9ca9-4cce9f340385
+12/21/2024,Medellín,Auriculares-Cancelación de ruido-32GB,1547.71,5,7738.55,Susana Ju√°rez,marthabaez@gmail.com,dca0f25c-824a-4634-827c-d385dafa7123
+30/11/2024,Guadalajara,Teléfono-Gama media-4GB,1254.72,2,2509.44,Claudio Laura Corona Cordero,solizespartaco@raya.com,b3a633a5-e62e-4c18-a2a7-1e1b9a949d2a
+28/12/2024,Monterrey,Tablet-Estándar-4GB,2087.84,1,2087.84,Anabel Gonzalo Pedroza,helena29@leiva.com,3c3a1e13-f9c9-448a-91f3-059857dd86f5
+"Nov 23, 2024",Guadalajara,Teléfono-Gama alta-8GB,,3,4978.62,Ing. Amanda Prado,ursulaespinoza@de.info,a60e107a-d3cc-46c7-9a8e-b0aa9cfa7817
+"Nov 04, 2024",Guadalajara,Tablet-Pro-8GB,1849.07,5,9245.35,Mtro. Camila Montemayor,jose-eduardo21@yahoo.com,a6735135-46d8-4997-ad55-d449e18fd075
+"Oct 29, 2024",Ciudad de M√©xico,Teléfono-Gama baja-16GB,1290.52,3,3871.56,Ing. Marcela Guzm√°n,dvillegas@despacho.com,56344cb2-c22e-400d-87dd-49a631ced56f
+10/21/2024,Cali,Tablet-Mini-8GB,392.86,2,785.72,Bruno Samuel Acosta Rasc√≥n,irene40@bustos.info,5eb46f68-93f4-40bf-ade8-2f3822a7d3fe
+02/10/2024,Guadalajara,Tablet-Estándar-4GB,1864.02,5,9320.1,Pamela Rolando Ayala,zrenteria@yahoo.com,3c8ea69b-f625-4431-b5c1-1d4bdc621135
+"Dec 28, 2024",Monterrey,Auriculares-Con cable-16GB,589.92,3,1769.76,Bernab√© Zaragoza,htorrez@despacho.com,f652769b-e1e8-44a1-8f3d-6f80c1ac3f13
+"Dec 24, 2024",Medellín,Teléfono-Gama media-16GB,758.87,3,2276.61,Yuridia Rub√©n Armend√°riz,claudia24@industrias.com,9e945271-543f-4b06-a34e-b1dfcd6b8450
+29/10/2024,Medellín,Laptop-Oficina-32GB,489.9,2,979.8,Ver√≥nica Francisca Tafoya,nicolas87@gmail.com,fd16a28b-5ec8-4f7c-aac8-e6c93568cda5
+"Oct 16, 2024",Guadalajara,Teléfono-Gama baja-8GB,1614.05,1,1614.05,Aurora Esteban Sisneros Centeno,soniapaez@laboratorios.com,8dcb205e-e032-4baa-a658-7e640f07fe1e
+05/10/2024,Cali,Tel√©fono-Gama media-8GB,179.58,3,538.74,Dr. Alonso Abreu,noeliajaquez@corporacin.net,bbcfa88c-1300-46e2-bc6a-e3c6ddbb62d8
+"Oct 03, 2024",Bogotá,Tablet-Estándar-8GB,984.34,3,2953.02,Wendolin Jer√≥nimo Far√≠as,yterrazas@hotmail.com,4cfd7c38-6607-4b36-ab60-fb259d4e18b4
+"Dec 29, 2024",Monterrey,Tablet-Estándar-4GB,1456.46,4,5825.84,Modesto Rufino Mares Negr√≥n,maytetovar@hotmail.com,1f451643-e6fa-4d54-b03d-304b7a23b3e1
+12/16/2024,Medellín,Laptop-Gaming-8GB,421.27,4,1685.08,Ing. Mitzy de la Rosa,larajesus@industrias.com,2c42cc7e-a16c-4dc9-ae59-89dbe94c5127
+12/02/2024,Bogotá,Teléfono-Gama baja-4GB,78.53,2,157.06,Mario Fidel Laureano Castro,amadorgarza@yahoo.com,e00df3f6-aa51-4a6d-bf1d-36462af123a2
+06/12/2024,Monterrey,Auriculares-Cancelación de ruido-4GB,576.8,3,1730.4,Vicente Israel Cort√©s,herediaclaudio@yahoo.com,bb3ff505-4124-4f45-b8b6-401ab861a5af
+11/01/2024,Monterrey,Laptop-Oficina-32GB,719.59,3,2158.77,Lorenzo Minerva Ocampo Aguilar,qsolorzano@despacho.com,7a66e4f7-bc95-4384-85ad-39070d893921
+11/05/2024,Ciudad de M√©xico,Auriculares-Cancelación de ruido-8GB,1050.44,5,5252.2,Cristian Jacinto Ornelas,darenas@corporacin.org,9c66ca34-d486-44b8-bf48-2843a252f7a0
+12/09/2024,Ciudad de M√©xico,Teléfono-Gama media-16GB,166.45,5,832.25,Noelia Le√≥n Sanches,fidelvazquez@estrada.info,15c297bf-5d8e-4902-b9f9-0205a370b77e
+"Oct 20, 2024",Ciudad de M√©xico,Tablet-Estándar-4GB,2299.22,5,11496.1,Sr(a). Manuel T√≥rrez,zbarajas@industrias.com,ed2140fd-8a01-4a73-bd2d-02153d2e7f26
+30/10/2024,Medellín,Teléfono-Gama alta-32GB,599.4,1,599.4,Yeni Indira Loya,colladoelvira@yahoo.com,ad128167-ed41-4cfc-980f-861300230ea2
+"Oct 07, 2024",Ciudad de M√©xico,Laptop-Oficina-8GB,370.25,4,1481,Francisca Lucas Jaimes Zavala,baezjonas@proyectos.org,9c8710a3-d9ef-4a00-9c0b-7c93d5fb8f63
+29/12/2024,Ciudad de M√©xico,Auriculares-Cancelaci√≥n de ruido-16GB,1747.28,1,1747.28,Esteban Violeta Loya,isaucedo@gmail.com,8f1343f8-568b-4478-bc57-4112e44e97c4
+"Oct 30, 2024",Guadalajara,Laptop-Oficina-32GB,1099.54,2,2199.08,Martha Tamayo Ni√±o,zguardado@grupo.biz,d220d617-88a5-417d-906a-713dd8d57f69
+10/10/2024,Medellín,Teléfono-Gama media-32GB,157.57,2,315.14,Ernesto Rend√≥n,nadame@hotmail.com,7c7c5e94-04af-466b-bbd2-9ba60b16b6cc
+16/10/2024,Ciudad de M√©xico,Auriculares-Cancelaci√≥n de ruido-16GB,2200.84,3,6602.52,Gustavo Bernardo Brise√±o Mar√≠n,genaro77@pedraza.com,84e9d394-3af7-4da9-9805-83c89cc6120f
+12/20/2024,Medellín,Teléfono-Gama media-32GB,290.07,4,1160.28,Benjam√≠n Alejandra Zapata Zamudio,bgranado@mata.biz,d5d39d13-0c4d-4695-9fb3-6fbc66298a78
+"Dec 14, 2024",Monterrey,Auriculares-Cancelaci√≥n de ruido-16GB,2312.52,1,2312.52,Gerardo Sauceda,patinoadan@sanchez.biz,e8b495a0-823c-484a-8e06-d1bdd07a0b5f
+13/10/2024,Medellín,Auriculares-Cancelaci√≥n de ruido-16GB,1401.28,5,7006.4,Dr. Conchita Nazario,alonsopaz@yahoo.com,6a6b7bb0-7d16-4f28-a74f-712ee43c38a6
+23/12/2024,Bogotá,Tablet-Mini-32GB,1407.68,3,4223.04,Dr. Vanesa Valverde,miguel-angel20@hotmail.com,4d3b34a5-8ae2-4de1-a0af-616e0a229665
+01/12/2024,Cali,Laptop-Oficina-16GB,2044.86,3,6134.58,Rosario Leticia Calder√≥n Mota,saucedajeronimo@rivera-limon.com,768f4e3f-b865-4aa6-92fa-bf0b9431ed0a
+16/10/2024,Bogotá,Auriculares-Cancelación de ruido-8GB,2425.49,5,12127.45,Sr(a). Jer√≥nimo Nava,ozunaamanda@yahoo.com,e3cbaf49-bfb7-417c-9883-c7501381b3e1
+11/20/2024,Guadalajara,Tablet-Mini-8GB,1752.92,1,1752.92,Ricardo Eugenio Meza,uriasbernabe@perez-saldivar.com,8f7b25cf-e88f-4704-9a71-5fe4e6e4d0c9
+"Dec 27, 2024",Ciudad de M√©xico,Tablet-Estándar-8GB,1935.15,3,5805.45,Lic. Aurora Zamudio,alta-gracia96@club.info,d21d73fe-7b8a-4ddb-a473-47c717ebb087
+11/04/2024,Medellín,Teléfono-Gama alta-32GB ,1612.87,4,6451.48,Aldonza Hern√°n Sosa,gracielasosa@gmail.com,4c53a9db-d0fe-42d8-a909-921633d44173
+14/12/2024,Medellín,Laptop-Oficina-16GB,1105.02,5,5525.1,Dalia Crespo,carlos81@yahoo.com,7b989337-edb6-498f-9b1d-9056bb83e316
+10/18/2024,Cali,Auriculares-Cancelación de ruido-4GB,594.52,2,1189.04,Rodrigo Aldonza Polanco,borregomitzy@hotmail.com,4b66bc0e-757f-46df-8fd9-af3d9751bd47
+10/20/2024,Ciudad de M√©xico,Auriculares-Con cable-8GB,1077.13,5,5385.65,Minerva Lorena Santana Botello,cintronbernabe@grupo.biz,1c3f2222-1db8-46db-876a-6f85812ebbbf
+10/29/2024,Guadalajara,Tel√©fono-Gama media-8GB,1598.45,3,4795.35,Marisol Espinosa Briones,santacruzanel@hotmail.com,1a50b4b1-1657-4b5e-a237-9cfb5c083efc
+12/09/2024,Medellín,Tablet-Mini-8GB,1744.95,2,3489.9,Frida Arroyo Zepeda,enriquevarela@yahoo.com,48fa08f3-3f1d-41d4-98c7-9d364159c3ee
+23/10/2024,Ciudad de M√©xico,Teléfono-Gama alta-16GB,2212.26,5,11061.3,Cristian Ofelia Urbina Murillo,zgodoy@gmail.com,ffdae6e0-eb2e-4a6c-8726-a98497d0dedb
+"Nov 24, 2024",Bogotá,Auriculares-Cancelación de ruido-4GB,443.81,1,443.81,Oswaldo Trujillo T√≥rrez,bravodiego@zayas.info,873e756f-1f4a-4de6-90ff-4cb697b1e8fe
+11/22/2024,Ciudad de M√©xico,Tablet-Estándar-32GB,416.62,5,2083.1,Federico Guillermina Vargas,bernardo49@gmail.com,7ba0efb4-239e-4695-a171-7e53a2d5321c
+"Nov 09, 2024",Ciudad de M√©xico,Tablet-Pro-16GB,271.11,2,542.22,Mar√≠a Jos√© Zeferino Avil√©s Zarate,pelayojaqueline@hotmail.com,404fea2a-d896-4427-a0d6-e0581df99ba3
+23/12/2024,Guadalajara,Laptop-Gaming-4GB,797.54,4,3190.16,Horacio Moya Noriega,rosalia18@gmail.com,8ed93f26-7deb-40c4-b603-2dab763f14bd
+07/12/2024,Cali,Teléfono-Gama baja-8GB,157.83,5,789.15,Abel Teresa Z√∫√±iga,esperanzavelasquez@grupo.com,15e734e2-2950-4516-be09-1c82cf0c10ef
+12/18/2024,Medellín,Laptop-Gaming-16GB,1096.28,3,3288.84,Israel Amaya,oliverrenteria@rael-medrano.org,73c9e2ed-d0e0-4b5c-92ac-e3a55014e974
+10/04/2024,Ciudad de M√©xico,Auriculares-Con cable-8GB,1086.48,1,1086.48,Cristal Luis Manuel S√°nchez,rocioescalante@hotmail.com,a895a20b-523d-4f9e-a3e5-039259362c4f
+16/10/2024,Monterrey,Teléfono-Gama baja-32GB,2361.22,2,4722.44,Rosario Centeno Rosario,ugamez@despacho.com,677b528f-dda1-49de-adfd-cb2648ff77c2
+01/11/2024,Ciudad de M√©xico,Laptop-Oficina-8GB,2378.7,1,2378.7,Jos Vega,garicaalvaro@hotmail.com,6c8cd43e-c6ec-498f-b791-a986f872af1d
+"Dec 22, 2024",Cali,Tablet-Estándar-16GB,2186.25,5,10931.25,Cristina Barbara de la Rosa,jaramilloanabel@gmail.com,5407753d-0304-48ca-9ea9-d8bbfb643e29
+06/10/2024,Ciudad de M√©xico,Tablet-Estándar-16GB,156.04,3,468.12,Ariadna Rosas Altamirano,avilajosefina@grupo.com,0b19abc7-fda3-4d4c-944d-c789af3a12ee
+"Nov 25, 2024",Bogotá,Tel√©fono-Gama media-8GB,1847.8,3,5543.4,Andrea Almaraz Barajas,feliperolon@hotmail.com,2f83c135-17e5-4888-8b31-f505c0170e5e
+"Nov 01, 2024",Guadalajara,Teléfono-Gama alta-8GB,1912.53,1,1912.53,Arcelia Nieves,xalva@cazares-santillan.biz,d5751f29-c753-47da-9e7a-d5ed1090b0ad
+"Oct 26, 2024",Bogotá,Teléfono-Gama baja-32GB ,919,5,4595,Ver√≥nica de Le√≥n Covarrubias,gzelaya@gmail.com,0461093f-4c28-41d9-b8c1-8f858b8a8164
+"Oct 11, 2024",Medellín,Auriculares-Bluetooth-16GB,2208.12,2,4416.24,Benjam√≠n Marcela Lucero,cresporaquel@yahoo.com,cc9f2851-c332-405f-a3fb-1abae821a706
+"Oct 19, 2024",Cali,Tablet-Estándar-32GB,902.5,3,2707.5,Dr. Estefan√≠a Pi√±a,colladomercedes@yahoo.com,a735a980-0215-4741-924f-a6525c85f916
+23/11/2024,Cali,Auriculares-Cancelación de ruido-32GB,1585.53,3,4756.59,Teodoro Nieves Burgos,carmenamador@yahoo.com,20cb126e-53ab-49aa-9f94-792732fd304c
+"Dec 03, 2024",GUADALAJARA,Teléfono-Gama media-4GB,90.89,1,90.89,Jos√© Emilio Herrera Sanabria,silviafrias@hotmail.com,43bdd060-f236-479e-81bb-97be1c5dc7be
+22/11/2024,Cali,Tablet-Mini-32GB ,88.54,5,442.7,Aldonza Morales Pi√±a,ocruz@gmail.com,135a4c21-3cb1-4e50-ba78-3db911948053
+27/10/2024,Cali,Teléfono-Gama alta-32GB,230.59,1,230.59,Nancy Mauro Ibarra Lucio,olivareshoracio@sarabia.net,749cbc33-d403-4c84-a42b-66866a2e6f47
+"Nov 10, 2024",Guadalajara,Teléfono-Gama media-16GB,2356.5,5,11782.5,Abel V√©liz,eduardo20@club.org,499ebdfa-358c-41aa-8d92-cc8b5259dfd0
+"Dec 18, 2024",Monterrey,Laptop-Ultraliviana-16GB,2030.62,2,4061.24,Paola Zarate,marisolamador@gmail.com,22971ca8-f21c-436b-84f8-11a2a2c20ff6
+04/10/2024,Bogotá,Laptop-Gaming-32GB,539.2,1,539.2,Socorro Aida Moya Amaya,roldanclaudia@yahoo.com,c7c879c2-7a83-4527-a295-5f822ea9b655
+"Nov 06, 2024",Bogotá,Laptop-Oficina-4GB,1945.67,4,7782.68,Gerardo M√≥nica Cornejo Collado,verduzcohilda@merino.biz,f4841777-97d3-4cce-bc0f-17c21f34e253
+11/08/2024,Medellín,Laptop-Oficina-8GB,1656.59,1,1656.59,Ing. Liliana Puente,rebeca22@yahoo.com,49d7397b-eb15-4d2d-b30b-8f6ca86b2125
+"Nov 10, 2024",Monterrey,Tablet-Pro-8GB,56.71,1,56.71,Gilberto Arellano Lozano,de-la-fuentemanuel@yahoo.com,5659c3e8-e722-4ce4-a66f-283a33db3b2a
+"Dec 20, 2024",Monterrey,Laptop-Ultraliviana-16GB,841.77,1,841.77,Cristina Valent√≠n Castillo,npedraza@hotmail.com,784aa491-3eb3-4b5e-858a-3b24918b10a1
+11/10/2024,Bogotá,Tablet-Estándar-8GB,853.52,5,4267.6,Cristina Miguel Madrid,wnevarez@perea.com,d710fc03-2b70-47e7-9fe6-590b75fdde09
+27/12/2024,Guadalajara,Auriculares-Con cable-32GB,851.86,1,851.86,Lic. Alfredo Ozuna,maria-eugenia57@yahoo.com,95af7f10-1768-4963-ab62-677ee934c6c0
+"Dec 25, 2024",Monterrey,Laptop-Oficina-32GB,1047.88,3,3143.64,H√©ctor Luevano,sergio69@laboratorios.com,517b090a-2e73-4c68-aad4-180d1350b369
+"Nov 07, 2024",Medellín,Tablet-Mini-8GB,700.01,3,2100.03,Jaime G√≥mez,cabreraleonel@yahoo.com,8204039a-5541-4976-bc5b-19da90d1ecf0
+10/15/2024,Ciudad de M√©xico,Tablet-Pro-4GB,1909.2,3,5727.6,Sandra Marisol Vergara,casarezminerva@yahoo.com,03d8d67d-53e4-43e8-bd00-72801ff4e987
+"Oct 10, 2024",Tulum,Laptop-Gaming-32GB,981.62,5,4908.1,Julio C√©sar Fernando Cordero,fmontalvo@gmail.com,fd56654c-43c9-4016-8183-cbdf6b382ba6
+11/20/2024,Guadalajara,Laptop-Ultraliviana-8GB,210.76,5,1053.8,Abril R√≠os,acevedobruno@gmail.com,8429854b-a406-4cf2-9cdd-ed466b843f6e
+10/19/2024,Cali,Auriculares-Con cable-32GB,713.75,3,2141.25,Alfredo Cintr√≥n,felicianoirene@gmail.com,298b36d0-dae0-4465-94e0-f5a242f44bd5
+12/05/2024,Monterrey,Tablet-Mini-16GB,1005.46,5,5027.3,Hern√°n Rael,omarin@grupo.info,ce0567fa-7e48-43a0-a5b7-07aa5cc439d0
+26/12/2024,Medellín,Laptop-Ultraliviana-8GB,208.54,2,417.08,Cristobal Germ√°n Razo Montenegro,isaac14@yahoo.com,6152d019-c240-4dd1-adb5-1811f3729839
+12/04/2024,Cali,Tablet-Pro-16GB,1902.94,4,7611.76,Laura B√°ez,ivonnearmendariz@club.com,7a27100e-236d-45f0-952e-b7c838d737a2
+"Oct 30, 2024",Cali,Teléfono-Gama alta-32GB,2317.48,1,2317.48,Elsa Alonso Rivera,ulucero@gmail.com,656f3966-abb8-497a-981c-4e2bec529c24
+11/02/2024,Bogotá,Tablet-Pro-4GB,1522.98,1,1522.98,Jer√≥nimo Julia Peralta,mireleshector@vigil.com,c499769d-908e-43f6-bd30-c1817bd0deff
+"Dec 31, 2024",Guadalajara,Teléfono-Gama alta-32GB,807.96,2,1615.92,Olivia Cristobal Oquendo Nieves,vquesada@grupo.com,99a8722a-ede3-4080-9d85-450687f17be6
+24/11/2024,Cali,Tablet-Estándar-32GB,761.94,4,3047.76,Wilfrido Evelio Marrero Sotelo,polancoalejandro@centeno-mata.info,8c7eb2e6-d1ab-4158-93c5-a214d07681c6
+"Oct 05, 2024",Monterrey,Auriculares-Con cable-8GB,1898.32,4,7593.28,Daniela Padr√≥n,dromero@industrias.info,14722e2a-7971-43ee-ac45-587157e6f198
+11/20/2024,Medellín,Tablet-Estándar-32GB,1145.32,1,1145.32,Lic. Andrea Altamirano,bustossandra@gmail.com,df7faa34-7de9-48f0-8ba1-2897a5b1e8fd
+12/09/2024,Guadalajara,Laptop-Ultraliviana-4GB,1865.55,2,3731.1,Norma Celia Leiva Ba√±uelos,fridalopez@mena.com,a487c1e9-95f4-4b1d-b9e1-8ce364aaa62c
+11/06/2024,Medellín,Teléfono-Gama alta-4GB,949.27,2,1898.54,Esparta Gracia,leonorbermudez@nieves.info,7d131cdc-d20b-4dba-ba8c-67f9adbbcf3b
+"Dec 21, 2024",Monterrey,Laptop-Oficina-32GB,1944.73,4,7778.92,Jos Mariana Cano,oraya@laboratorios.com,f2788526-390a-447d-aadf-5ad11ba53e76
+10/20/2024,Ciudad de M√©xico,Tablet-Estándar-8GB,1956,5,9780,Nadia Fernando Guerra Arroyo,zedilloamador@yahoo.com,78bdd5ec-2c8a-49c9-918e-bfe3147b65c3
+11/23/2024,Ciudad de M√©xico,Tablet-Mini-8GB,1848.95,3,5546.85,Berta Tania M√©ndez Lebr√≥n,clozada@vela.biz,569d9a75-753b-41b8-9540-1368ec0acbe5
+12/16/2024,Cali,Teléfono-Gama alta-16GB,814.63,1,814.63,Germ√°n Crespo Leyva,pamela15@yahoo.com,0514f6bb-c61e-409d-8985-bc35bb86f4af
+"Oct 14, 2024",Bogotá,Laptop-Ultraliviana-16GB,120.94,3,,Esmeralda Ba√±uelos,gdel-rio@proyectos.biz,4a70ae74-59ef-4f8f-98ee-d8fff858e22d
+10/30/2024,Guadalajara,Tablet-Mini-8GB,797.71,1,797.71,Concepci√≥n Isabel Becerra del Valle,rubencanales@hotmail.com,a98bfa4e-dd81-401d-b806-a98b5c514056
+11/08/2024,Cali,Teléfono-Gama media-4GB,762.46,1,762.46,Miguel Luis Gir√≥n Monta√±ez,saucedaconcepcion@hotmail.com,d59afe7f-49e3-483a-97f5-ce81f54d250f
+"Dec 26, 2024",Cali,Auriculares-Cancelaci√≥n de ruido-16GB,1794.09,5,8970.45,David Prado,fgamboa@yahoo.com,86dddca7-94b8-407d-9b43-bb0906ba81e6
+12/01/2024,Ciudad de M√©xico,Laptop-Oficina-4GB,157.89,1,157.89,Sr(a). Jos Venegas,qguajardo@gmail.com,f6a5ccaa-f8db-4293-9b11-932f3470afdf
+"Nov 03, 2024",Guadalajara,Teléfono-Gama baja-32GB,642.49,4,2569.96,Antonio Juana Soria,israel13@aviles.biz,8dbce9a8-4e8c-41c7-a836-12fe71b7ad0a
+10/17/2024,Ciudad de M√©xico,Auriculares-Bluetooth-8GB,798.65,1,798.65,Rufino Lucero Urrutia,ncastaneda@rico.com,f34bc8a2-d539-45c5-a4cb-e23ab3ad1bf9
+11/18/2024,Guadalajara,Auriculares-Cancelaci√≥n de ruido-16GB,1533.19,4,6132.76,Jaqueline Vel√°squez Hidalgo,oquendoyeni@gmail.com,0bbe7dc7-b837-4dff-83eb-a691bf3d9337
+12/12/2024,Ciudad de M√©xico,Laptop-Oficina-32GB,1247.13,5,6235.65,Abigail Mayorga,elviraalva@sandoval.net,48f1f9b2-e5c3-45db-9c35-dba3af2b3e37
+"Oct 22, 2024",CIUDAD DE M√âXICO,Teléfono-Gama baja-32GB,1988,2,3976,Indira Eric Renter√≠a Vel√°zquez,fduran@arredondo.com,56137b69-5c0a-49a2-bc0e-cd99b52af4b9
+12/27/2024,Cali,Teléfono-Gama alta-4GB,1923.56,4,7694.24,Leonor Cristina Concepci√≥n,murocynthia@club.info,c6ebe95f-880f-4175-b857-173d436e2753
+11/09/2024,MEDELL√çN,Auriculares-Cancelación de ruido-4GB,1112.81,1,1112.81,Sr(a). √Ångela Navarro,olivertejada@hotmail.com,bfb5f658-102d-4d01-bec2-1f4cced1bbef
+"Dec 04, 2024",Guadalajara,Auriculares-Con cable-4GB,2281.58,1,2281.58,Mateo Ra√∫l Sosa Arreola,asuncionquintero@hotmail.com,25b223d6-04b8-478f-9246-79edbe8738eb
+10/12/2024,Ciudad de M√©xico,Laptop-Gaming-8GB,2095.66,5,10478.3,Irene Dom√≠nguez,estherpedroza@rojas-moya.info,2ad918fa-d68e-42ea-926c-414454fd8220
+"Nov 14, 2024",Guadalajara,Tablet-Pro-32GB,2064.2,1,2064.2,Jes√∫s Jim√≠nez,wadame@yahoo.com,437715f5-b663-4ceb-8e4d-01760b5c39e8
+12/06/2024,Medellín,Teléfono-Gama baja-8GB,1143.24,2,2286.48,Elias Dulce Figueroa,ycabrera@yahoo.com,261f24e0-0c30-40fa-92d3-3c013d335e1f
+"Nov 12, 2024",Bogotá. ,Laptop-Oficina-32GB,2333.72,2,4667.44,Ad√°n Perla Orosco,estebanespinal@hotmail.com,61cc0a01-493f-48a6-8973-8cc3bf69bd4b
+10/28/2024,Guadalajara,Teléfono-Gama alta-4GB,1537.12,2,3074.24,Eric Lorenzo Raya,francisco-javier56@gmail.com,699048e6-5415-4dd4-ada9-8e6e4a549eb2
+"Oct 20, 2024",Cali,Tablet-Pro-8GB,2224.57,5,11122.85,Abraham Loera Mondrag√≥n,rosaliapizarro@narvaez.com,05462222-2134-4569-8058-16e2b626c19b
+11/02/2024,Guadalajara,Auriculares-Bluetooth-4GB,1688.92,5,8444.6,Sr(a). Vicente Ure√±a,lsalas@grupo.org,1c44a1fd-cb0c-401e-8e21-c1a8d9242148
+12/19/2024,Bogotá,Laptop-Ultraliviana-16GB,1575.85,2,3151.7,Caridad Ojeda,xlozano@godoy.com,636e2a36-d8c0-4ac8-b15e-52b5f9b2507b
+"Oct 30, 2024",Medellín,Auriculares-Bluetooth-8GB,1861,5,9305,Zo√© Claudia Barraza Cornejo,elvirasepulveda@corporacin.com,3341556d-8dc1-42f2-b455-3a339ff909cd
+10/07/2024,Guadalajara,Auriculares-Bluetooth-4GB,62.73,3,188.19,Elisa Soria,guillerminacorral@yahoo.com,eb72415a-2fdb-436d-a740-aa38fe92dba8
+"Dec 11, 2024",Medellín,Tablet-Mini-32GB,1332.48,5,6662.4,Margarita Olivas,trujillosantiago@club.com,82c801f7-86fa-465e-b47e-1a2faca2409f
+12/17/2024,Cali,Auriculares-Cancelación de ruido-32GB,1771.25,4,7085,Paulina Peres Carmona,granadobernabe@yahoo.com,df271a81-4486-42c3-b66a-88accdba843d
+"Nov 27, 2024",Monterrey,Laptop-Gaming-4GB,788.6,4,3154.4,Blanca Galarza,del-vallenatividad@zuniga-carrasco.com,67b79c05-b522-4593-8812-0d7f9fe8aead
+10/11/2024,Medellín,Tablet-Estándar-16GB,591.94,2,1183.88,Eloy Godoy del R√≠o,kveliz@gmail.com,7ac1b8fd-c88f-4033-9061-4a7613449273
+"Dec 01, 2024",Bogotá,Auriculares-Cancelaci√≥n de ruido-16GB,2060.35,3,6181.05,Ana Mar√≠a Verdugo Pichardo,epaez@yahoo.com,1cc3a12d-c04b-4839-a053-31d0fce65570
+11/26/2024,Medellín,Tablet-Mini-4GB,324.09,2,648.18,Diana Garza Alfaro,igalvez@teran-pizarro.net,fd7d838f-61fb-4072-8a90-c3d1b393f61b
+"Oct 09, 2024",Cali,Tablet-Mini-32GB,525.13,2,1050.26,Ing. Mar√≠a Jos√© Noriega,victor38@industrias.com,55a4140a-ad3c-4b67-9d33-7eb275fe9440
+"Dec 09, 2024",Guadalajara,Tablet-Estándar-16GB,787.78,3,2363.34,Timoteo Cynthia Cordero,hugocedillo@gmail.com,b5d4423c-9255-4859-8feb-44a8655b46a4
+10/23/2024,Monterrey,Tablet-Pro-8GB,1242.34,5,6211.7,C√©sar Barrera Orta,floresleonor@salcido-barrientos.info,16c09f74-0932-405b-8587-0165634b10b3
+10/23/2024,Guadalajara,Laptop-Gaming-4GB,1657.62,4,6630.48,Jacobo Ad√°n Aparicio Tejada,indira44@maya.biz,6bbde35c-e30d-4e24-884b-5b00ccf47e4b
+5/12/2024,Medellín,Auriculares-Cancelación de ruido-8GB ,780.24,3,2340.72,Clemente Irene Carrera,trejoeugenia@yahoo.com,544cee72-594a-4c94-8dc6-243ba049fe28
+10/28/2024,Ciudad de M√©xico,Tablet-Estándar-16GB,1832.39,4,7329.56,Jos√© Carlos Soledad Osorio Rodr√≠gez,daliavillagomez@gmail.com,ff0b4f20-17ed-4610-9fc5-30d4da7e79e4
+12/16/2024,Medellín,Teléfono-Gama alta-16GB,205.57,5,1027.85,Salma Andr√©s Monta√±ez,anel13@yahoo.com,3b41356a-51cc-450b-9098-9b6959c32336
+11/27/2024,Medellín,Teléfono-Gama media-32GB,1219.75,2,2439.5,Dr. Isabela Amador,maria-teresa56@valle.com,2a1cc810-f23f-44be-ad5d-2c2061de3b67
+8/10/2024,Bogotá,Laptop-Oficina-16GB,1126.91,3,3380.73,Cristal de la O Tovar,de-la-cruzarturo@yahoo.com,9d884542-5d01-4a57-bd22-ce173740036f
+10/14/2024,Medellín,Tablet-Mini-8GB,1950.45,4,7801.8,Ang√©lica Bueno Olvera,bernabe37@despacho.com,9ffc235a-1e2b-44c3-80ec-61b7a7d4cbc5
+7/12/2024,Ciudad de M√©xico,Auriculares-Bluetooth-4GB,1940.18,3,5820.54,Salvador Berr√≠os Preciado,elviragodoy@yahoo.com,e387b8f5-c2cb-4dfe-a9c5-5747a0bf2ba4
+11/29/2024,Guadalajara,Tablet-Pro-32GB,251.95,5,1259.75,Blanca Gabriela Arenas,ltapia@hotmail.com,53cd2e8b-92e5-4411-a0ca-9f936ff0be49
+4/12/2024,Monterrey,Laptop-Oficina-4GB,1378.81,3,4136.43,Arcelia Victoria Ferrer,wcastillo@gmail.com,5a679e4d-2017-44f1-8c69-308bd963826c
+10/12/2024,Guadalajara,Tablet-Estándar-16GB,2215.63,3,6646.89,Mar√≠a Cristina Valdivia Mondrag√≥n,porfirio68@corporacin.biz,9fc06fba-9376-4e96-97f1-0aeca2f00a87
+7/10/2024,Bogotá,Auriculares-Bluetooth-16GB,1967.19,2,3934.38,Lic. Luis Miguel Lerma,aldo50@hotmail.com,19e94e09-d952-49ce-b5b6-95c649d995d4
+10/12/2024,Bogotá,Tablet-Estándar-4GB,2395.85,4,9583.4,Diego Fern√°ndez,sessa76@casarez.com,d1068262-a372-42f4-b5e9-48fa9a84b933
+"Aug 5, 2024",Monterrey,Auriculares-Con cable-4GB,809.92,4,3239.68,Luisa Dom√≠nguez Ocampo,calderonblanca@candelaria-figueroa.biz,7c0a6b67-d03e-4b5f-95bc-b0d715cb90f0
+10/29/2024,Medellín,Laptop-Ultraliviana-4GB,1156.44,1,1156.44,Victoria Cabrera Armenta,blancaromero@armenta-murillo.com,bfe71cbd-5340-41ca-b9f4-c5301c10428f
+10/25/2024,Cali,Tablet-Mini-16GB,1062.11,2,2124.22,Germ√°n Corral,eloy50@despacho.com,87c5ffd3-6c28-4101-af3b-154ff4ae6392
+12/23/2024,Monterrey,Tablet-Pro-32GB,784.39,1,784.39,Liliana Altamirano Solano,caraballosocorro@grupo.com,20d27746-91f7-427d-9e21-02ca06d5e5c3
+12/21/2024,Cali,Teléfono-Gama alta-8GB,1459.53,1,1459.53,Ana Luisa Araceli de la Cr√∫z,jimenezirma@vega-mena.com,720e7c71-4c87-47e1-b24a-7f8c021bc9a3
+11/10/2024,Monterrey,Laptop-Ultraliviana-32GB,1668.3,2,3336.6,Ing. Blanca Alfaro,jaime62@industrias.com,850ed2df-b6ba-4845-90f3-4d82ffd954aa
+2/12/2024,Guadalajara,Tablet-Estándar-16GB,563.73,1,563.73,Cornelio Jos√© Manu√©l Ure√±a Cazares,oquintero@yahoo.com,08269db4-0566-4ede-ba0a-3261c90dd7cc
+12/29/2024,Guadalajara,Laptop-Oficina-16GB,2209.08,2,4418.16,Dr. Ariadna de Jes√∫s,monica51@gmail.com,2394f979-8464-44ce-a630-ae28dbf2d042
+11/29/2024,Ciudad de M√©xico,Auriculares-Con cable-16GB,568.57,3,1705.71,Natividad Fernando Gast√©lum,ibarraza@hotmail.com,30a44076-ebcc-4c8b-8064-9e1a18718512
+11/28/2024,Bogotá,Tablet-Estándar-16GB,1795.59,5,8977.95,Sr(a). Armando Carre√≥n,del-vallejorge@paz.biz,018fc11e-35bf-41a6-9c2e-0fe1cb9dcb9b
+10/12/2024,Guadalajara,Laptop-Oficina-32GB,883.61,2,1767.22,Dolores Jes√∫s Qui√±√≥nez Lebr√≥n,nicolas17@gmail.com,5c299656-4419-4c69-bdd2-2dc9b8af337b
+12/13/2024,Monterrey.  ,Teléfono-Gama alta-4GB,1566.36,5,7831.8,Isabela Mario Vigil Colunga,wde-la-rosa@club.com,ddd463db-888b-4ab8-b2a7-396cacbc0f7c
+11/18/2024,Monterrey,Auriculares-Con cable-32GB,1141.13,3,3423.39,Paulina Cornejo,mballesteros@escamilla-aguayo.info,c0e13eaa-0352-4ecd-87d9-f5acfcbb40df
+8/12/2024,Ciudad de M√©xico,Teléfono-Gama baja-4GB,1614.05,5,8070.25,Wilfrido Jorge Portillo Roque,carlotaarevalo@hotmail.com,a2415cd2-e7d5-4a04-aa89-a0821ac995b6
+12/17/2024,Cali,Tablet-Mini-8GB,1865.58,2,3731.16,Agust√≠n Montemayor Escobedo,mojicajudith@sauceda-mendez.com,d1dd5a1a-3f08-4909-b8b0-04384056d29b
+"Nov 10, 2024",Monterrey,Auriculares-Con cable-32GB,1585.75,5,7928.75,Roc√≠o Jos√© Luis Villareal Vargas,ramon28@gmail.com,5c84518e-8046-4ee0-802c-5c7e6eafa4c6
+11/29/2024,Monterrey,Laptop-Gaming-4GB ,1491.36,2,2982.72,V√≠ctor Anguiano,felipede-la-rosa@arredondo-hinojosa.net,74e91e22-a440-4514-996c-da314a1c94c0
+12/14/2024,Medellín,Laptop-Gaming-8GB,516.02,4,2064.08,Ernesto Quezada,qcastellanos@partida-valles.com,89cde298-9d2d-459e-ac2a-33f1db2b8db1
+12/12/2024,Monterrey,Tablet-Pro-32GB,153.47,3,460.41,Gilberto Hern√°n Murillo,lgracia@corporacin.com,39f5457f-dcd1-4ade-baf5-0b5ac2798271
+9/11/2024,Guadalajara,Auriculares-Bluetooth-8GB,107.98,2,215.96,Perla Villase√±or Holgu√≠n,jaquelineguerrero@hotmail.com,cc9e3eb1-75ac-43c1-9836-fb3698df70e0
+12/24/2024,Cali,Teléfono-Gama alta-8GB,2441.7,2,4883.4,Carolina Clara Cotto,tamezjacinto@bravo.info,9d189c13-ff1e-411f-93d3-ee251f727785
+10/24/2024,Cali,Tablet-Pro-4GB,785.65,1,785.65,Tania Jos√© Salcedo,german49@yahoo.com,7c83c051-cdef-4ee9-99b8-ab628e7e0137
+11/10/2024,Monterrey,Laptop-Gaming-4GB,229.33,4,917.32,Ing. Cristina Gamez,jose-luis02@hotmail.com,4bf38add-780a-44cc-839a-27eadcf0009e
+4/11/2024,Guadalajara,Laptop-Oficina-32GB,1345.66,2,2691.32,Ernesto de la Fuente Lozano,zcarrasco@ornelas.net,b286124b-1bcf-484f-92a1-6fc89c6f74ee
+10/16/2024,Monterrey,Tablet-Pro-32GB,1805.81,3,5417.43,Lic. Abraham Guillen,delgadogabino@hotmail.com,0a037e7f-e874-4665-a3e4-734c560a30f9
+9/11/2024,Guadalajara,Auriculares-Bluetooth-32GB,1363.76,4,5455.04,Dr. Eloisa Ballesteros,concepcionnicolas@laboratorios.net,8a9c117c-0931-4ed8-9d8f-3a5c2d9c904f
+12/18/2024,Monterrey,Teléfono-Gama alta-16GB,1405.61,5,7028.05,Hugo Orellana Aguilera,luztejeda@carrion.biz,e2689eed-d7a5-4b39-a1e0-7b6894376ce5
+11/12/2024,Medellín,Auriculares-Con cable-32GB,100.98,3,302.94,Ing. Fernando Calder√≥n,cristinaarguello@del.info,0877fac4-86db-45ad-94c8-6b0e1624953f
+12/29/2024,Bogotá,Teléfono-Gama baja-4GB,401.92,3,1205.76,Jorge Luis Blanca Regalado Mora,horaciourrutia@saucedo.com,cce81a35-f0aa-40e7-a33d-43e447f74b34
+11/18/2024,Bogotá,Laptop-Ultraliviana-8GB,890.76,2,1781.52,Gerardo Elisa Franco,nzapata@yahoo.com,50041cfa-9dbe-4a33-855e-dfc293e0392e
+12/29/2024,Bogotá,Tel√©fono-Gama media-8GB,989.79,5,4948.95,Beatriz Virginia Duarte Flores,lmaldonado@yahoo.com,d2226fcc-944b-4300-a358-816d2b168c5f
+11/16/2024,Ciudad de M√©xico,Tablet-Estándar-4GB,1137.01,3,3411.03,Lic. Arturo Barraza,nbarraza@yahoo.com,0a5787f4-b611-4db3-9a36-d6bd45f0ce8e
+12/11/2024,Bogotá,Tablet-Pro-16GB,273.29,5,1366.45,Nicol√°s Mart√≠n B√°ez,alfredosamaniego@grupo.info,3be08974-31f2-40c3-afb9-3a240fd500b5
+5/12/2024,Ciudad de M√©xico,Tel√©fono-Gama media-8GB,233.33,3,699.99,Yuridia Nayeli Armas Arag√≥n,amadorana-maria@yahoo.com,9b9cbe9b-905b-4b17-a60a-f42b5800d911
+12/25/2024,Cali,Auriculares-Con cable-16GB,228.56,3,685.68,Esteban Jos√© Emilio Polanco Valent√≠n,ariastrinidad@despacho.com,7c10c6c6-9acd-42a2-b74c-041e173a74ff
+10/12/2024,Cali,Auriculares-Bluetooth-32GB,1277.75,1,1277.75,Karina Jer√≥nimo P√©rez Mojica,mauro20@urrutia.net,581770ae-84a5-4fc3-ba77-826c11cb3e70
+11/28/2024,Ciudad de M√©xico,Auriculares-Cancelación de ruido-8GB,2087.73,1,,In√©s Griego Lemus,de-andavicente@robles.com,14ad0f9b-ea8e-437c-b3d9-d3b4ddd90518
+10/17/2024,Monterrey,Teléfono-Gama media-32GB,1937.4,2,3874.8,Fabiola Ang√©lica Bravo,correaestefania@yahoo.com,76fde716-641c-4ff4-848c-ade7a38970de
+11/24/2024,Monterrey,Laptop-Oficina-4GB,1628.77,4,6515.08,Nadia P√©rez Medina,eduardo52@grupo.info,a5740e45-38d1-421a-8d38-8a6d427463c6
+10/24/2024,Medellín,Teléfono-Gama media-16GB,747.11,5,3735.55,Ignacio Leonor Guajardo,florenciaescamilla@industrias.com,2ecd07a3-c49e-486f-a9f0-9a7b1dc20737
+11/10/2024,Bogotá,Auriculares-Bluetooth-16GB,596.93,5,2984.65,Mtro. Zeferino Oquendo,lbarajas@alva-montalvo.com,8a06b4fc-26f2-4b8b-827b-2c6a1f537edf
+3/11/2024,Monterrey,Auriculares-Con cable-8GB,1691.93,1,1691.93,Hern√°n Samuel Col√≥n,xapodaca@proyectos.com,ca1cb20b-c27e-4a80-abe5-5c61f19ada3a
+7/12/2024,Bogotá,Laptop-Gaming-32GB,2043.06,2,4086.12,Evelio Luz Herrera Melgar,parchuleta@corporacin.com,2198c786-f1c8-4272-9619-35fe62fbf3c5
+"Nov 5, 2024",Tulum,Laptop-Gaming-16GB,808.32,4,3233.28,Eloisa Octavio Quintero,griegomonica@yahoo.com,80c340bc-bd50-477d-a7dc-27237bf10b22
+10/14/2024,Bogotá,Teléfono-Gama media-4GB,2092.55,5,10462.75,Roberto Cas√°rez Lozada,granadosaraceli@proyectos.net,890c4fe3-a2aa-473b-a2ff-9c2704d3ac14
+12/16/2024,Medellín,Teléfono-Gama media-4GB,785.82,2,1571.64,Cynthia Oswaldo Olvera,carbajaldulce-maria@club.info,496f9895-2148-475d-9da8-8846db1a0d2e
+11/27/2024,Monterrey,Tablet-Estándar-8GB,2014.33,4,8057.32,Iv√°n Fuentes Fierro,indiraarroyo@gmail.com,94019fc0-5f8a-4f46-b07d-b18f9ed2fb2d
+10/24/2024,Ciudad de M√©xico,Tablet-Estándar-8GB,1030.99,1,1030.99,Ing. Vanesa Bustos,ccintron@gmail.com,7973d01c-f337-48a1-8f89-e3be9acd41ae
+12/26/2024,Ciudad de M√©xico,Tablet-Estándar-16GB,658.24,3,1974.72,Patricia Candelaria Ram√≥n,maria-del-carmen56@alonzo.com,791a6835-1e53-4dab-9537-f28d07071087
+12/21/2024,MONTERREY,Auriculares-Cancelación de ruido-4GB,1019.73,2,2039.46,Dr. Evelio Rosario,xreyna@yahoo.com,c6fe3646-36da-4379-b9d4-1237b3932c67
+11/26/2024,Cali,Tablet-Pro-8GB,664.21,1,664.21,Silvano Alvaro Enr√≠quez Pineda,gonzalocarrero@proyectos.com,9643a7f2-7f1e-4f3a-b67a-e4db4ac513f7
+11/18/2024,Monterrey,Auriculares-Cancelación de ruido-32GB,1307.54,1,1307.54,Uriel Jos√© Mar√≠a Mercado,sevillaemiliano@yahoo.com,7d923bc2-e260-42ce-af34-40f80a5bb97e
+4/10/2024,Cali,Auriculares-Cancelación de ruido-8GB,1711.63,4,6846.52,Lic. Mar√≠a Jos√© Carrera,manuelhinojosa@yahoo.com,7fdbc1e6-947e-4174-a90b-3e6fa8d1770d
+12/21/2024,Ciudad de M√©xico,Teléfono-Gama baja-32GB,1670.11,3,5010.33,Sr(a). Genaro Paz,esmeraldadavila@laureano.net,b8257a06-d0a6-4198-b8a6-7c4130b98420
+11/11/2024,Bogotá,Laptop-Oficina-32GB,1492.73,5,7463.65,Eva Julio Corrales,ilebron@yahoo.com,d8feecfb-981d-4008-b113-8a7aba34e4b1
+3/11/2024,Guadalajara,Laptop-Oficina-32GB,617.79,3,1853.37,Ana Mar√≠a Cruz Montero,ialvarado@yahoo.com,1bd0c57b-8184-4850-859c-b8ff7197c553
+5/12/2024,Bogotá,Teléfono-Gama baja-8GB,2211.26,3,6633.78,Lic. Nicol√°s Guevara,reynaldoruelas@garibay.com,ec13955e-4ae5-4e40-93e4-236b0eaab336
+12/08/2024,Monterrey,Tablet-Pro-16GB,1397.7,3,4193.1,Araceli Ulloa Blanco,flaviorivera@gmail.com,a5a9edd5-c2b3-4542-ac87-c882564547e6
+"Oct 01, 2024",Monterrey,Tablet-Estándar-8GB,1339.17,2,2678.34,Rebeca Salvador Gamez Garc√≠a,qcovarrubias@hotmail.com,53a9e98d-d57a-488e-bcec-701bc4e1ec3e
+10/13/2024,   Cali,Tablet-Mini-4GB,992.68,5,4963.4,Marcela P√°ez,gabrieljaime@club.com,e98e23f8-e415-4062-bdbb-4e90ecd252c4
+"Nov 01, 2024",Medellín,Auriculares-Bluetooth-16GB,2196.83,5,10984.15,Frida Alba,carmen91@gonzales.org,817537ef-9729-49a5-8458-d7108a639dab
+12/30/2024,Guadalajara,Tablet-Estándar-32GB,895.6,3,2686.8,Guillermina Otero,esmeraldaguajardo@yahoo.com,6b2a6d67-9ca9-4751-9892-59fbd4257856
+10/06/2024,Monterrey,Tablet-Estándar-8GB,1280.61,5,6403.05,Lic. Elena Zepeda,emiliovillegas@diaz-ulibarri.net,7424e9fb-eb47-4eb6-b0ee-330eb470b214
+12/13/2024,Medellín,Laptop-Oficina-32GB,288.64,1,288.64,Karina N√∫√±ez,laura43@yahoo.com,650656a9-a043-47bc-ae91-0380ba19f6d1
+11/05/2024,Ciudad de M√©xico,Teléfono-Gama alta-16GB,2092.87,4,8371.48,Reynaldo Dar√≠o Rivas,ynavarro@gmail.com,357c27a8-d03f-45e6-be30-3565ec6d4ff5
+"Oct 26, 2024",Bogotá,Auriculares-Con cable-4GB,1631.22,5,8156.1,Carmen Colunga,cesar12@hotmail.com,95e49e46-be39-496b-8a9b-52bd39505406
+12/25/2024,Cali,Tablet-Pro-32GB,1068.29,4,4273.16,Federico Alfaro,dmedina@gmail.com,b847cf15-a430-4067-b4ba-2bca14b1ebd1
+11/16/2024,Cali,Teléfono-Gama alta-8GB,1216.59,3,3649.77,Mtro. Andrea R√≠os,ujasso@abreu-crespo.info,c433376a-096b-4d0c-b385-da369f628996
+12/07/2024,Cali,Laptop-Oficina-32GB,979.2,5,4896,Eugenia Zambrano Casas,esteban25@hotmail.com,ae03b614-5581-49d6-bb73-db61d22a7b6c
+11/24/2024,Ciudad de M√©xico,Auriculares-Bluetooth-32GB,1752.21,4,7008.84,Jos√© Luis Ana Mar√≠a Robledo Cort√©s,liliana23@despacho.com,055f940c-62c7-485e-a8a9-6e6970c4bd9d
+"Oct 15, 2024",Ciudad de M√©xico,Tablet-Estándar-32GB,2381.87,1,2381.87,Sr(a). Julio C√©sar Collazo,angel71@rincon-perea.com,be245970-0c63-4d78-ae9d-e25f66cad9cf
+12/29/2024,Bogotá,Teléfono-Gama alta-4GB,173.98,4,695.92,Lic. Jorge Alva,felipe48@proyectos.com,d4d30727-21e7-45cf-abfd-68611006864c
+11/21/2024,Bogotá,Tablet-Mini-4GB,1987.27,3,5961.81,Norma Gast√©lum Est√©vez,qde-la-garza@alejandro.info,7ca60689-ffdb-4ad9-b339-4085c13dfc70
+10/24/2024,Guadalajara,Laptop-Oficina-8GB,486.27,5,2431.35,√örsula Guardado,pradooctavio@yahoo.com,36046905-c325-4177-8dd6-ef3a3eefbe09
+"Dec 17, 2024",Bogotá,Laptop-Oficina-32GB,1615.07,3,4845.21,Patricio Citlali Rico Jurado,pvalencia@marin.com,55359418-5f6c-4f2b-9e70-525bf3b5c143
+12/03/2024,Ciudad de M√©xico,Auriculares-Con cable-8GB,1464.04,4,5856.16,Marisol Ver√≥nica Vel√°squez,lilianaamaya@rangel.com,c331b5bf-7dc0-44f3-bbc6-33242970d6bd
+10/18/2024,Monterrey,Laptop-Ultraliviana-8GB,1612.96,1,1612.96,Jos√© Luis Alarc√≥n,maximiliano11@garrido.com,0d3db73a-8164-4ea7-82ec-bc976d02b86a
+11/19/2024,Ciudad de M√©xico,Auriculares-Cancelaci√≥n de ruido-16GB,920.68,3,2762.04,Jer√≥nimo Evelio Serrano Almonte,rmireles@hotmail.com,5adc0581-cda3-450e-9af3-c3c10c954910
+"Oct 23, 2024",Medellín,Auriculares-Con cable-32GB,499.22,3,1497.66,C√©sar Fabiola Palacios,jose-emiliogamboa@laboratorios.biz,0e28ad98-fe18-44a9-9a89-466a166843e3
+11/10/2024,Ciudad de M√©xico,Teléfono-Gama alta-4GB,1650.53,1,1650.53,Julio Fuentes,vnavarro@gmail.com,36de6ea0-d38c-4032-a4ab-885c917e6447
+10/16/2024,Guadalajara,Tablet-Mini-16GB,1112.48,2,2224.96,Sr(a). Aurelio Lemus,garaymarco-antonio@gmail.com,9cba1b15-28fd-439f-af54-d9a1bf7128b0
+"Dec 24, 2024",Bogotá,Tablet-Estándar-4GB,366.39,4,1465.56,H√©ctor Jos√© Luis Vaca,ignaciocandelaria@merino.com,a244bdbd-1394-4bdb-bbc3-e6fc452874c4
+12/04/2024,Medellín,Auriculares-Bluetooth-32GB,1019.3,4,4077.2,Aldo Fonseca,dpolanco@industrias.com,8ccc7ee3-b4a6-404a-9faf-787343dc06f2
+11/14/2024,Ciudad de M√©xico,Teléfono-Gama media-4GB,1152.44,5,5762.2,Ing. Abraham Gir√≥n,socorrodel-valle@gmail.com,fe56b9b6-8658-46ab-b178-142e1c6c32ec
+"Dec 06, 2024",Monterrey,Laptop-Ultraliviana-32GB,,1,1955.27,Cristal Leticia Varela Soliz,marisoldiaz@gmail.com,bc41d301-8342-4b13-a0a6-0094760ae37b
+10/21/2024,Tulum,Laptop-Ultraliviana-8GB,1807.14,5,9035.7,Octavio Santacruz Lucero,marisoldominguez@yahoo.com,4473af02-2d6e-42ae-8fd6-1e6eb2b0c846
+"Nov 22, 2024",Medellín,Teléfono-Gama alta-4GB,1175.45,5,5877.25,Dr. Abel Salcedo,marisoltijerina@gmail.com,38bac1f5-8a77-4803-a105-2adcca972ed6
+12/14/2024,Bogotá,Laptop-Ultraliviana-32GB,177.74,4,710.96,Abraham Israel Cort√©s Gait√°n,maria-luisacaraballo@garcia-betancourt.com,e14300c1-3569-475f-a547-4c787f5cf604
+"Dec 16, 2024",CIUDAD DE M√âXICO,Auriculares-Bluetooth-8GB,1220.85,1,1220.85,Amador √ìscar Orellana,rojohector@gmail.com,f10d3d99-9f63-4b93-a89a-94e952ffcf1c
+10/17/2024,Medellín,Laptop-Oficina-32GB,1866.74,4,7466.96,Lourdes Godoy Ni√±o,prietowendolin@abrego-mares.com,8cfb7643-588b-4ac4-8843-ef2886b4bbea
+"Oct 25, 2024",Ciudad de M√©xico,Teléfono-Gama baja-4GB,1363.09,5,6815.45,Germ√°n Le√≥n,xespinosa@maestas-zambrano.org,d4f65876-1ffb-4376-ac69-30bc4a1f11d5
+"Nov 09, 2024",Medellín,Teléfono-Gama alta-32GB,720.63,1,720.63,Sergio Hugo Benav√≠dez Garc√≠a,jaquezesteban@gmail.com,c100b479-c169-4f62-8d2a-82994a8ef0fa
+12/23/2024,Guadalajara,Teléfono-Gama alta-16GB,1719.53,2,3439.06,Alejandro Rodrigo Guillen Paredes,mitzynevarez@barrientos-roque.com,cb2352c0-8796-4ebd-84d7-33203546a4cb
+"Oct 19, 2024",Monterrey,Teléfono-Gama alta-4GB,2484.74,5,12423.7,Daniel Campos,jossolorzano@berrios.info,826d9505-bc85-407f-95a3-b12b5fe5566b
+11/12/2024,Guadalajara,Tablet-Estándar-4GB,2437.77,2,4875.54,Sr(a). Carla Nev√°rez,gregoriocervantes@hotmail.com,4e35c600-2a16-4f28-9de5-5ac2151674a5
+12/28/2024,Cali,Laptop-Oficina-32GB,702.77,3,2108.31,Armando M√≥nica Reyna,bravofrancisco@gmail.com,c29d00e9-6a9a-45f0-b194-a343ff209570
+"Oct 13, 2024",Guadalajara,Auriculares-Cancelaci√≥n de ruido-16GB,284.79,5,1423.95,Alta  Gracia Alicia Guzm√°n,rosasgabriela@gmail.com,88268205-0f39-4e9a-9353-1a9ee68c009c
+12/26/2024,Guadalajara,Tablet-Mini-32GB,824.79,4,3299.16,Marcos Alba Becerra,emiliano63@gmail.com,1d0dc58b-5630-4061-a4c4-8af444dd978f
+"Nov 30, 2024",Ciudad de M√©xico,Laptop-Gaming-32GB,616.36,4,2465.44,Ing. Georgina Preciado,jmacias@salazar.com,fa63cc57-bb9c-4785-aff8-0c7c326b44bd
+12/20/2024,Monterrey,Teléfono-Gama alta-8GB,1501.95,2,3003.9,Yuridia Riojas Cotto,nvaladez@yahoo.com,c7ef43ee-8690-4aa4-9f03-8c8f2d905b35
+"Oct 11, 2024",Monterrey,Auriculares-Bluetooth-4GB,1429.89,4,5719.56,Luis Manuel Ilse Apodaca,ilse56@tapia-zavala.com,a1cb1e10-0e31-479a-b8bb-5dc909b32b66
+"Nov 08, 2024",Monterrey,Auriculares-Cancelación de ruido-4GB,1662.81,5,8314.05,Karla Berr√≠os,tmontoya@gmail.com,34e4f422-3bd5-496a-af08-11ecf5856460
+12/05/2024,Guadalajara,Auriculares-Cancelación de ruido-4GB,379.11,1,379.11,Esther Dur√°n,canalesgraciela@merino.net,302bfa8d-a0d2-49bf-ba0e-92515d5d4911
+"Nov 07, 2024",Cali,Auriculares-Cancelación de ruido-4GB,2242.24,1,2242.24,Camilo Terrazas Merino,julio-cesarrazo@hotmail.com,97a11539-f994-4f4b-9252-85c25f05e297
+"Dec 10, 2024",Bogotá,Tablet-Pro-16GB,1402.2,5,7011,Jacobo Centeno Vel√°zquez,ninosilvano@montano-rodriquez.com,495441f0-2d83-4d9c-aafc-5c80643ab7b5
+10/14/2024,Medellín,Tablet-Estándar-8GB,214.72,3,644.16,Dr. Pedro Zapata,ursulamenchaca@hotmail.com,7413d048-5e1b-4043-9969-89781ce744b0
+"Nov 20, 2024",Monterrey,Tablet-Pro-4GB,1017.27,1,1017.27,Dalia Sosa,monteroraul@yahoo.com,6b1218cd-9317-4016-8163-c9066aeb1992
+11/21/2024,Monterrey,Auriculares-Bluetooth-4GB,1640.14,5,8200.7,Gilberto Mascare√±as,toledojacobo@olivo.biz,54fb7e8c-ef1d-4daf-815b-e5c1e7948ed3
+11/17/2024,Cali,Auriculares-Con cable-32GB,793.37,2,1586.74,Diego Valdez,ana-marialomeli@santana.net,c9d412ed-c316-4612-a0d3-34580de6a8c0
+12/23/2024,Bogotá,Auriculares-Bluetooth-4GB,861.73,5,4308.65,In√©s Meza Campos,mariano56@gmail.com,42475c68-ebdf-44e9-8ae2-152388b5d345
+10/16/2024,Guadalajara,Tablet-Pro-16GB,2264.15,5,11320.75,Abel Emilio Robledo,trevinoisaac@hotmail.com,1a70ed1b-c3d7-4e03-b54a-3308b332ece5
+5/10/2024,Bogotá,Auriculares-Con cable-32GB,226.25,2,,Judith Jos√© Eduardo Zaragoza,gutierrezarturo@medina-vasquez.com,6a60671f-259c-41c8-b7d6-e1848e4ca004
+12/19/2024,Medellín,Tablet-Pro-8GB,720.31,3,2160.93,Elsa Alonso Almanza,felix81@madrid-samaniego.com,d7b9f594-a51e-4402-948d-437dc2679714
+11/19/2024,Medellín,Teléfono-Gama media-4GB,1620.89,3,4862.67,Isabel Quiroz,riverocynthia@laboratorios.org,9ed12598-d607-406c-a92d-66e498a65727
+"Nov 7, 2024",Bogotá,Tablet-Pro-8GB,1912.83,2,3825.66,Ram√≥n Godoy,yolanda26@montemayor.biz,e686ffbf-1106-4e80-9c74-30ed3ca60174
+11/28/2024,Monterrey,Laptop-Oficina-4GB,1168.3,3,3504.9,Santiago Perla Carrero,maderaoliver@yahoo.com,6a2ef805-75fa-4c53-b30f-57c35a82c2a4
+11/12/2024,Cali,Teléfono-Gama media-32GB,1281.78,3,3845.34,Eduardo Benav√≠dez Leal,mariana08@jurado.org,710a2493-760b-4c29-8181-ee456d867a10
+5/10/2024,Cali,Auriculares-Con cable-16GB,1656.61,3,4969.83,Pamela Dalia Hinojosa,matiasmiguel@gmail.com,402dc8b0-1539-48cc-8e45-054961cea52f
+11/17/2024,Cali,Tablet-Mini-32GB,2030.7,2,4061.4,Caridad Alvarado,geronimoalmonte@hotmail.com,0290472b-3bf5-4451-95ed-11349e543e25
+11/24/2024,Cali,Laptop-Oficina-16GB,649.99,2,1299.98,Ing. Bruno Miranda,villarealana-luisa@aviles.org,2a34b394-3a83-4acf-a98b-738080cc0de3
+10/15/2024,Medellín,Tablet-Mini-4GB,68,3,204,Mariana Jer√≥nimo Partida Tejeda,cristobal02@frias-mojica.biz,50843e6d-c79e-434b-87b9-c3050b4bcc8f
+10/23/2024,Guadalajara,Tablet-Pro-16GB,348.21,5,1741.05,Patricio Narv√°ez Holgu√≠n,tiradoberta@yahoo.com,467ff27d-c3d7-4928-bade-34474e2a754a
+12/11/2024,Monterrey,Tablet-Mini-32GB,782.8,2,1565.6,Ing. Jos√© Benav√≠dez,cejamarisol@proyectos.com,eb22a1ca-e765-4386-9637-b65cff10da6f
+11/13/2024,Ciudad de M√©xico,Tablet-Pro-32GB,2393.92,3,7181.76,Marcela Augusto Baca,luisromo@grupo.org,213520c6-9cb7-434b-bd54-ffac25a0f0c9
+6/12/2024,Medellín,Tel√©fono-Gama media-8GB,825.08,4,3300.32,Ivonne Olivia Cazares,nnegron@valles-ulloa.net,1d2a3f24-e05a-4249-8b6d-8695ae2cf4c0
+2/12/2024,Medellín,Auriculares-Con cable-32GB,2323.09,1,2323.09,Omar Alicia Mendoza Barrientos,jacobo82@gmail.com,67b34291-ecc9-476a-bf0b-8643f28dc5e3
+10/24/2024,Monterrey,Auriculares-Bluetooth-32GB,1518.43,5,7592.15,Esperanza Dom√≠nguez,eveliz@verdugo-covarrubias.com,159a0e2b-f468-4295-9e69-b0d9dd79d890
+3/11/2024,Medellín,Tablet-Mini-4GB,1779.15,5,8895.75,Salvador Bahena,marisela80@gmail.com,d7706a15-f812-457c-8d85-83d2a2d32412
+11/14/2024,Guadalajara,Auriculares-Con cable-32GB,1051.49,3,3154.47,Marisol Lucio Perea,helenanaranjo@roybal.org,43e6f253-5964-4977-b9a4-0e5736909a2d
+"Mar 09, 2024",Tulum,Laptop-Ultraliviana-16GB,1014.61,2,2029.22,Lic. Celia Madrid,canalesjose-maria@industrias.com,d316fe37-6f89-4145-b9d0-9c1a80acf0c5
+5/10/2024,Bogotá,Teléfono-Gama media-16GB,1745,5,8725,Sonia Nancy Burgos,israel86@hotmail.com,ffc0eaa2-dede-4a7c-951e-989249dddf91
+11/22/2024,Monterrey,Teléfono-Gama alta-4GB,1273.61,4,5094.44,Ernesto Cavazos,eloisaaragon@candelaria.org,1c737d8d-798a-48ec-948e-46c132c3393f
+6/10/2024,Monterrey,Tel√©fono-Gama media-8GB,1361.77,2,2723.54,Samuel Alonzo,hernandesjos@laboratorios.com,fc5fb02d-66ba-4eb7-8c96-53c743ac52e7
+12/15/2024,Monterrey,Teléfono-Gama baja-16GB,1710.52,2,3421.04,Rafa√©l Gerardo Serrato,ballesterosvioleta@gallardo-jiminez.biz,f778848a-1ec7-484b-a619-98ff8730961f
+11/26/2024,Ciudad de M√©xico,Auriculares-Cancelación de ruido-4GB,412.36,4,1649.44,Trinidad Holgu√≠n Bustamante,uarroyo@manzanares.biz,009ae06d-cf99-467d-9ca4-a01697f72e27
+8/10/2024,Cali,Tablet-Estándar-32GB,718.45,1,718.45,Ing. Rosa God√≠nez,eloytellez@badillo.com,c2fdb9cb-b220-4f3e-952f-61a657955f70
+11/16/2024,Bogotá,Laptop-Oficina-16GB,1141.88,5,5709.4,Alvaro Ontiveros,elvira02@hotmail.com,f04eeda0-c720-4430-b322-240c09bd8019
+7/12/2024,Bogotá,Tablet-Pro-32GB,345.81,3,1037.43,√Ångel Bruno Pe√±a Ulibarri,enriquepulido@yahoo.com,9929413b-4955-42b3-b759-d93919a6a2c6
+8/11/2024,Bogotá,Laptop-Gaming-4GB,1602.14,5,8010.7,Cecilia Abelardo Soto Quintana,mariselapalomo@gmail.com,36802342-00cd-4228-8e94-cc30c83b0652
+12/11/2024,Guadalajara,Auriculares-Con cable-4GB,1198.31,3,3594.93,Alma Paola Godoy,amadorzoe@proyectos.info,e9aad92b-b3bc-438a-9893-00066fab9810
+3/12/2024,Monterrey,Auriculares-Cancelación de ruido-4GB,633.09,3,1899.27,Sr(a). Marisol Mota,barbara08@hotmail.com,c7d6ecb9-b4e6-44ac-bf56-caf4c24db02f
+10/24/2024,Bogotá,Tablet-Pro-8GB,2100.84,5,10504.2,Sr(a). Carlota T√≥rrez,camilapuente@hotmail.com,32958c32-9158-41e9-a53a-1fc911df997a
+12/27/2024,Cali,Auriculares-Cancelación de ruido-4GB,2263.78,5,11318.9,Pamela Homero Arreola Godoy,carolina12@valdes.com,7a049296-c624-4bff-8f06-3b6b06011495
+10/20/2024,Tulum,Laptop-Ultraliviana-8GB,1840.11,1,1840.11,Mtro. Bianca Mayorga,maganafabiola@hinojosa-meraz.com,028c3012-bbb3-43aa-964f-69aba65f05aa
+4/10/2024,Ciudad de M√©xico,Auriculares-Con cable-4GB,2008.39,4,8033.56,Horacio Emilio Espinosa Padr√≥n,marcosarmendariz@yahoo.com,93adef20-4cdb-4207-bbba-d4412eb8840b
+11/13/2024,Monterrey,Auriculares-Con cable-32GB,724.54,5,3622.7,Israel Paredes,josefinacarrero@zavala.com,448e14d0-eae1-4771-8c1c-dd1f4ea21088
+2/12/2024,Ciudad de M√©xico,Teléfono-Gama baja-8GB,1923.49,5,9617.45,Ignacio Guzm√°n Borrego,rolandorendon@proyectos.com,fd338d3a-d67f-4c10-bd09-55bbc6c310d1
+11/19/2024,Ciudad de M√©xico,Teléfono-Gama media-4GB,653.09,4,2612.36,Margarita Guadalupe Ceja,pvaca@padilla-calderon.com,077fd234-6153-410d-a149-184f01f2e37a
+6/10/2024,Ciudad de M√©xico,Tablet-Mini-16GB,627.66,1,627.66,Uriel Tafoya Lucio,reynaldo40@hotmail.com,89765ca7-1472-4672-b556-1f836ca9eae7
+6/10/2024,Ciudad de M√©xico,Auriculares-Con cable-32GB,1194.62,5,5973.1,Salma Vega,florencia80@urrutia.info,01e64b83-374e-4aac-8ea2-166257f545a7
+10/18/2024,Bogotá,Teléfono-Gama alta-16GB,169.21,3,507.63,Hermelinda Clemente Sisneros,citlaliramos@roque-velasco.biz,af40dcd7-913c-4661-9539-8e5b477bae0b
+10/20/2024,CIUDAD DE M√âXICO,Laptop-Ultraliviana-32GB,2081.9,1,2081.9,Esperanza Victoria Rend√≥n,ortaasuncion@laboratorios.org,b3ac9ad7-3336-45ee-8e9c-45dd90295e61
+10/23/2024,Ciudad de M√©xico,Laptop-Oficina-16GB,324.46,2,648.92,Israel Barrag√°n,barbara76@hotmail.com,0cede563-5f38-42bf-93ca-f67930084cf1
+11/18/2024,Bogotá,Tablet-Estándar-8GB,1178.53,2,2357.06,Bernab√© Colunga Cordero,overa@hotmail.com,a0229848-67ee-4a81-b13f-f722ded36349
+3/12/2024,Guadalajara,Auriculares-Bluetooth-16GB,2196.48,5,10982.4,Agust√≠n Dalia Rojo,natalia46@baeza-gurule.org,c0cd7087-1cf5-4a4a-88c0-5880b8793c33
+8/10/2024,Ciudad de M√©xico,Laptop-Oficina-16GB,1527.82,3,4583.46,Salma Rosas Pedroza,ana04@corporacin.com,21abf1f9-c019-42cc-a2fd-e17bdaa99242
+8/11/2024,Medellín,Tablet-Mini-16GB,1213.49,1,1213.49,Jaime Esmeralda M√°rquez Ayala,teresasantiago@proyectos.org,6eb13480-9450-4caa-8024-32e6e36c12ab
+10/29/2024,Bogotá,Teléfono-Gama alta-32GB,288.29,3,864.87,Paulina Garibay Gracia,eugenio94@yahoo.com,3c957274-31de-4637-8c46-828eb2c095e9
+12/29/2024,Guadalajara,Laptop-Ultraliviana-4GB,1006.61,4,4026.44,Zeferino Le√≥n,trujilloalonso@gmail.com,b7681cb8-fbde-4312-ba1b-0c772e149e82
+3/12/2024,Monterrey,Tablet-Mini-16GB,1388.37,3,4165.11,Concepci√≥n Colunga,silvanozavala@gmail.com,b1d25534-830a-470d-a41f-2a8ac404b047
+11/10/2024,Cali,Teléfono-Gama baja-16GB,2114.99,1,2114.99,Lic. Pedro Jasso,forosco@mesa.biz,dd6c8ba4-bdce-4e89-8a25-248a85e34e96
+12/17/2024,Cali,Auriculares-Cancelación de ruido-4GB,1627.59,1,1627.59,Blanca Juan Carlos Sisneros,ariadna06@espino.org,1a8c7e9d-606f-43dc-9e8a-38707414cb60
+2/10/2024,Bogotá,Tablet-Pro-32GB,1385.54,2,2771.08,Mtro. Mar√≠a Cristina Bernal,raquelhernandez@yahoo.com,9fea2180-a947-4e2f-b6c9-5371f9bac38e
+10/29/2024,Cali,Tablet-Mini-4GB,1164.32,3,3492.96,Olga Evelio Solorio,isabela60@hotmail.com,a54ade2d-7062-4dcd-a41a-a92c117729ad
+11/10/2024,Ciudad de M√©xico,Teléfono-Gama alta-32GB,169.2,3,507.6,Lic. Patricia Feliciano,pcruz@zelaya.com,b9c6fc20-68c7-453f-b881-23c480cd6bd2
+11/19/2024,Ciudad de M√©xico,Laptop-Oficina-4GB,1057.56,5,5287.8,Diego Benito Ramos Galv√°n,pilarpena@gmail.com,557a8a9d-fb81-41f2-9c1e-7c5651463eae
+12/22/2024,Monterrey,Teléfono-Gama media-32GB,1567.55,3,4702.65,Ing. David Valencia,wmolina@yahoo.com,f3c3146d-5022-4c1a-8a7c-38632c504802
+11/12/2024,Bogotá,Tablet-Pro-16GB,2012.81,4,8051.24,Elena Guardado Enr√≠quez,carolina73@gmail.com,a406d85a-6020-4738-b3ed-53d680678126
+10/26/2024,Bogotá,Auriculares-Bluetooth-16GB,2101.18,4,8404.72,Wendolin Elvia Osorio Gallardo,camilareyes@yahoo.com,b530707f-4d7d-4afc-bde4-e36c5328a487
+12/21/2024,Cali,Laptop-Ultraliviana-4GB,2008.78,5,10043.9,Francisco Javier Blanca Serrato,montanezluis-miguel@industrias.com,688bf8b0-b0ea-4f26-96a2-bf0bf26b0c06
+10/31/2024,Bogotá,Laptop-Ultraliviana-8GB,1451.3,2,2902.6,Violeta Celia Valverde,silvano66@proyectos.com,60d8025a-b531-49e9-a8a9-cc068cf74685
+10/14/2024,Guadalajara,Laptop-Gaming-16GB,1291.39,3,3874.17,Mtro. Salma de la Garza,ana-luisa49@otero.org,40b3bbac-c623-4647-a606-b5af9a39c69f
+11/29/2024,Cali,Laptop-Ultraliviana-4GB,1083.91,3,3251.73,Ofelia Francisco Javier Rojas,reinasegovia@hotmail.com,915c486d-4ef1-4e6b-953c-b179a8d2ba80
+1/11/2024,Bogotá,Teléfono-Gama media-32GB,1181.12,3,3543.36,Miguel Mariana Murillo Carrera,rubynevarez@hotmail.com,46e7ea20-4ea9-4a4d-a9d0-fe7ff0edc16b
+11/13/2024,Ciudad de M√©xico,Auriculares-Cancelación de ruido-8GB,1665.73,2,3331.46,Lorenzo Collado Gast√©lum,lorena10@gmail.com,ad71df5b-e541-4c69-a100-86824806dfcc
+3/11/2024,Guadalajara,Tablet-Estándar-32GB,1083.6,1,1083.6,Guadalupe Vanesa Navarro,reynaangelica@yahoo.com,6a4bb496-8bb3-4227-aa74-8a7d94a78dd5
+11/10/2024,Cali,Auriculares-Cancelación de ruido-4GB,1614.84,3,4844.52,Fidel Celia Roque Vallejo,gamezjonas@estevez.org,b2ccd416-d146-4511-9bd6-7eb3bd7333c6
+10/24/2024,Cali,Teléfono-Gama baja-32GB,1261.22,2,2522.44,Lilia B√©tancourt Parra,martha43@gmail.com,5a5c3350-ddcf-484e-8349-4b078818dfc5
+10/15/2024,Cali,Teléfono-Gama baja-32GB,571.73,4,2286.92,Alma Galv√°n,magdalena44@industrias.com,bddbebd3-8d7c-4f54-b99a-707a32de78d9
+12/26/2024,Medellín,Auriculares-Cancelación de ruido-4GB,1056.48,4,4225.92,Marisela Preciado,roblesmanuel@gmail.com,3cd2ba34-59ca-4654-b969-558904dc2456
+6/11/2024,Medellín,Teléfono-Gama baja-4GB,292.81,5,1464.05,Jos√© Manu√©l Lebr√≥n Peralta,horacioguajardo@hotmail.com,f72dc1de-5d72-4f3f-b45b-348ffb8c50ea
+10/11/2024,Medellín,Auriculares-Con cable-8GB,2085.29,1,2085.29,Eugenio Juana Orta Chapa,marco-antoniorosado@grupo.org,3786d3a2-e035-4239-845a-3dce8eca0b61
+11/30/2024,Monterrey,Tablet-Estándar-4GB,206.29,4,825.16,Jos√© Eduardo Conchita Barrientos Pulido,hector75@despacho.org,45b7faf6-5799-4708-8c79-9b6b478ccfc3
+1/11/2024,Bogotá,Tablet-Pro-32GB,271.04,4,1084.16,Jaqueline D√°vila,irizarrymaria-teresa@gmail.com,102c4aaf-9bcf-4c52-b93a-cf8ec01c2ab6
+4/10/2024,Cali,Tablet-Mini-16GB,1770.13,1,1770.13,Fabiola Tamayo,pespinosa@hotmail.com,ea922216-7953-46a5-b039-73b0459c6adf
+12/23/2024,Bogotá,Auriculares-Bluetooth-8GB,988.8,5,4944,Mauricio Jos√© Luis Arroyo Mascare√±as,cristalfernandez@avalos-puga.org,f10d9e5e-78e5-42f9-984f-478745f93fb9
+11/11/2024,GUADALAJARA,Tablet-Estándar-16GB,1170.2,1,1170.2,Eva Rivas Gallardo,lpacheco@yahoo.com,5d5d2fc9-2318-4ab5-b209-bb096e9dc1a1
+10/24/2024,Cali,Auriculares-Con cable-32GB,2418.11,1,2418.11,Luisa Gilberto Trujillo,rolando62@hotmail.com,62a79a02-2ff5-4434-a42e-150fc8d403dd
+2/12/2024,Guadalajara,Laptop-Ultraliviana-32GB,1639.83,4,6559.32,Dr. Sessa Barrag√°n,gmonroy@yahoo.com,b1db7db2-5c54-40de-8504-0fd6675da8c4
+11/13/2024,Bogotá,Tablet-Mini-4GB,1373.32,1,1373.32,Amanda B√°ez,zamudiooswaldo@rosales.com,a7dfe4eb-5eeb-4472-bdee-bc2113869dcc
+9/10/2024,Medellín,Auriculares-Cancelación de ruido-4GB,825.4,4,3301.6,Ilse Lozada,mateomauricio@garica.org,cebd42be-c5fb-495b-b850-22b67d7d538d
+10/23/2024,Cali,Laptop-Oficina-8GB,796.3,4,3185.2,Ing. Elsa Prieto,marisol14@maestas.com,4143d835-b0c6-4920-b3a2-df5339be92e0
+11/17/2024,Cali,Tablet-Mini-8GB,2127.13,1,2127.13,Ing. Zacar√≠as Galv√°n,abrillemus@hotmail.com,de4c96f0-b965-4289-ab99-9976cb8ce9b5
+10/15/2024,Bogotá,Auriculares-Con cable-32GB,2009.75,2,4019.5,Lic. Santiago Montenegro,onavarro@proyectos.com,a65e1da8-d4c4-4925-b15a-eefb65f84daa
+"Nov 7, 2024",Monterrey,Teléfono-Gama alta-8GB,634.44,4,2537.76,Amador Juan Tafoya Hinojosa,jose-emiliovillanueva@hotmail.com,95d058cf-b6bc-4829-8814-0306aba9f164
+9/10/2024,Bogotá,Tablet-Estándar-4GB,2452.44,3,7357.32,Francisco Vald√©s Becerra,adannoriega@melgar-rico.info,67cc5c65-25a9-43f0-a481-eb602e83758e
+7/12/2024,Bogotá,Auriculares-Con cable-16GB,460.39,5,2301.95,Sergio Vel√°squez,bserrano@hotmail.com,89938fb6-bb60-475d-8eb2-dfedd5f150fe
+9/10/2024,Cali,Tablet-Estándar-8GB,,3,796.92,Mtro. Rodolfo Maga√±a,gloria78@tello.org,5c34f35e-07c8-42f7-9b9a-3bcaed3fe12c
+12/18/2024,Medellín,Auriculares-Bluetooth-16GB,564.58,4,2258.32,Claudio Anguiano Su√°rez,cintronmanuel@gmail.com,f8f7bac5-22e3-4fcd-8c93-90375d23c11b
+3/10/2024,Medellín,Laptop-Gaming-4GB,1265.56,5,6327.8,Pedro √ìliver de la Rosa,aldonza88@hotmail.com,3e1cb7d4-91f8-411b-bc26-a8e0b4391db9
+12/10/2024,Medellín,Laptop-Oficina-8GB,85.19,1,85.19,Octavio Madrid Acevedo,jhernadez@yahoo.com,32cbf6b2-5cd5-4174-8a02-005124de47a9
+10/25/2024,Ciudad de M√©xico,Tablet-Estándar-32GB,1468.39,1,1468.39,Estela Tijerina,guzmanalfonso@molina.com,96edea28-2897-4637-85bd-60acc395c4c4
+7/11/2024,Bogotá,Laptop-Oficina-16GB,1450.82,1,1450.82,Mtro. Dulce Mar√≠a Amador,avazquez@corporacin.com,e293657e-9d00-4bb4-a00b-b178850a3ccc
+10/29/2024,Guadalajara,Tablet-Pro-4GB,429.21,5,2146.05,Alfonso Alejandra Aguilera,bfajardo@suarez.info,c4d429ce-cdcb-4f2a-b91c-26eac3db495e
+10/11/2024,GUADALAJARA,Teléfono-Gama baja-16GB,724.28,3,2172.84,Octavio Brise√±o Corrales,antoniohernandez@gmail.com,06092c99-a04c-49aa-b1e2-81711e255109
+11/28/2024,Monterrey,Auriculares-Bluetooth-32GB,1654.16,1,1654.16,Benjam√≠n Octavio Gaona,armando09@gmail.com,b4335591-8cf2-4447-be7b-0390e7645fec
+10/28/2024,Cali,Laptop-Oficina-32GB,1834.12,1,1834.12,Lic. Mariana Urbina,daniela26@hotmail.com,cd9cf7e0-6da4-41df-8be9-2d02844b1c31
+9/11/2024,Bogotá,Tablet-Estándar-8GB,2148.04,1,2148.04,Elias Mar√≠a Elena Arenas Ocasio,joaquinbriseno@morales.com,6ad9efba-ddc4-4d96-8495-584d4bb26f20
+8/12/2024,Guadalajara,Tablet-Estándar-4GB,1325.42,3,3976.26,Isabela Magdalena Mascare√±as L√≥pez,maria-cristina19@prado-segura.com,2a063e75-ca9c-4adb-b9b6-54a80b4e0078
+2/10/2024,Guadalajara,Auriculares-Bluetooth-16GB,1148.65,2,2297.3,Rub√©n Irizarry Rold√°n,surbina@chavez-pacheco.com,4314e54c-5647-4bc0-9804-307229669994
+12/26/2024,Monterrey,Teléfono-Gama media-16GB,932.02,4,3728.08,Lic. Lorenzo Zaragoza,zarguello@yahoo.com,66a70af2-e06b-4866-8aaa-a2912c261d68
+4/12/2024,Ciudad de M√©xico,Teléfono-Gama alta-32GB,1806.33,1,1806.33,Mtro. Vanesa Carrera,leticia11@hotmail.com,9bcb4a05-0683-4847-aadc-b955ee3775a4
+2/10/2024,Medellín,Tablet-Pro-32GB,2187.34,1,2187.34,Aurora Armenta,mireleslourdes@yahoo.com,d955fcfb-9a73-4a28-9931-b2f8a50846b1
+10/11/2024,Cali,Teléfono-Gama alta-8GB,1859.58,3,5578.74,Patricio Puga,maytecasares@yahoo.com,428f89ef-5eb4-469e-b29a-14fcef36e9d3
+12/24/2024,Bogotá,Tablet-Estándar-32GB,306.11,2,612.22,Ana Alvarado Zambrano,ppineda@hotmail.com,ec0799d5-b19c-407d-9997-ef035cb093a4
+8/11/2024,Medellín,Teléfono-Gama baja-32GB,233.33,5,1166.65,Leticia Alba,abelardo96@gmail.com,7cfc5646-ee03-43c0-9218-196b1d77162a
+9/10/2024,Ciudad de M√©xico,Auriculares-Cancelación de ruido-8GB,1429.62,2,2859.24,Ing. Daniel Leyva,talvarez@saavedra-amaya.info,5e633cdc-c67a-440a-87f3-4972f2d004ac
+7/10/2024,Guadalajara,Laptop-Gaming-32GB,1788.74,2,3577.48,Gabino Mar√≠a Eugenia Garc√≠a,wgiron@burgos-sisneros.com,a135de6f-9fab-4ce0-843f-2cfd1eebc422
+5/12/2024,Cali,Tablet-Mini-16GB,2199.82,4,8799.28,Ing. Aurelio Sanabria,saenzeva@carrion-escamilla.net,2c03bec6-97ff-4eed-9ab3-48894b938d1c
+11/25/2024,CALI,Auriculares-Con cable-16GB,2476.21,5,12381.05,Natalia Carmen Madrid,jaimerenteria@despacho.com,30697ee3-c6f1-4277-b269-c3c951095f84
+12/28/2024,Ciudad de M√©xico,Laptop-Oficina-8GB,2261.12,4,9044.48,Dr. Jos√© Manu√©l Candelaria,gabriel22@pineda-villarreal.info,ece1df7a-ba2b-48cc-9d1f-e8d8a307a1c6
+11/26/2024,Medellín,Laptop-Ultraliviana-16GB,1247.08,1,1247.08,Carmen Elvira Medina,esparta21@yahoo.com,922204f6-79f1-49ba-ab4c-25b2f7427397
+8/10/2024,Guadalajara,Auriculares-Cancelación de ruido-8GB,479.96,4,1919.84,Hern√°n Angulo Ulibarri,nelly89@yahoo.com,d0dda286-bcb5-4649-a635-e4247f6a35d8
+11/25/2024,Monterrey,Auriculares-Con cable-32GB ,1155.26,4,4621.04,Bruno Hern√°n Rivero,noemirivera@hotmail.com,8018872a-4ec4-4b51-8563-8d9d85f09396
+11/28/2024,Monterrey,Tablet-Estándar-16GB,563.92,2,1127.84,Dr. Lucas Barela,antoniabarela@despacho.net,f0651ccf-cec5-4eb0-881b-198e786e21cc
+11/25/2024,Ciudad de M√©xico,Tablet-Pro-4GB,1022.39,2,2044.78,Sessa Blanco,navarretenelly@yahoo.com,b5b62540-d5f3-4cd3-bdd3-48312389c2db
+1/12/2024,Cali,Teléfono-Gama media-16GB,1527.87,2,3055.74,Ing. Guillermo Merino,serafinsanches@lugo.com,55c662be-f3d2-40c4-ba87-75f3a5b76faf
+11/27/2024,Ciudad de M√©xico,Auriculares-Con cable-8GB,1804.11,4,7216.44,Omar Nelly Gamboa,vcervantez@matos-villagomez.biz,acec8856-d263-466f-b05c-84bd5b847fc1
+2/12/2024,Medellín,Teléfono-Gama baja-16GB,70.91,3,212.73,Norma √Åvila,emoya@hotmail.com,fbdb0e9b-584d-4085-8bf9-8d372b99ebfb
+11/24/2024,Ciudad de M√©xico,Laptop-Ultraliviana-4GB,1768.85,5,8844.25,Barbara Urrutia Palacios,peresguadalupe@laboratorios.info,b138908b-b0cd-458c-9da0-707f94b0ffcd
+11/14/2024,Guadalajara,Laptop-Gaming-32GB ,446.49,3,1339.47,Esperanza Pablo Villa Segovia,cortestrinidad@hotmail.com,8cbd3d88-e898-4121-92bf-4315def5c26b
+11/16/2024,Monterrey,Laptop-Oficina-32GB,416.81,2,833.62,Ing. Zacar√≠as Padr√≥n,rsosa@laboratorios.com,4d35d453-5b30-4e58-a33c-a870dde7a68f
+10/27/2024,Ciudad de M√©xico,Auriculares-Con cable-4GB,1437.75,5,7188.75,Victoria Gurule,acovarrubias@yahoo.com,26d71239-8773-4f98-a147-880cc7ae84cb
+1/11/2024,Guadalajara,Tablet-Estándar-8GB,2078.48,3,6235.44,Mar√≠a Luisa Roberto Holgu√≠n Zelaya,trinidadguillen@yahoo.com,3ce15a6c-2825-434c-ad46-cd79f4bc2381
+11/19/2024,Medellín,Laptop-Ultraliviana-4GB,1292.9,2,2585.8,Tom√°s Cabrera Tijerina,rene11@carrillo.com,5548f892-9c81-4567-87e7-399e543e91d9
+10/22/2024,Guadalajara,Laptop-Oficina-4GB,1703.47,2,3406.94,C√©sar Burgos Fl√≥rez,isaac34@aviles.biz,15c161e7-84e8-482a-963e-a7e6326abc14
+12/10/2024,Monterrey,Laptop-Gaming-4GB,240.45,4,961.8,Eric Bonilla,sarabiakarla@gmail.com,5c493940-b957-429c-b2c2-6378fa0e9e7b
+12/17/2024,Cali,Teléfono-Gama alta-4GB,1700.41,4,6801.64,Sr(a). M√≥nica Monta√±ez,znegron@hotmail.com,b132b519-abc7-45bf-afcb-a51cf812697a
+6/12/2024,Ciudad de M√©xico,Auriculares-Bluetooth-4GB,460.62,4,1842.48,Mar√≠a D√≠az,qde-jesus@cazares-tamez.biz,9a041544-4b70-4ae4-9dee-985076c979eb
+10/27/2024,Bogotá,Tablet-Pro-4GB,1092.45,3,3277.35,Dolores Minerva Fr√≠as Baeza,maria-eugenia48@industrias.com,08148c4c-9768-48b2-a627-96eb9c4ecb15
+"Nov 7, 2024",Medellín,Auriculares-Bluetooth-8GB,1270.75,5,6353.75,Yuridia Madrid,kmurillo@proyectos.net,5b24d4c8-65a7-4ec1-8ca1-f46584e4d7f7
+4/12/2024,Cali,Auriculares-Bluetooth-32GB,583.68,4,2334.72,Nelly Arce,rodrigoalcantar@hotmail.com,df4cc62b-b7d8-4963-99ea-48fe79203fbe
+9/12/2024,Medellín,Tel√©fono-Gama media-8GB,1284.18,3,3852.54,Antonia Martha Esparza,espinoelena@yahoo.com,85c98452-482f-4a08-b9eb-a1cf145ad831
+12/11/2024,Medellín,Laptop-Gaming-32GB,569.56,4,2278.24,√ìliver T√©llez,ysaldivar@perales.com,92e1c1ff-b495-49b7-a5b5-d0aeb1d04194
+11/15/2024,Ciudad de M√©xico,Tablet-Estándar-4GB,1808.18,5,9040.9,√ìliver Julio C√©sar Cervantes,ncardenas@hotmail.com,1ee6182c-86b4-4ebe-b5e3-4e371ac515a7
+11/17/2024,Ciudad de M√©xico,Auriculares-Cancelación de ruido-4GB,2255.29,3,6765.87,Camilo Cerv√°ntez,isaac33@gmail.com,6a272f91-94e7-4624-af64-2a57ea5ea246
+10/29/2024,Cali,Teléfono-Gama media-4GB,847.32,5,4236.6,Marcos Amador,maria-eugeniairizarry@gmail.com,75ce132e-b6d1-4542-be19-8b8ae4cfee4c
+10/29/2024,Ciudad de M√©xico,Tablet-Pro-4GB,509.58,3,1528.74,Lic. Rosalia Mart√≠nez,salma27@nieto-herrera.com,862a25a8-b572-4c67-85cb-bdd2f7503da7
+4/11/2024,Bogotá,Tablet-Pro-16GB,578.14,5,2890.7,Estela Ver√≥nica Avil√©s,ucisneros@hotmail.com,77c7a554-42e9-435e-b1af-df86b0f8167f
+11/14/2024,Medellín,Teléfono-Gama baja-32GB,879.78,1,879.78,Dr. Eloy Valles,lucas66@hotmail.com,df469a69-84f1-42dd-80d3-89ef0d15476d
+10/22/2024,Guadalajara,Tablet-Pro-4GB,205.25,3,615.75,Juan L√≥pez,liliagonzalez@sanabria.info,bda4c76c-8205-4def-8d46-9d2d6a40365e
+12/19/2024,Medellín,Auriculares-Bluetooth-16GB,2309.76,5,11548.8,Julia Baeza,leticiaduarte@yahoo.com,09c37b10-c227-4f88-9c6a-eb146d381382
+5/11/2024,Bogotá,Laptop-Oficina-16GB,1540.33,1,1540.33,Seraf√≠n Dulce Mar√≠a Vargas,mauricio18@yahoo.com,56e3bed1-3ae7-459a-95b0-7637859d3f76
+3/11/2024,Cali,Auriculares-Bluetooth-8GB,1018.4,5,5092,Mtro. Citlali Aguayo,micaela55@yahoo.com,884ce8a6-a2df-426e-b152-a3a8cca48ac2
+1/11/2024,Medellín,Auriculares-Con cable-4GB,1058.81,3,3176.43,Lic. Frida Pati√±o,wcruz@proyectos.com,5ea8d6a3-3c14-4c58-91c5-b2ce7b7b435a
+11/30/2024,Medellín,Auriculares-Con cable-8GB,890.66,1,890.66,Luc√≠a Irma Z√∫√±iga,quirozcristina@hotmail.com,03e4dd2e-3e51-4d0d-a880-eb30ad369498
+11/26/2024,Bogotá,Teléfono-Gama alta-16GB,252.24,5,1261.2,Karla Amelia Garrido Zedillo,abril49@yahoo.com,5d45490d-e212-40da-9db3-7fe81d466e5d
+1/12/2024,Monterrey,Laptop-Oficina-4GB,1705.74,4,6822.96,Wendolin Vallejo Bueno,carreraofelia@gmail.com,47707a3f-9323-4d55-944e-bc1bd0981b5d
+10/15/2024,Guadalajara,Auriculares-Bluetooth-16GB,2289.42,4,9157.68,Jorge Sep√∫lveda,uferrer@gmail.com,44eb6606-bfe9-426e-8e4f-c7683d27a64a
+12/16/2024,Guadalajara,Laptop-Ultraliviana-4GB,2281.01,4,9124.04,Isabela Cortez,aalmaraz@yahoo.com,18b6e7f0-7f1c-4914-ab72-945d8d766ba6
+10/17/2024,Ciudad de M√©xico,Auriculares-Con cable-16GB,1093.69,1,1093.69,Guillermina Carbajal,martincandelaria@hotmail.com,f0d38b06-2059-47d6-9f56-aefc70f2727d
+10/27/2024,Ciudad de M√©xico,Laptop-Oficina-16GB,233.85,3,701.55,Aldonza Arriaga,benjaminguerra@yahoo.com,2d413f59-b03c-479d-84d2-e6d17034f1ce
+10/28/2024,Monterrey,Auriculares-Cancelaci√≥n de ruido-16GB,1779.34,3,5338.02,Mateo Flavio Uribe Garc√≠a,eesquibel@campos.info,de92a9b2-739f-4ffe-aeb7-97d14d474602
+8/12/2024,Bogotá,Auriculares-Bluetooth-32GB,1490.57,3,4471.71,Marcos Ruby Mateo Quiroz,juancazares@juarez.com,92b45d23-a69f-49fa-84fe-45e1c5d428e3
+12/23/2024,Monterrey,Laptop-Ultraliviana-32GB,1696.63,4,6786.52,Ofelia Su√°rez,mauricio18@preciado-acuna.com,e7e6c336-1e49-4295-a6a2-d4acf044ce4d
+6/11/2024,Medellín,Laptop-Ultraliviana-8GB,942.47,2,1884.94,Mtro. Delia Medrano,zarateabril@club.org,b89c9db5-89fd-4f46-92e3-9846d55a78cf
+12/30/2024,Cali,Auriculares-Cancelación de ruido-32GB,2064.92,3,6194.76,Ing. Wilfrido Carranza,sevillamicaela@villarreal.com,7e9821f4-95d8-433f-958b-d88fd9985891
+10/12/2024,Guadalajara,Teléfono-Gama baja-4GB,2182.77,3,6548.31,Octavio Isabela Barraza,irobles@gmail.com,bb32f0ba-b764-401c-a691-3d59b0136679
+11/22/2024,Cali,Tablet-Estándar-32GB,1402.66,5,7013.3,Emilia Federico Altamirano,laboyleonor@yahoo.com,fa3bf710-eb5a-4873-893c-d6a73dc7c4f9
+11/21/2024,Guadalajara,Teléfono-Gama alta-4GB,2420.41,2,4840.82,Concepci√≥n Elias Alonso Garrido,jose-luisanaya@olivo-villa.com,51261e24-fd4f-491f-82aa-f60c2d85e228
+6/10/2024,Medellín,Auriculares-Con cable-32GB,2084.89,5,10424.45,Jos√© Eduardo Jer√≥nimo Montoya Loera,genaroescobedo@castro-alonzo.com,99993024-cdc4-433a-bc86-99d1960cf2a9
+11/19/2024,Bogotá,Teléfono-Gama alta-32GB,173.04,2,346.08,Ana Mar√≠a Palacios Cardenas,brunoferrer@hotmail.com,147138ab-2800-4faa-9770-b5aac577f7f3
+12/27/2024,Bogotá,Laptop-Oficina-8GB,1831.56,2,3663.12,Ruby Amador Quintero,marianodelgadillo@proyectos.com,7ce37500-a380-4f67-8cbb-04f3cb8e5cc8
+11/13/2024,Guadalajara,Auriculares-Cancelaci√≥n de ruido-16GB,1899.66,2,3799.32,Ing. Pilar Laboy,gdel-valle@covarrubias-marquez.com,86e384a9-c2a7-45ca-a673-368c949b7a96
+11/22/2024,Ciudad de M√©xico,Tablet-Estándar-8GB,197.09,3,591.27,Mtro. Alfredo de la Fuente,dblanco@club.com,93eed3fe-4660-4b73-ac92-7b7bf72ad00f
+12/28/2024,Monterrey,Auriculares-Con cable-16GB,1577.5,4,6310,Estela Iv√°n Figueroa,maria-del-carmenramos@hotmail.com,0e8a03cd-16fb-4487-accf-bc309a83a97e
+10/27/2024,Medellín,Tablet-Estándar-8GB,832.37,2,1664.74,Liliana Pedraza,ninovictor@gmail.com,8b0b8f3a-d8c5-47fe-9e94-09d8d82d6464
+11/26/2024,Ciudad de M√©xico,Teléfono-Gama media-4GB,1519.67,4,6078.68,Victoria Galv√°n,cornejocornelio@despacho.org,c95e92f7-8dde-45fb-8837-d183a4786431
+7/12/2024,MONTERREY,Teléfono-Gama alta-16GB,1947.2,5,9736,Ricardo Bruno B√°ez,teodoro81@hotmail.com,c3a1ef5f-f105-4822-9c72-844ed7b0298f
+11/23/2024,Guadalajara,Tablet-Pro-8GB,793.75,1,793.75,Guillermo Diana Curiel Verdugo,sara48@gmail.com,f76306ca-536d-4c20-8a36-77c9fc49afc0
+11/14/2024,Medellín,Tablet-Estándar-8GB,1001.15,4,4004.6,Susana Valadez de la Cr√∫z,qrosado@hotmail.com,4f8944d0-df82-4668-beab-3dcdc6f3cf2f
+5/12/2024,Medellín,Auriculares-Bluetooth-16GB,1492.69,5,7463.45,Mar√≠a del Carmen √ìliver Calder√≥n,cepedafelix@yahoo.com,1fd8b779-9173-420c-b04e-89c7391c69a8
+8/11/2024,Guadalajara,Laptop-Oficina-32GB,1228.88,3,3686.64,Gustavo Aldonza Nazario Granado,del-riokarla@cisneros.org,0863774e-d706-46c8-a6ec-13da6cff2aed
+12/29/2024,Ciudad de M√©xico,Teléfono-Gama media-16GB,2068.09,2,4136.18,Mar√≠a Teresa Ocasio Vera,alvavioleta@grupo.com,d9f6800f-10da-460e-b27e-bdbb10820a14
+10/22/2024,Cali,Auriculares-Bluetooth-8GB,1882.22,3,5646.66,Omar Carla Miranda,renato62@gmail.com,39880590-7dce-48d2-a8b2-dcef91f42511
+10/31/2024,Medellín,Laptop-Ultraliviana-4GB,2266.71,2,4533.42,Yolanda Rafa√©l Gamez,saavedrafelipe@yahoo.com,d9c1410d-a481-442e-a55e-c877ab1e7b3f
+12/17/2024,Ciudad de M√©xico,Laptop-Gaming-8GB,1035.07,1,1035.07,Ing. Nayeli del Valle,esquibellucas@gmail.com,e4d04092-1822-4155-841a-4386e1c16529
+6/12/2024,Bogotá,Tel√©fono-Gama media-8GB,1958.41,4,7833.64,Elvira Figueroa Fuentes,victor16@gmail.com,e5ed9d85-b980-4269-aaf2-f370cb138032
+3/11/2024,Monterrey,Auriculares-Bluetooth-32GB,1222.82,1,1222.82,Cristina Urbina,elsaleal@arias.com,0e9b8d25-5a04-4737-8386-12ae6d3bfcb0
+8/12/2024,Bogotá,Laptop-Oficina-16GB,66.58,4,266.32,Horacio Victoria Quiroz,dianasalazar@laboratorios.biz,d49cecb5-d5f1-4242-84fa-895e2d538ed5
+9/12/2024,Cali,Teléfono-Gama baja-4GB,2287.41,2,4574.82,Benito Lucio Iglesias,carbajalnatalia@industrias.com,e2e5df9e-ce8b-40e6-9eed-af6f6afbf580
+12/18/2024,Guadalajara,Laptop-Ultraliviana-16GB,2310.61,3,6931.83,Caridad Frida Villarreal,homero86@segura.com,41673c52-8873-43f3-b016-36a8c4e22ead
+9/12/2024,Guadalajara,Tablet-Mini-4GB,1332.22,5,6661.1,Amanda Mariana Verduzco,veronica31@gmail.com,ac35ebfc-2fef-4aca-8a06-c9547d41dd8a
+11/22/2024,Medellín,Teléfono-Gama alta-4GB,2135.79,1,2135.79,Helena Salvador Alba,indira82@miramontes-menendez.biz,ff3bf349-be3d-4ed5-a05d-026306680047
+"Oct 26, 2024",Bogotá,Laptop-Ultraliviana-8GB,1868.91,5,9344.55,Sandra Cornelio Nava Galarza,gaonagabriel@proyectos.org,8a075c13-f70b-4b5b-909b-e961bf332236
+10/17/2024,Monterrey,Teléfono-Gama baja-16GB,2063.13,4,8252.52,Leonardo Jos√© Luis Manzanares Trujillo,garenas@verduzco.org,969772b7-82a9-4281-b808-f08dbacfaa54
+6/11/2024,Medellín,Tablet-Mini-8GB,1772.58,2,3545.16,Norma Paulina Qui√±ones,bespino@rojo.com,30208b2a-0356-49da-b9b5-5dadc87e2157
+11/14/2024,Monterrey,Tablet-Pro-4GB,2224.61,4,8898.44,Emilio Alva,veronicalongoria@hotmail.com,2c896ee7-2283-43d2-9ff9-44e43322ed6f
+10/22/2024,Bogotá,Laptop-Oficina-4GB,419.18,4,1676.72,Virginia Irma Rol√≥n Arteaga,juan-carlosporras@hotmail.com,8961a6a3-8576-4db8-bcfd-98eaefa53976
+12/30/2024,Monterrey,Teléfono-Gama alta-32GB,2149.59,4,8598.36,Hilda Armando Padilla Castellanos,zmejia@club.com,36cbc08f-0000-4ac1-a306-2119638696af
+10/18/2024,Bogotá,Laptop-Gaming-4GB,709.65,3,2128.95,Javier Ofelia Quintanilla Villa,sramirez@yahoo.com,8a1ce3fb-e2c2-4c33-8f15-c428f8a97642
+12/27/2024,Guadalajara,Auriculares-Cancelación de ruido-32GB,1191.71,4,4766.84,Mauro Mel√©ndez,patricia66@hotmail.com,43c7bc6c-6c1b-481e-b0de-1a182eecc87e
+11/15/2024,Cali,Tablet-Mini-4GB,914.84,4,3659.36,Emilio Peres,ovillalpando@hotmail.com,67e78427-8d9f-40c5-b32d-df9777d2029d
+"Oct 03, 2024",Ciudad de M√©xico,Teléfono-Gama alta-32GB,2419.81,5,12099.05,Esteban Ure√±a,gvazquez@burgos.com,a4da2665-dfb9-46f3-b658-cc5d0505dd86
+10/18/2024,Bogotá,Laptop-Oficina-32GB,1750.63,5,8753.15,Rufino Amador Ochoa,anel99@hotmail.com,731cae55-5431-4c89-89e4-ae12557b88e2
+10/17/2024,Cali,Tel√©fono-Gama media-8GB,1091.59,5,5457.95,Abel Leticia Calder√≥n Gallegos,timoteo70@hotmail.com,92461461-c9c6-41f5-ba8b-7e68bb7088ec
+10/19/2024,Guadalajara,Laptop-Oficina-32GB,2182.83,4,8731.32,Olivia Zavala,isabelmunguia@de.com,1bb7ccf0-5ad1-49e5-831c-01f403e1e8ae
+11/23/2024,Cali,Laptop-Oficina-32GB,919.27,2,1838.54,Hilda Vergara Tirado,martin48@farias-huerta.com,d8b5d3e5-0632-4dbf-9b3c-2094a15de8e8
+"Oct 03, 2024",Medellín,Tablet-Pro-4GB,145.9,5,729.5,Aida Ojeda Galindo,concepcion88@hotmail.com,8d23f99e-11a9-4194-979d-e2f334eec6fa
+11/30/2024,Cali,Laptop-Ultraliviana-8GB,1208.42,3,3625.26,Gilberto Mitzy Aguirre Mac√≠as,adelafierro@resendez.com,853315fd-3f57-4c4d-b1c0-63876571d6be
+9/12/2024,Guadalajara,Teléfono-Gama alta-8GB,1990.56,2,3981.12,Lic. Yuridia Rivas,samuel60@garica.biz,0063b295-8de8-42db-a280-53ce8abd64d5
+11/16/2024,Monterrey,Auriculares-Con cable-32GB,347.49,5,1737.45,Germ√°n Bustos,luis-miguelsantacruz@yahoo.com,ee1c498f-9419-41b5-aad7-950f328bcf29
+12/17/2024,Cali,Laptop-Gaming-4GB,771.57,5,3857.85,Carlota Helena Cepeda,bermudezleonor@reynoso.net,6c36c1bb-60d5-43fc-9b1f-840f4136899c
+11/16/2024,Guadalajara,Laptop-Ultraliviana-16GB,1346.1,1,1346.1,Dar√≠o Antonia Medrano,leonelponce@hotmail.com,1721608b-9124-49ea-8ec0-ea350388ca09
+7/12/2024,Bogotá,Laptop-Ultraliviana-8GB,1806.45,4,7225.8,Ignacio Genaro Varela,ricardoloera@torres-medina.com,ffe80953-b756-448f-ad50-9fbbf034b1a3
+10/29/2024,Guadalajara,Laptop-Oficina-8GB,2248.35,5,11241.75,Lic. Juan Ortega,ignaciochacon@gmail.com,03d30ca8-82a1-4711-a969-6585129ef1c6
+12/15/2024,Guadalajara,Laptop-Ultraliviana-8GB,817.31,2,1634.62,Claudia Su√°rez Galv√°n,nietohilda@yahoo.com,008ee7b3-7786-4b09-b979-9ae857581c91
+10/28/2024,Ciudad de M√©xico,Laptop-Oficina-32GB,2484.65,2,4969.3,Manuel Iv√°n Alarc√≥n Noriega,claudia30@hotmail.com,d513a436-d4fe-4ff3-8ec9-e92a32ed8cc7
+12/15/2024,Bogotá,Auriculares-Bluetooth-32GB,101.1,3,303.3,Pascual Trevi√±o,mariafernandez@gmail.com,1de0d9e2-fea5-4f41-858a-b4d39e7e4657
+1/12/2024,Bogotá,Teléfono-Gama media-32GB,1311.78,5,6558.9,Jaqueline Juan Osorio,banuelosdalia@alonzo-ulibarri.info,07ad1313-5817-452d-ae83-9deb77f566ff
+10/17/2024,Bogotá,Auriculares-Con cable-4GB,271.81,2,,Mauricio Pamela Villegas,jeronimo36@proyectos.info,041c1c21-48c4-49bf-8301-a26b4b366c97
+10/28/2024,Medellín,Laptop-Gaming-16GB,371.09,4,1484.36,Agust√≠n Rocha,vparra@gmail.com,bd82514d-6aed-4ca8-885d-60312b6b736b
+10/15/2024,Monterrey,Tablet-Pro-16GB,1414.97,1,1414.97,Fernando Almanza Dur√°n,valmonte@gmail.com,b033c422-b86e-4729-a448-c047ea02bb69
+10/25/2024,Medellín,Tablet-Pro-16GB,1823.15,5,9115.75,Lic. Anel Cerv√°ntez,casanovahugo@yahoo.com,758acf48-c5d8-4ad9-8a21-e3e1440e091e
+5/10/2024,Guadalajara,Laptop-Gaming-4GB,1118.74,4,4474.96,D√©bora Uriel Montez,sepulvedaalejandra@industrias.com,be204235-85bb-4fe8-9216-a9791c716831
+10/22/2024,Medellín,Auriculares-Cancelación de ruido-8GB,1511.08,2,3022.16,Pedro Tamayo,indira48@gmail.com,53b6bfd4-05a9-41c3-adeb-dfaa20821700
+11/15/2024,Guadalajara,Tablet-Mini-32GB,210.37,1,210.37,Dr. Irma Ba√±uelos,hernadezalvaro@gmail.com,2b9e4412-7cfc-4c93-b65b-fdd1b959ea0f
+11/21/2024,Guadalajara,Laptop-Gaming-16GB,495.51,2,991.02,Cynthia Rol√≥n,emiliaesparza@santacruz.org,dd4ae052-c48d-46dc-a438-fad5a215831b
+10/23/2024,Monterrey,Laptop-Ultraliviana-16GB,1327.27,2,2654.54,Bianca Abel Valent√≠n Alarc√≥n,mendezmonica@chacon.com,6e634080-3cde-4f41-b8b8-f7a29d0086fa
+11/16/2024,Guadalajara,Laptop-Ultraliviana-32GB,1101.82,5,5509.1,Lic. Marisol Toledo,emilianovillanueva@grupo.org,715a22e4-0dbf-4ab3-9d6d-bc8cfaed54f3
+11/15/2024,Medellín,Laptop-Ultraliviana-4GB,1767.16,1,1767.16,Federico Mat√≠as,florencia21@grupo.com,f3f6eded-9605-463d-befb-0ec09cb7398f
+11/27/2024,Bogotá,Laptop-Gaming-8GB,764.41,3,2293.23,Eloy Jaime Mercado Rold√°n,jose-manuel14@madera-arenas.com,54483220-8340-4be3-b6c6-51347b1f367c
+11/30/2024,Monterrey,Tablet-Pro-4GB ,2148.99,5,10744.95,Ing. Catalina Montenegro,socorrocolunga@rosales-caraballo.com,0b7c1304-c2c5-4050-9b73-fd7e7c4c1936
+12/23/2024,Ciudad de M√©xico,Laptop-Gaming-32GB,1663.22,5,8316.1,Armando √Ångela Ju√°rez,marco-antonio11@proyectos.org,31d353ab-28f4-4ab9-8b40-a16ebfc9742a
+10/26/2024,Bogotá,Tablet-Estándar-8GB,1898.24,1,1898.24,Eugenio M√≥nica Res√©ndez,rduarte@hotmail.com,2acb1d18-6de4-4e08-ab0f-a43239b072ab
+11/11/2024,Ciudad de M√©xico,Laptop-Ultraliviana-16GB,569.35,4,2277.4,Gilberto Tamez Sanches,gcotto@alcala-espinoza.com,239ba516-3ba4-4ab3-afd0-e7520e4284da
+1/11/2024,Bogotá,Auriculares-Cancelación de ruido-4GB,2312.7,3,6938.1,Mariana Navarrete,tgurule@hotmail.com,1d192c49-58cc-4355-8ae6-4fc5be821369
+11/10/2024,Cali,Auriculares-Bluetooth-16GB,360.98,3,1082.94,Victoria Wendolin Terrazas Carvajal,avalosjosefina@gmail.com,e469cff8-fcc0-4664-b06d-c801efd84779
+10/20/2024,Guadalajara,Auriculares-Con cable-16GB,320.64,5,1603.2,Agust√≠n Esparza,octavio81@granados.biz,a8f00c77-f3a2-4ae2-a236-7df93148023d
+11/16/2024,Guadalajara,Tablet-Mini-4GB,1843.37,3,5530.11,Jos√© Aparicio,olivia24@yahoo.com,4185aaab-33a2-4e6e-bebe-5b6cf12100d2
+10/16/2024,Cali,Teléfono-Gama baja-16GB,833.39,1,833.39,Mtro. Estela Villanueva,salma61@gmail.com,8cbf9f9b-f7d4-44ca-9484-0940e88fe51a
+3/12/2024,Cali,Teléfono-Gama baja-16GB,1321.79,5,6608.95,Dr. Guillermina Pedroza,phernandes@hotmail.com,b1c04b5c-3ca0-4299-a95b-4cc9fd47e5c3
+1/11/2024,Cali,Laptop-Oficina-16GB,1286.13,4,5144.52,Israel Anabel Merino,zbarreto@yahoo.com,55a12788-e321-4656-adc6-1c4b1c4fb82d
+11/10/2024,Monterrey,Tablet-Estándar-8GB,1447.41,4,5789.64,Mtro. Emiliano Est√©vez,ballesterosevelio@yahoo.com,d06b5f3f-acab-4f8e-bf1a-8c1dfe18228e
+5/11/2024,Guadalajara,Auriculares-Con cable-4GB,1456.11,5,7280.55,Jos√© Mar√≠a Vergara,fordonez@hotmail.com,c069967b-0651-485e-806a-1c2453c8e423
+9/10/2024,Ciudad de M√©xico,Auriculares-Cancelación de ruido-4GB,1286.15,2,2572.3,Itzel Saiz Santiago,arellanoitzel@grupo.com,d1786d96-57f5-4220-90b3-218a529c8cc6
+5/11/2024,Cali,Teléfono-Gama baja-8GB,2483.87,5,12419.35,Guadalupe Juan Armas Montes,aurelio97@gmail.com,3db9364c-36cf-4bf0-94b1-afc28a4e7da5
+10/16/2024,Bogotá,Teléfono-Gama media-4GB,,5,11708.85,Enrique Crespo Alvarez,pamela41@grupo.com,6321df0f-9103-4ad4-8571-120df4dd675b
+10/24/2024,Ciudad de M√©xico,Tablet-Estándar-4GB,2499.77,3,7499.31,Mar√≠a Cristina Rebeca Qui√±ones D√°vila,teresa90@yahoo.com,a2820ce9-6172-4e14-acb4-dbc156430397
+12/10/2024,Cali,Teléfono-Gama baja-8GB,1284.54,3,3853.62,Ad√°n Ana Ornelas Samaniego,de-jesusnatividad@santana.com,d6516497-6c06-4709-8da9-2fbc709d5c67
+10/11/2024,Medellín,Tel√©fono-Gama media-8GB,218.17,4,872.68,Antonio Adriana Razo,reyesespartaco@hotmail.com,c08f9ba9-0e32-4277-937a-eae40b912ab0
+7/10/2024,Cali,Tablet-Mini-32GB,1597.75,2,3195.5,Isaac Reina Nieto,angela19@gmail.com,ab493d65-9af2-465e-9886-dbff53ffd8a3
+10/22/2024,Monterrey,Teléfono-Gama alta-16GB,1736.9,5,8684.5,Amanda Cant√∫ Segura,mercedes40@lozano-borrego.org,51322ec3-e52c-417f-9f2c-20ffb25bf684
+3/10/2024,Guadalajara,Teléfono-Gama media-4GB,1542.12,4,6168.48,Leonor Mar√≠a Luisa Calder√≥n Negr√≥n,kalmanza@yahoo.com,4fd78018-da91-4f39-9975-a34231cffcba
+12/23/2024,Monterrey,Teléfono-Gama baja-32GB,1991.97,3,5975.91,Citlali Pantoja,raulzayas@gmail.com,4c7d52b9-0e48-4e31-bcf4-e5fd45e48176
+5/12/2024,Guadalajara,Teléfono-Gama baja-8GB,769.77,4,3079.08,Amelia Hilda Reyes,tejadauriel@hotmail.com,0d39987c-fdfb-4ae0-a487-86b097bcd57d
+12/25/2024,Monterrey,Laptop-Gaming-4GB,173.94,5,869.7,Indira Brito,galfaro@yahoo.com,4b439440-bf95-4e0b-865c-32dff4dfe00b
+9/11/2024,Guadalajara,Tablet-Mini-32GB,1118.35,4,4473.4,√Ångel Echeverr√≠a,bmenchaca@pulido-estrada.biz,d8d9e077-3fb8-4ad4-b860-e6a47239634d
+10/13/2024,Monterrey,Laptop-Ultraliviana-16GB,,3,1086.51,Rodrigo Vanegas Serna,vicentezelaya@valdez.com,426433ea-0410-4d24-b435-247c7b633415
+9/12/2024,Guadalajara,Teléfono-Gama baja-32GB,232.18,3,696.54,Mercedes Sessa Valladares,martin12@yahoo.com,0b7f03ef-aac2-4547-b835-a7f3a3348e06
+11/18/2024,Cali,Auriculares-Bluetooth-8GB,1217.56,3,3652.68,Dulce Mar√≠a Rend√≥n Zedillo,jassomarco-antonio@gmail.com,dbe8b52b-292f-4415-82d6-3dad0ebf96c7
+12/15/2024,Monterrey,Laptop-Gaming-16GB,303.05,1,303.05,Yeni Diego Mateo Irizarry,esthervillalobos@covarrubias-montalvo.net,5e0eecec-2dab-48b7-a609-0fd963d1d90a
+11/23/2024,Cali,Teléfono-Gama media-32GB,807.71,3,2423.13,Camilo Eric Medina,bernaberenteria@hotmail.com,89fcd453-c6b3-469a-96fa-b54ec64f874f
+9/11/2024,Medellín,Auriculares-Con cable-4GB,794.49,2,1588.98,Lic. √ìscar Valenzuela,genaro55@yahoo.com,8d3b7c03-8540-49a4-a954-d8b7b6b2fa06
+10/29/2024,Ciudad de M√©xico,Tablet-Pro-16GB,2388.79,2,4777.58,Mar√≠a Eugenia Guajardo Ayala,cervanteshermelinda@godinez.net,42eeb64c-1110-40be-a856-c0a364fb8c30
+11/23/2024,Bogotá,Laptop-Gaming-8GB,1768.49,2,3536.98,Emilio Campos Grijalva,ojaimes@yahoo.com,4c0c62c7-01f1-4c1a-be44-12a93c7d2e39
+11/13/2024,Cali,Tablet-Pro-8GB,1873.69,2,3747.38,Cecilia Casas Ledesma,gabinopolanco@gmail.com,31af08be-2649-4947-9338-28fb518be843
+11/22/2024,Ciudad de M√©xico,Teléfono-Gama media-16GB,752.56,2,1505.12,Alonso Ignacio Hidalgo Montes,emiliano86@gmail.com,50ca8d12-6f3b-4d72-852c-ddb04e41ecb0
+12/30/2024,Medellín,Tablet-Pro-4GB,619.4,1,619.4,Sr(a). Socorro Jurado,sepulvedacarlos@amaya-ortega.com,e6cdf437-19fd-4174-9933-e60c7eb6eab2
+12/12/2024,Ciudad de M√©xico,Teléfono-Gama baja-8GB,834.63,4,3338.52,Camila Mar√≠a Teresa Reyna Lucero,bde-la-torre@hotmail.com,8d5984e4-42c5-40ea-a6b1-0829494656fe
+12/28/2024,Medellín,Teléfono-Gama baja-4GB,211.08,4,844.32,Mar√≠a Luisa Cardenas Montemayor,rgarza@castellanos-cedillo.net,d337811c-59ff-494c-9e71-77b6282c296c
+11/24/2024,Cali,Teléfono-Gama media-4GB,103.69,5,518.45,Iv√°n Amaya,leticiajurado@yahoo.com,f055f3a8-2041-4c8b-a2df-fc620ea22103
+6/11/2024,CALI,Laptop-Gaming-16GB,1137.77,5,5688.85,Julia Dulce Mar√≠a Rodarte Dur√°n,ilsebriseno@proyectos.com,b2d5a4a0-38d6-4f4e-beee-12c24b103604
+11/23/2024,Medellín,Auriculares-Con cable-16GB,2009.76,1,2009.76,M√≥nica Cristal Chac√≥n Candelaria,sierravictoria@yahoo.com,838f9377-c59f-4f9a-a769-8126696776e4
+10/27/2024,Medellín,Laptop-Ultraliviana-4GB,755.38,4,3021.52,Hilda Soto Serna,eric39@gmail.com,6658ba19-5ccb-4206-84b8-fcfc241901bd
+10/31/2024,Bogotá,Tablet-Estándar-4GB,287.48,4,1149.92,Laura Vaca Madera,gfranco@grupo.com,0cf77e4b-7fd3-4462-8680-6cbd693e9c0f
+11/17/2024,Cali,Tablet-Estándar-4GB,808.48,4,3233.92,Graciela Merino,hernan45@yahoo.com,c744e13d-7463-4060-ba2d-cdabdb1c3b2d
+11/13/2024,Guadalajara,Tablet-Estándar-32GB,181.51,5,907.55,√örsula Cristian Ledesma Lara,aholguin@industrias.com,db925419-778f-4d29-963a-7f15f6e37629
+11/20/2024,Cali,Tablet-Estándar-4GB,2246.65,2,4493.3,Abel Toro,sramos@hotmail.com,a7ec5218-20b5-4ecf-b899-d9c26fa6614c
+11/13/2024,Bogotá,Auriculares-Bluetooth-32GB,1029.22,5,5146.1,Lic. Berta Cort√©s,malaveleonor@hotmail.com,bedb2d59-276e-4a43-a057-2331a8689f9f
+11/27/2024,Monterrey,Auriculares-Con cable-32GB,1713.18,2,3426.36,Gregorio Cristal Amaya Zelaya,oliviamaestas@club.biz,f4ecf59b-ae01-485b-a05f-b80aa788d151
+10/11/2024,Ciudad de M√©xico,Tablet-Pro-4GB,1375.85,1,1375.85,Isabel Maya,tozuna@yahoo.com,e8070b1a-de24-4296-b9ca-c4d62784eb47
+12/12/2024,Guadalajara,Auriculares-Bluetooth-4GB,1268.59,4,5074.36,Lic. Ana Luisa Montalvo,pedrobaeza@caban.com,0a48305d-5c9c-4afa-9ee6-8e31efd58718
+12/19/2024,Medellín,Auriculares-Con cable-4GB,633.29,1,633.29,Linda Tom√°s Cuellar,guerrahernan@hotmail.com,4181125d-2bd6-43ef-b4f7-d88b503ebcc9
+11/11/2024,Monterrey,Tablet-Estándar-4GB,664.19,4,2656.76,Elias Carmen T√©llez,teresaaguirre@despacho.com,6563276b-f905-470d-b64b-37b07114a824
+11/22/2024,Bogotá,Teléfono-Gama baja-16GB,2198.02,1,2198.02,Espartaco Esperanza Armenta Gait√°n,escobedoilse@proyectos.biz,3ee7965a-242b-453a-bf95-82e9c7bb26d1
+9/10/2024,Medellín,Tablet-Mini-8GB,1406.32,4,5625.28,Elvia Mariano Rend√≥n Coronado,cabannayeli@despacho.org,4d127c49-b5bc-4cbb-a0a0-ccd12275f405
+10/11/2024,Guadalajara,Tablet-Pro-8GB,421.59,2,843.18,Lic. Carlota Ontiveros,francisco-javierzamudio@gmail.com,19a6e9f7-0a45-4879-ab17-df6979e1e612
+11/27/2024,Ciudad de M√©xico,Tablet-Estándar-4GB,1160.86,4,4643.44,Jos√© Carlos Rojo P√°ez,beatriz73@yahoo.com,6f429ee1-fdee-4a46-88b6-217e010bf7ca
+1/12/2024,Medellín,Tablet-Mini-4GB,340.31,2,680.62,Anabel Susana Villalpando Huerta,lourdesbeltran@hotmail.com,b6a7e9ca-6e44-4a2d-b6ba-e7c65710b065
+8/12/2024,Medellín,Teléfono-Gama alta-32GB,1916.11,4,7664.44,Liliana Ur√≠as Velasco,amadrid@despacho.biz,eeed2640-7588-4324-ae74-fb40227005b9
+10/14/2024,Ciudad de M√©xico,Laptop-Oficina-4GB,970.38,5,4851.9,Tania Soto Nieves,jeronimovigil@hotmail.com,af87cfff-afb0-4f85-888d-e5db29ae4766
+9/12/2024,Monterrey,Auriculares-Cancelación de ruido-8GB,378.98,1,378.98,Jon√°s Osorio,josefina80@hotmail.com,7bfb5106-b10b-44e9-8093-4df0ba80e372
+11/24/2024,Bogotá,Tablet-Mini-4GB,2028.12,5,10140.6,Alma Leonel Morales Anguiano,de-la-cruzisabel@grupo.com,3f395849-b4c1-4e2b-9b2f-e88f10b94e05
+12/24/2024,Ciudad de M√©xico,Teléfono-Gama alta-8GB,988.44,2,1976.88,Jes√∫s Burgos Ballesteros,yeni67@hotmail.com,117eebda-32b4-42cc-95e1-dc2c259fffa6
+11/15/2024,Guadalajara,Teléfono-Gama alta-4GB,1832.97,2,3665.94,Elena Delgado Men√©ndez,cristianbrito@gmail.com,8ad2a9d2-c3c0-4b9e-8d31-bc798c2a566c
+12/19/2024,Medellín,Auriculares-Bluetooth-16GB,530.94,5,2654.7,Lic. Vanesa Enr√≠quez,kponce@yahoo.com,c039c16a-b7e7-4616-8b5d-dbc120a30d24
+11/29/2024,Monterrey,Tablet-Estándar-8GB,2254.91,4,9019.64,Ing. Marcela Linares,noriegasara@uribe.com,294b26f6-bf81-4c20-9d69-4b0d99e6fdc0
+12/19/2024,Medellín,Tablet-Estándar-8GB,127.35,1,127.35,Mario Gilberto T√≥rrez,zeferinomadera@ramos.org,bea55d48-ca8e-4a5e-81da-22d3ae44e9a0
+12/29/2024,Ciudad de M√©xico,Auriculares-Bluetooth-8GB,732.27,4,2929.08,Jes√∫s Carre√≥n,victorialeal@hotmail.com,dc08f2b8-94f2-4889-8156-0e3c3724d0ff
+4/10/2024,Ciudad de M√©xico,Tablet-Pro-4GB,2063.96,2,4127.92,Sr(a). Juana Negrete,arandateresa@frias-santillan.com,93708c46-9f11-459e-baaa-d1222d691d65
+12/25/2024,Bogotá,Teléfono-Gama baja-4GB,2271.98,5,11359.9,Mtro. Abelardo R√≠os,jaquelinecaban@muniz.info,99b0e8dd-7174-4559-a628-143ef6d46608
+11/16/2024,Cali,Auriculares-Cancelación de ruido-4GB,627.26,1,627.26,C√©sar Jim√≠nez,albertourena@yahoo.com,5b96a097-c481-4d3e-86e5-63c57b646a68
+3/10/2024,Guadalajara,Teléfono-Gama media-4GB,2391.72,1,2391.72,Ana Mar√≠a Hidalgo Razo,gustavoozuna@yahoo.com,1c9a7d40-c4aa-47ee-b862-881e78aebdcd
+10/20/2024,Guadalajara,Laptop-Oficina-16GB,318.76,3,956.28,Guillermina Ba√±uelos Varela,lucasirizarry@corporacin.com,b87357bf-0adf-494c-9fb2-d5fb5810088e
+11/16/2024,Bogotá,Teléfono-Gama media-16GB,1375.44,4,5501.76,Maximiliano Puga,ilongoria@gmail.com,89989cae-b728-4235-9a32-5fbf288f2094
+11/26/2024,Bogotá,Auriculares-Con cable-4GB,488.25,5,2441.25,Sr(a). Juana Rangel,salvador03@gmail.com,165472a7-d6ca-4fd8-9f05-0a98ddac11f5
+7/12/2024,Guadalajara,Laptop-Gaming-16GB,1928.76,2,3857.52,Eugenio Lourdes Portillo Olvera,marinlourdes@rangel.com,6a4f1549-65b1-4c76-9fc9-eb216605d11b
+10/24/2024,Cali,Teléfono-Gama alta-8GB,1228.74,2,2457.48,Dalia Mar√≠a Cristina Robledo Escobar,galvancamilo@santana-farias.com,41cf07f1-c8b8-4719-8e87-4c6a66e4a90e
+10/23/2024,Medellín,Teléfono-Gama baja-4GB,2384.86,4,9539.44,Emiliano Liliana Olivares Ba√±uelos,eugenio20@yahoo.com,5118c46e-3697-423d-b0f6-bcb15c09e38d
+10/15/2024,Cali,Laptop-Ultraliviana-16GB,2332.8,1,2332.8,Sr(a). Camilo Partida,alfredocastro@oquendo.com,c2384374-01f4-4848-97cd-a1327649abfe
+10/18/2024,Guadalajara,Teléfono-Gama media-32GB,,4,6259.84,Cristina Esteban Quintero,francisca45@espinal.com,fa85138f-7fb2-499a-acc2-02957ef92673
+10/13/2024,Guadalajara,Laptop-Oficina-8GB,1274.8,5,6374,Luis Camila Guardado,deborallamas@hotmail.com,dca19bf4-3f5f-484c-bfdb-75c9ded28858
+12/12/2024,Guadalajara,Teléfono-Gama baja-16GB,181.16,4,724.64,Juan Carlos Teresa Gir√≥n Sosa,reynaldo69@gmail.com,c52c3f64-0bf6-4119-ab4d-0c0c46049424
+11/25/2024,Ciudad de M√©xico,Tablet-Pro-16GB,110.53,5,552.65,Mtro. Alberto Calvillo,carvajalesmeralda@gmail.com,ac1d0457-8737-4d32-adc3-08dc6711b75b
+12/19/2024,Monterrey,Teléfono-Gama media-16GB,1008.28,5,5041.4,Clara Echeverr√≠a,jluevano@grupo.org,d6c6c3cb-6cf5-40a9-b8d5-65640f8dab1c
+10/31/2024,Cali,Tablet-Pro-32GB,1758.16,5,8790.8,Hermelinda Mota,quirozjose-maria@valdivia.biz,46378c72-4067-4729-b1e5-3d39203ab930
+3/10/2024,Medellín,Laptop-Ultraliviana-4GB,548.67,2,1097.34,Patricia Santana,lilianatamayo@proyectos.info,4f50dcb6-7cbd-478c-baf6-9689eb8eab31
+1/10/2024,Medellín,Laptop-Gaming-4GB,664.18,2,1328.36,Alfredo Lerma,gironabelardo@gmail.com,c757a287-6f17-4368-b595-ae2d6879f392
+11/25/2024,Medellín,Tel√©fono-Gama media-8GB,1453.6,4,5814.4,Patricio Abigail Meza,ocasiofrancisco-javier@yahoo.com,8a373805-0041-447e-8540-70bded3c26c5
+11/18/2024,Bogotá,Tablet-Mini-32GB,2191.24,5,10956.2,Wilfrido Mariana Rivero Mart√≠nez,darioquintero@grupo.biz,efd76242-e0b5-4aca-8c44-84ce7f553f97
+10/14/2024,Cali,Tablet-Mini-16GB,2101.48,2,4202.96,Leticia Luevano Mayorga,orascon@corporacin.com,f0548b33-86eb-4b3f-a1f4-cef9f9f11955
+12/25/2024,Cali,Teléfono-Gama alta-8GB,2461.45,4,9845.8,√ìscar Ulloa Valdivia,alvaro06@yahoo.com,5150f58c-f863-4f35-bdd4-d6cfc1a1ef10
+10/18/2024,Medellín,Tablet-Estándar-4GB,1972.43,5,9862.15,Estefan√≠a Modesto Lebr√≥n Figueroa,mauriciogarcia@gmail.com,13dacdaa-eb35-4a33-acaf-5c98625d9304
+11/11/2024,Bogotá,Laptop-Oficina-8GB,214.86,5,1074.3,Socorro Arcelia Alejandro,nazarioandrea@hotmail.com,892ddf8c-3dff-4e70-bc34-fe5c8d39a78f
+10/16/2024,Medellín,Auriculares-Bluetooth-32GB,397.5,2,795,V√≠ctor Jaramillo,vallejogustavo@despacho.net,cb4fece9-bf8f-4e7d-8218-b9d826729e46
+11/12/2024,Guadalajara,Laptop-Ultraliviana-4GB,1673.73,1,1673.73,Julia N√°jera,santillancamila@hotmail.com,7a847fe9-f974-4d38-9d3a-114f4c95ca6c
+7/10/2024,Ciudad de M√©xico,Teléfono-Gama baja-16GB,1395.95,3,4187.85,Dr. Ram√≥n Reyes,hilda07@gmail.com,26797519-98dd-42f4-8c83-b6e7fadde63a
+12/26/2024,Guadalajara,Laptop-Ultraliviana-8GB,2140.33,5,10701.65,Lic. Carmen Brito,estefania59@club.com,d035d687-44b0-4ce5-a8c5-2c6ad05a14b6
+7/12/2024,Monterrey,Teléfono-Gama media-4GB,2167.21,2,4334.42,Jos Bernab√© Osorio,abrilluna@yahoo.com,61f84332-1ec2-4e0d-a005-9d6532dfe8b6
+11/18/2024,Bogotá,Teléfono-Gama media-16GB,276.58,1,276.58,Sara Jorge Alvarez,micaela56@corporacin.com,74aa1913-0ff5-4bb1-b6ab-0793b04293d5
+11/25/2024,Medellín,Auriculares-Bluetooth-8GB,2062.25,3,6186.75,Mar√≠a Renato Ochoa Aguilera,pde-jesus@yahoo.com,aeae3ab8-cc1b-48bb-8dc8-c1ece4d21277
+10/29/2024,CIUDAD DE M√âXICO,Laptop-Gaming-16GB,2343.81,4,9375.24,Elvia Pulido Brito,oscar45@tovar.info,261825fa-a4ad-4a21-a7ab-e2b644eaa67a
+11/16/2024,Guadalajara,Auriculares-Cancelación de ruido-4GB,1397.49,3,4192.47,Miguel Granados Oquendo,raquelzamudio@corporacin.org,3cad7de1-68ae-4cc7-b586-20c1f7e16a6f
+11/15/2024,Guadalajara,Tablet-Estándar-4GB,1159.32,5,5796.6,Rub√©n Cecilia Zarate,vcarreon@industrias.net,9376962f-fb7b-4390-9eee-6e8d5c685697
+12/22/2024,MONTERREY,Laptop-Ultraliviana-16GB,1717.67,4,6870.68,Amanda Jos√© Eduardo Rol√≥n,ochoaasuncion@gmail.com,a73cd6f4-c471-4e0a-9570-af0860e0c5d1
+10/26/2024,Cali,Teléfono-Gama alta-8GB,611.99,2,1223.98,Espartaco Godoy Fuentes,natividad96@toro.biz,ec823a46-e1bb-48d2-a563-9abba872b426
+1/11/2024,Medellín,Tablet-Estándar-8GB,1865.37,1,1865.37,Armando Paola Tejeda Reynoso,felixgastelum@chavez-rosario.com,6b36097a-158e-4b1e-8cb1-944c9ce34b4a
+8/10/2024,Bogotá,Tablet-Estándar-16GB,642.95,2,1285.9,Mar√≠a Elena Guajardo Serna,irmacarranza@yahoo.com,fd8576ca-69cb-45d0-93ae-3ce2a9dce766
+10/27/2024,Ciudad de M√©xico,Teléfono-Gama media-32GB,1237.66,1,1237.66,Jon√°s Corrales,whuerta@cornejo.com,5deb41b9-32d8-431b-91ea-ba2fc94ad0f0
+4/11/2024,Medellín,Laptop-Ultraliviana-16GB,1172.2,1,1172.2,Alicia Barela,rosascristina@club.com,dcdc9582-af1b-48f9-9862-62eff619038d
+11/17/2024,Bogotá,Tablet-Estándar-8GB,2142.82,2,4285.64,Dr. C√©sar Portillo,ireneberrios@torres.biz,20632308-0231-4070-97bf-4fc82c188f74
+11/25/2024,Monterrey,Teléfono-Gama baja-16GB,1083.45,5,5417.25,Mar√≠a Gonz√°lez,zoeguevara@hotmail.com,3820b6cc-8345-41e5-85aa-bd7f843a64c7
+9/11/2024,Cali,Auriculares-Bluetooth-32GB,927.31,2,1854.62,Mitzy Fidel Aguirre Barrag√°n,bmatos@hotmail.com,32258448-6b2d-4224-a41c-d14a47992b1d
+10/17/2024,Ciudad de M√©xico,Teléfono-Gama media-16GB,2392.27,4,9569.08,Josefina Zarate,rosaliabatista@hurtado.com,0db62a2e-44b2-4c21-8063-f5b1546b6955
+11/17/2024,Guadalajara,Teléfono-Gama alta-8GB,219.68,4,878.72,Gloria Cab√°n Santana,alejandra48@yahoo.com,9183f20d-2692-4cfd-9433-54c64739a537
+11/14/2024,Bogotá,Tablet-Pro-8GB,563.11,1,563.11,Micaela Zavala Borrego,gcalvillo@gmail.com,5d97fe11-f95b-42c8-8f10-ab98a05aedf1
+11/17/2024,Ciudad de M√©xico,Laptop-Ultraliviana-8GB,2269.51,3,6808.53,Yolanda Elisa de la Garza,rodrigo57@centeno-meza.org,63bf917d-0951-46b0-8ecc-bca9b657690f
+11/21/2024,Monterrey,Laptop-Ultraliviana-8GB,299.66,3,898.98,Emiliano Ofelia Luevano,almonteadriana@chapa-grijalva.biz,627df819-fafe-490b-ae7e-587db323ca23
+7/12/2024,Bogotá,Teléfono-Gama alta-8GB,2139.42,4,8557.68,Dr. Juan Aranda,angelavalenzuela@hotmail.com,8d289647-c833-4bdd-9d10-71a2f5a73822
+12/13/2024,Guadalajara,Auriculares-Bluetooth-8GB,1164.16,4,4656.64,Wilfrido Daniela Alonso Gayt√°n,norma09@hotmail.com,63edf886-6d4d-489d-a1a2-e321304707b2
+6/11/2024,Ciudad de M√©xico,Auriculares-Bluetooth-16GB,2202.87,5,11014.35,Luc√≠a Patricia Ybarra Segovia,rolando29@alcantar.com,afb698db-e120-4b30-95a6-9232db712b80
+7/10/2024,Cali,Laptop-Oficina-32GB,386.85,2,773.7,Yolanda Emilio Mar√≠n Arenas,bsalgado@hotmail.com,503faa4c-b2dd-4a4c-83f9-fae7ecfc966c
+12/21/2024,Ciudad de M√©xico,Tablet-Pro-8GB,2461.26,3,7383.78,Mar√≠a Teresa Citlali Negrete,nayeli04@villagomez-salcido.com,f6d11075-7912-4e6a-b081-b8502c35c2e8
+1/10/2024,Cali,Auriculares-Cancelación de ruido-4GB,469.22,1,469.22,Cristian God√≠nez,jruelas@hotmail.com,9c256de2-6001-4873-beef-336a82436867
+11/11/2024,Medellín,Tablet-Mini-16GB,499.69,1,499.69,Alejandro Aida Esquibel Candelaria,cornelio81@hotmail.com,a684008b-46bc-446c-9f1d-5210c524215e
+10/28/2024,Bogotá,Tablet-Pro-8GB,2493.45,2,4986.9,Luz Eduardo Villegas Le√≥n,wmontoya@yahoo.com,9e5f6867-749d-4b5b-97ef-2330c2558d3d
+11/21/2024,Cali,Laptop-Oficina-4GB,510.78,3,1532.34,Alejandra Marco Antonio Salas Contreras,abelurrutia@grupo.com,200bbda1-4911-48eb-b2f0-a013eecdf376
+11/19/2024,Medellín,Teléfono-Gama media-32GB,221.44,3,664.32,Delia Jacinto Quintanilla Olvera,jorge11@yahoo.com,4f7b91d2-aac8-4620-9241-12ffa5035fae
+11/13/2024,Medellín,Teléfono-Gama alta-4GB,1177.91,2,2355.82,Eugenio Marcos Lara,guadalupe65@cervantez.info,1f9cafc0-71e6-4941-89cd-cd0654b8509f
+4/11/2024,Bogotá,Auriculares-Cancelación de ruido-4GB,2100.59,2,4201.18,Isaac Ignacio Ben√≠tez,nicolas25@gmail.com,e2aaad5e-d941-478c-b128-021e21417ee5
+10/14/2024,Bogotá,Laptop-Ultraliviana-4GB,302.84,3,908.52,Lic. Leonel Orosco,dponce@verdugo.info,972dd545-20a8-49a2-be8a-93f570eba58b
+10/18/2024,Ciudad de M√©xico,Tablet-Estándar-8GB,2431.8,2,4863.6,Carlos Esteban Nieves Zarate,enriqueaguirre@tamayo-roldan.com,748ca89e-cc7c-4b74-9211-5c7153943bea
+11/25/2024,Bogotá,Tablet-Mini-4GB,2488.53,1,2488.53,Dalia Cornelio Trevi√±o de la O,rvillanueva@gmail.com,86e77ae0-7bda-40b1-a21d-bd010a7db5de
+5/11/2024,Cali,Teléfono-Gama media-16GB,1079.32,1,1079.32,Rolando Guti√©rrez Barrera,perezvictoria@barela.com,619f05ab-6826-42c6-a241-6073b5679aad
+10/14/2024,Monterrey,Auriculares-Con cable-32GB,1421.57,4,5686.28,Hern√°n Anguiano,adriana27@hotmail.com,6b47665a-5972-4a11-a9e7-d42e56cf42a4
+2/12/2024,Medellín,Auriculares-Con cable-8GB,314.21,2,628.42,Mitzy Adame Tafoya,trujilloluz@botello-cepeda.com,0209ebb3-9a7f-4e7c-8172-ecbf898f89e8
+5/10/2024,Monterrey,Teléfono-Gama media-16GB,2027.81,4,8111.24,Anabel Graciela Orta Lim√≥n,gtoro@ordonez.com,db9595ea-f739-4781-a02a-e17561575f0a
+11/22/2024,Bogotá,Laptop-Gaming-8GB,342.64,2,685.28,Ivonne Georgina Arenas,vmadrigal@bravo.com,60fe9134-df81-46f3-ad0a-16da706fecac
+10/15/2024,Cali,Teléfono-Gama media-32GB,379.5,4,1518,Ing. Ilse Ocasio,abel08@laboratorios.com,9fa9acba-1ca0-43da-be32-3ee4f9804f9e
+12/22/2024,Medellín,Auriculares-Cancelaci√≥n de ruido-16GB,778.63,1,778.63,Antonia Borrego,bcotto@hotmail.com,9569ccbc-bd8e-4611-8386-71eeb9e0963f
+10/15/2024,Monterrey,Teléfono-Gama alta-16GB,2020.01,5,10100.05,Jos√© Manu√©l Indira Ledesma Trevi√±o,raquelyanez@hotmail.com,b17b1651-8264-42dd-ac16-7674416db2f4
+10/11/2024,Monterrey,Tablet-Mini-32GB,2288.18,1,2288.18,Itzel Puente T√©llez,emontalvo@angulo.info,e1d56019-1e10-4a1a-9dff-bff7048987d6
+11/15/2024,Bogotá,Tel√©fono-Gama media-8GB,120.49,3,361.47,Mart√≠n Salma Berm√∫dez,emateo@colunga.com,499a27b8-9b8a-42df-848c-279a1fb88d7a
+11/15/2024,Cali,Teléfono-Gama media-16GB,84.76,4,339.04,Emiliano Emilio Cuellar,jaquezpatricia@hotmail.com,208bb22e-749f-4a4a-a2fd-3ec3a0703858
+11/10/2024,Medellín,Auriculares-Con cable-32GB,1746.28,2,3492.56,Ing. Mitzy Ord√≥√±ez,urielojeda@fierro-cordero.com,d0cc2a3f-64b1-4463-bad8-280dbaa0e01e
+12/24/2024,Bogotá,Tablet-Pro-16GB,2003.92,2,4007.84,Yolanda Joaqu√≠n Barela M√©ndez,amandabarela@gmail.com,d8cce44d-2d8e-494b-b543-022a5aa32bef
+3/11/2024,Monterrey,Tablet-Mini-16GB,2332.13,1,2332.13,Ivonne In√©s Solorzano,alcantarconcepcion@yahoo.com,a9080111-fd89-4e06-96e1-327168122bd3
+12/23/2024,Ciudad de M√©xico,Teléfono-Gama media-32GB,1918.04,5,9590.2,Ing. Anabel Carre√≥n,moraclara@hotmail.com,700aef49-fe52-4fd6-8401-bbfa8ba48024
+10/13/2024,Guadalajara,Tablet-Pro-4GB,233.85,4,935.4,Mtro. Rafa√©l N√°jera,fernando51@yahoo.com,7594ffab-c88c-40b4-b851-6897e6230fb0
+6/11/2024,Ciudad de M√©xico,Auriculares-Cancelaci√≥n de ruido-16GB,800.91,5,4004.55,Gonzalo Leonel Pulido,wilfrido32@corporacin.com,5a8a2ee8-3161-4250-96ee-39982c89933d
+2/12/2024,Ciudad de M√©xico,Laptop-Oficina-16GB,1129,5,5645,Francisco Javier Mitzy Zedillo,teodoro92@despacho.com,2ec74e7f-5da0-49a5-b478-4adfba45fdd6
+4/12/2024,Cali,Laptop-Ultraliviana-8GB,2399.48,2,4798.96,Ing. Gilberto Granados,maria-elenapartida@yahoo.com,bb041e3e-efa8-46cc-b7a3-9b103ff31b8a
+12/16/2024,Bogotá,Auriculares-Bluetooth-8GB,763.21,5,3816.05,Sr(a). Magdalena Bustamante,jose-eduardo38@hotmail.com,9fd5d30c-2b67-444a-b0bd-e6ce0c2a3c03
+12/28/2024,Ciudad de M√©xico,Laptop-Ultraliviana-32GB,1061.9,4,4247.6,Dr. Jos√© Eduardo Moreno,pbarrera@gmail.com,017b54f8-9568-458c-be6a-2127e15e3349
+10/19/2024,Guadalajara,Teléfono-Gama alta-4GB,2329.03,4,9316.12,Estela Zamora T√©llez,luisaquintanilla@regalado-tejeda.com,8ce73f48-2cc5-4586-974b-db612bc9d6ae
+11/22/2024,Monterrey,Teléfono-Gama baja-8GB,1249.46,1,1249.46,Mayte Muro,florencia21@hotmail.com,69e33745-af53-42a9-8a08-ab9b741268f8
+4/11/2024,Medellín,Auriculares-Con cable-32GB,1905.51,2,3811.02,Diego Abigail Henr√≠quez,archuletafrancisca@gmail.com,1a445c40-669c-4d48-9f7e-e41b2c6006d6
+11/12/2024,Medellín,Tablet-Pro-4GB,1151.85,5,5759.25,Uriel Abel Rivero Vargas,mariasevilla@caldera-valdivia.com,b5d71709-4790-49a2-b5ad-435f7ed9b979
+10/15/2024,Monterrey,Auriculares-Con cable-32GB,428.56,1,428.56,Vanesa Jos√© Santana,javierraya@hotmail.com,165c0023-40a6-48a9-847c-8e2378c194fd
+12/11/2024,Bogotá,Tablet-Estándar-16GB,1672.13,4,6688.52,Mar√≠a Cristina Amelia Rosario Trujillo,fjasso@hotmail.com,4b28f4e5-d521-4d6e-94a1-2e2d06559b71
+5/10/2024,Monterrey,Laptop-Gaming-16GB,1312.69,5,6563.45,Mtro. Miriam Rosales,carbajalalma@gmail.com,2fe40e73-e64d-4041-8cab-8d5839371f3e
+2/11/2024,Medellín,Teléfono-Gama media-32GB,1306.96,2,2613.92,Eugenia Franco,ramirezcornelio@hotmail.com,ea9a5757-0b3d-4e68-a589-fa1e990cd6ce
+6/10/2024,Monterrey,Tablet-Mini-32GB,164.87,3,494.61,Estela G√≥mez Monta√±ez,armentajorge@industrias.com,35f1d04b-c1d9-4983-9fa7-6f9262ea97cc
+12/28/2024,Ciudad de M√©xico,Tablet-Estándar-32GB,1152.78,4,4611.12,Mtro. √örsula Palacios,violetaorta@hotmail.com,8d755bac-229c-4065-93f5-cba971acb014
+10/22/2024,Bogotá,Laptop-Oficina-32GB,2063.13,4,8252.52,Mtro. Flavio Ter√°n,merinovicente@hotmail.com,59db14ef-c72f-4719-807c-e681756eb5ee
+11/26/2024,Bogotá,Teléfono-Gama media-32GB,2210.34,3,6631.02,Conchita Barrientos Olvera,elvira67@grijalva.com,03e2d336-f9ca-4b38-a731-4fc42de09dfd
+9/12/2024,Ciudad de M√©xico,Teléfono-Gama baja-32GB,1125.48,2,2250.96,Humberto Benavides,zacarias94@padron-holguin.com,4473f6a9-94d1-4880-bb1c-9090765954e5
+10/13/2024,Ciudad de M√©xico,Auriculares-Con cable-32GB,142.14,3,426.42,Clemente Lucas de la Cr√∫z Fl√≥rez,miriam03@laboratorios.com,306238f0-70d8-49c3-bc3f-5c9df03698bf
+8/10/2024,Monterrey,Tablet-Pro-8GB,66.73,4,266.92,Agust√≠n Alba,portillocaridad@gmail.com,1e6eeb8f-b60f-44ee-ba31-3a83169211cc
+1/10/2024,Cali,Tablet-Estándar-8GB,1021.75,2,2043.5,Maximiliano Pizarro Escamilla,marianollamas@hotmail.com,3e03b8c9-f4af-4cc6-9900-836221bba3da
+12/29/2024,Monterrey,Laptop-Oficina-32GB,620.05,5,3100.25,Ramiro Adriana Botello,wgarica@industrias.info,0fcf615c-8bf9-42ad-9b7b-8c8dfce43c46
+7/10/2024,Bogotá,Teléfono-Gama baja-16GB,1588.14,4,6352.56,Eric Yolanda Saldivar,estela77@hotmail.com,15e836b2-b0d6-4cf5-8d89-60e52bb5cf43
+8/10/2024,Ciudad de M√©xico,Teléfono-Gama media-32GB,379.46,5,1897.3,Sr(a). Josefina Varela,hcarbajal@laboratorios.org,591e6a00-aa0b-4b7e-b547-bcc9b6807a94
+6/10/2024,Cali,Teléfono-Gama alta-32GB,495.86,1,495.86,Daniel Trevi√±o Almaraz,amelia73@yahoo.com,04587e83-9d1b-4d06-bd12-0b5cc9b5f549
+10/28/2024,Guadalajara,Teléfono-Gama baja-32GB,1010.17,1,1010.17,Lorenzo Zaragoza Ni√±o,yeni63@gmail.com,afbe8b22-f099-435c-a4a9-2882252b6103
+11/15/2024,Bogotá,Laptop-Oficina-32GB,969.37,3,2908.11,Lic. Estela Vanegas,asuncionespino@gmail.com,24f20540-a81a-4ad1-acf0-df3af36dae7d
+10/16/2024,Ciudad de M√©xico,Laptop-Gaming-32GB,100.75,1,100.75,Asunci√≥n Badillo,carlota45@yahoo.com,a279348c-c747-4e18-b056-f066a8c54d22
+10/25/2024,Guadalajara,Teléfono-Gama alta-4GB,2242.64,4,8970.56,Lic. Ignacio Corrales,veronicagaona@yahoo.com,68461278-65b9-41b1-b4b7-f73c4451f4cf
+7/10/2024,Monterrey,Teléfono-Gama alta-4GB,774.69,1,774.69,Bruno Linda Flores,jferrer@despacho.net,45af360d-59f3-48b1-859a-152f251ca886
+3/12/2024,Ciudad de M√©xico,Teléfono-Gama alta-32GB,535.75,2,1071.5,Ing. Carla Urbina,cornejojacobo@mena-valdivia.info,fb731060-72a0-4e77-a717-4072694bb2db
+11/15/2024,Guadalajara,Tablet-Pro-8GB,1318.47,1,1318.47,√Ångela Homero Bravo,cruzhoracio@yahoo.com,7a1fbf36-eb1f-47d5-9a36-263dd8af1257
+12/16/2024,Cali,Laptop-Gaming-4GB,1711.88,2,3423.76,Roberto Alem√°n Duarte,gabriela38@gmail.com,a9af6b62-1d3a-42df-99e5-230a527f9cf6
+1/10/2024,Medellín,Tablet-Mini-16GB,1756.32,4,7025.28,Sara Naranjo Col√≥n,ninojosefina@laboratorios.com,6e7f24e8-43fd-4576-b4e4-b3cf8affd7ae
+1/12/2024,Cali,Teléfono-Gama alta-8GB,2143.37,3,6430.11,Conchita Arteaga,umesa@hotmail.com,52debf9b-2206-4dc5-b40f-22d8df8bf7f0
+12/20/2024,Medellín,Auriculares-Cancelación de ruido-32GB,769.01,5,3845.05,Hilda Corrales Ram√≥n,aldomarrero@hotmail.com,582a5e26-8066-4160-aeff-a40ad4fe52e2
+11/20/2024,Medellín,Tablet-Estándar-4GB,269.57,5,1347.85,Esther Casares,qvilla@gmail.com,2a51a5bd-6af1-4306-8be1-f8bb0f7106d3
+11/19/2024,Ciudad de M√©xico,Laptop-Gaming-8GB,2185.04,4,8740.16,Olga Fr√≠as Paz,maytezamudio@hotmail.com,e4cf76ae-abd2-47d4-a0b7-6238612481ae
+12/22/2024,Monterrey,Tablet-Mini-16GB,2251.92,5,11259.6,Pamela Magdalena Pantoja Sisneros,vanesa92@gmail.com,8ade79e6-11e9-4fba-b189-eb3b62f4cbd6
+7/11/2024,Bogotá,Teléfono-Gama baja-32GB,330.1,4,1320.4,Natividad Balderas,socorroarmenta@hotmail.com,33abf96f-5053-40a9-926d-c62cf710d5d7
+12/29/2024,Cali,Tel√©fono-Gama media-8GB,1331.81,3,3995.43,D√©bora Alberto de Jes√∫s Rodr√≠guez,josefinabueno@despacho.com,bdb0c3e4-d084-49a5-a6b4-ba900b20e2ae
+12/23/2024,Cali,Tablet-Pro-4GB,2115.54,5,10577.7,√ìscar Cadena Valle,corneliohidalgo@hotmail.com,dffbee9b-2a20-4916-9f32-44754d3fae5d
+10/17/2024,Guadalajara,Teléfono-Gama baja-4GB,2411.28,4,9645.12,Olga Castillo Longoria,cejaantonio@gmail.com,8d1f42be-4310-48c3-951b-e030b1423297
+12/24/2024,Medellín,Teléfono-Gama alta-8GB,519.68,5,2598.4,Clemente Omar Olivo,corralrolando@yahoo.com,1d820555-0e65-4a21-b58e-10930e326e7b
+8/11/2024,Bogotá,Laptop-Ultraliviana-16GB,455.85,2,911.7,Modesto Ricardo Llamas,cedillomodesto@yahoo.com,bc87e88e-b56e-4324-aa42-315d92301cfa
+6/12/2024,Monterrey,Auriculares-Cancelación de ruido-4GB,1669.72,4,6678.88,Vanesa Gurule,cecilia85@industrias.info,ec311ea5-7cca-4497-a38f-d5ca91fc4a16
+12/21/2024,Guadalajara,Laptop-Gaming-4GB,2224.42,4,8897.68,Eric Joaqu√≠n Navarrete,emiliano90@zayas-valentin.com,2cd50550-d603-41b2-a403-b06bf90f402c
+11/12/2024,Guadalajara,Laptop-Gaming-32GB,1032,4,4128,Jos√© Manu√©l Barrios,pserrano@gmail.com,b34e56ee-bab9-42ce-a5f4-4476f3368f27
+1/10/2024,Monterrey  ,Teléfono-Gama baja-4GB,2387.49,1,2387.49,Blanca Acosta,jimenezesmeralda@yahoo.com,0fd63ae6-044a-43d2-a798-092f0a9ca3ab
+10/20/2024,Ciudad de M√©xico,Auriculares-Con cable-16GB,474.59,4,1898.36,Alejandro Tom√°s Arellano,cfajardo@ferrer-candelaria.net,1abba075-8634-44a4-b6c5-0ea6c8708df0
+3/10/2024,Guadalajara,Auriculares-Con cable-4GB,1951,5,9755,Ang√©lica Berta Alem√°n,leonardo19@laboratorios.com,214a4b85-cfb9-4315-8151-787c0f67ac19
+12/18/2024,Monterrey,Auriculares-Con cable-4GB,2425.55,3,7276.65,Mariano Cruz,velasquezandres@laboratorios.com,d28fd44c-05cd-4575-a1d4-081b8663b676
+11/19/2024,Guadalajara,Auriculares-Cancelación de ruido-4GB,2214.19,2,4428.38,Guadalupe Marisol Negr√≥n Cazares,jacinto56@laboratorios.biz,76bda0d9-e9f9-4356-9c98-ac7e6cc773af
+11/14/2024,Medellín,Laptop-Ultraliviana-8GB,1165.81,1,1165.81,Cristobal Frida Lucero Chapa,gregoriopuente@laboratorios.info,1af3b08f-465e-4aef-884a-7fb512a724c1
+3/12/2024,Cali,Teléfono-Gama baja-8GB,1402.18,3,4206.54,Trinidad Sep√∫lveda Venegas,emilianotamez@muro-ponce.org,5e889b8b-72a8-43b0-adf0-70b8e27e0baf
+9/11/2024,Cali,Tablet-Pro-16GB,1649.11,4,6596.44,Daniel Flores,tomasvalenzuela@gmail.com,e87c0e21-81f4-41b3-bbc0-ecc860e4a4f1
+7/11/2024,Bogotá,Laptop-Oficina-32GB,1531.23,3,4593.69,Irene Murillo Cano,raquelelizondo@olmos-chavez.info,5c67b9e8-ef45-4f3e-a2ed-49d3f39d1149
+7/12/2024,Guadalajara,Tablet-Estándar-8GB,742.02,1,742.02,Sr(a). Rosalia Carbajal,sanabriaernesto@ybarra-bravo.net,57dd5a1f-543e-405f-a66c-d3440caa7883
+4/10/2024,Medellín,Auriculares-Bluetooth-4GB,494.33,5,2471.65,Ana Luisa Garrido Camarillo,moracamilo@yahoo.com,971ada99-0410-407e-9f75-9c8d5be19858
+9/11/2024,Ciudad de M√©xico,Tablet-Estándar-16GB,731.02,4,2924.08,Adriana Qui√±ones,riveradebora@zepeda.com,fb386644-251f-41d5-9aa5-0effa6575ab7
+4/10/2024,Medellín,Teléfono-Gama baja-4GB,2203.93,5,11019.65,Ram√≥n Ruby Sol√≠s,nvalle@proyectos.info,698397cd-f3c5-42b9-8ee7-675e5ac6dcaa
+11/12/2024,Cali,Tablet-Pro-4GB,,2,3713.2,Mtro. Perla Mel√©ndez,renedominguez@osorio.com,98d1bc59-ba9c-4923-b9cd-06d3c57ffe57
+11/17/2024,Cali,Laptop-Oficina-32GB,2002.21,3,6006.63,Cristobal Renato Malave Mercado,israel06@industrias.net,c800eb85-be04-43c5-950c-4be1b628b942
+11/24/2024,Bogotá,Tablet-Mini-4GB,428.02,3,1284.06,David Jos√© Luis Espinosa Alonso,karlavillegas@urias.com,fdba0744-ad19-42dc-a09e-8fc306cf7732
+11/27/2024,Guadalajara,Auriculares-Cancelaci√≥n de ruido-16GB,2160.65,3,6481.95,Nayeli Abrego,julio55@yahoo.com,f6a4c26a-3865-4f58-99c7-07d8e2ca6da0
+10/28/2024,Bogotá,Laptop-Gaming-16GB,2472.61,5,12363.05,Magdalena del R√≠o Covarrubias,xramirez@laboratorios.com,df30a4f3-dbd9-408b-aef6-130263821f4b
+12/16/2024,Medellín,Auriculares-Con cable-16GB,1252.47,5,6262.35,Mauricio Horacio Mar√≠n,lopezdiana@gmail.com,d3e4b4f5-0e5d-46c7-a6d9-b15a09e90033
+10/19/2024,Bogotá,Teléfono-Gama alta-32GB,130.05,1,130.05,Eric Amador Santiago,barrazaclaudia@hotmail.com,b07b2920-9fbe-4a2c-ab22-d232c3ad228c
+11/21/2024,GUADALAJARA,Auriculares-Bluetooth-32GB,2399.53,3,,Dr. Salma de Anda,amayajavier@gmail.com,68c5e3c1-7b1b-43a7-acde-3a8ad2cd8bac
+12/19/2024,Bogotá,Teléfono-Gama baja-16GB,1900.01,5,9500.05,Lorena Jacinto Lim√≥n,rtejeda@pelayo.net,60d79197-fd4c-4a31-a577-d7d861b32c67
+6/11/2024,Monterrey,Tablet-Mini-4GB,1344.3,1,1344.3,Julio C√©sar Hinojosa Carri√≥n,gloria26@gmail.com,be31e53e-d5d8-4a44-a252-aa621bcd0ceb
+8/10/2024,Cali,Laptop-Gaming-8GB,2170.39,2,4340.78,Clara Maximiliano Samaniego Lebr√≥n,esther23@hotmail.com,b122bc72-7239-44b5-a84c-5afb4963ef9d
+10/26/2024,Cali,Tel√©fono-Gama media-8GB,403.48,2,806.96,Judith Jos√© Mar√≠a Menchaca Nieves,anabelgalarza@gmail.com,bf0d8fdb-9d95-48a0-8ea7-0981d07129f1
+8/10/2024,Cali,Tablet-Estándar-16GB,2172.79,4,8691.16,Ing. Lucas Mendoza,ypadron@proyectos.com,469f8a63-5545-411e-bc81-bc156cf61fd4
+5/12/2024,Cali,Auriculares-Con cable-32GB,892.88,5,4464.4,Micaela Santacruz,hbarela@gmail.com,7b2e59df-2c66-40f3-a7c7-a4cc494f7f5e
+11/22/2024,Medellín,Auriculares-Con cable-32GB,463.17,3,1389.51,Amelia Baca,seguralinda@gmail.com,54181b0d-ea89-4121-a212-605c632d4222
+12/18/2024,Medellín,Teléfono-Gama media-32GB,944.98,1,944.98,Nelly Vaca Santana,lermaespartaco@yahoo.com,38689b3f-5f78-4f2d-8f10-c3c9cd750a01
+12/25/2024,Cali,Tablet-Mini-8GB,848.42,3,2545.26,Miguel √Ångel Alberto Tamayo,mitzy72@gmail.com,5e092005-bbaf-4295-9ccc-3c9493b48d04
+10/17/2024,Ciudad de M√©xico,Laptop-Oficina-8GB,303.84,1,303.84,Sr(a). Luis Manuel Arriaga,yenivaldes@quesada.com,7fcd384b-a0e3-4e0f-a707-c4a8a1b4c112
+11/28/2024,Cali,Tablet-Pro-8GB,684.7,5,3423.5,Dr. Adela Alcala,ymayorga@gmail.com,b402f6a3-5340-4177-a05b-5f6189a1ccf6
+12/18/2024,Bogotá,Tablet-Pro-32GB,1876.74,3,5630.22,Luisa Eugenio V√°squez Alem√°n,xcamacho@gmail.com,c1fae86b-bd50-4387-a36c-f6dd0feee517
+12/22/2024,Cali,Auriculares-Cancelaci√≥n de ruido-16GB,1770.14,1,1770.14,Jorge Luis Mar√≠a Calder√≥n Valdivia,arceliagracia@ramos-carrillo.com,590172c6-7ce0-48b6-82b2-7436a3631331
+8/12/2024,Monterrey,Tablet-Mini-16GB,815.48,2,1630.96,Marcela Micaela de la Garza Alarc√≥n,velazquezjos@gmail.com,28276074-9e08-4dbc-9f92-a0e62c97932d
+10/27/2024,Guadalajara,Auriculares-Cancelación de ruido-32GB,986.08,4,3944.32,Berta Aldonza Toro Colunga,merazoliver@yahoo.com,b159a2a3-ef00-43a9-86db-5aa4f2337f02
+10/10/2024,Ciudad de M√©xico,Tablet-Mini-8GB,646.22,2,1292.44,Augusto Oswaldo Arce Guardado,marcos44@yahoo.com,b510688e-fa24-4654-b955-0b6adeee039e
+10/22/2024,Ciudad de M√©xico,Laptop-Oficina-4GB,2240.54,2,4481.08,Andr√©s Brito,concepcion07@hotmail.com,a05c93ff-9a7b-4d33-9591-f2fbfbc01017
+10/25/2024,Guadalajara,Teléfono-Gama alta-4GB,1260.9,3,3782.7,Mariano Borrego,galindoabelardo@hotmail.com,45b0ad4b-932c-441b-b413-53565decfa94
+2/12/2024,Guadalajara,Tablet-Mini-16GB,540.19,4,2160.76,Mtro. Mar√≠a Luisa Benavides,ana-maria86@laboratorios.biz,445ea43e-bacc-4f11-b46f-c0f73b30a387
+12/19/2024,Cali,Tablet-Mini-4GB,1254.96,1,1254.96,Asunci√≥n Maximiliano Baca Ram√≠rez,amayalucas@roque.biz,6962b6a9-7e9b-4fc9-80fb-8d56c5243ad2
+10/14/2024,Monterrey,Tablet-Mini-8GB,1037.64,3,3112.92,Dr. Yolanda Miranda,oswaldo20@proyectos.net,8e55023b-2774-4015-86a2-780e882c0d87
+9/12/2024,Ciudad de M√©xico,Auriculares-Bluetooth-8GB,1273.07,3,3819.21,Alonso √örsula Ord√≥√±ez Quezada,mendozarenato@gmail.com,92474c1b-8e9f-4328-9dba-0478c7b8eff7
+10/20/2024,Cali,Auriculares-Bluetooth-16GB,2430.43,5,12152.15,Ana Perla Zavala Laboy,benavidezgabino@hotmail.com,972e7cf2-8e0a-43e6-a952-bbda3382870a
+11/16/2024,Monterrey,Tablet-Estándar-4GB,1203.93,4,4815.72,Dr. Zo√© Alejandro,psolorzano@proyectos.org,43dd123c-830b-4e71-8f96-a6643feac4d9
+11/21/2024,Cali,Tablet-Estándar-16GB,,4,9635.4,Dr. Pascual Bravo,jacoboalcantar@bahena.info,c04d55c7-13f0-4d59-820e-72c4f05b3e9a
+11/18/2024,Bogotá,Auriculares-Bluetooth-4GB,2426.87,5,12134.35,Alma Karina Mungu√≠a Paredes,jaquelineontiveros@grupo.com,770c656a-1e48-4e6d-8a82-6d225a04964e
+10/10/2024,Guadalajara,Tablet-Pro-4GB,1848.98,3,5546.94,Maximiliano Omar Brito Vega,julio50@hotmail.com,99bc21fb-dcd1-48e4-be06-9bd0b762b73e
+4/11/2024,Monterrey,Teléfono-Gama baja-32GB,1436.52,2,2873.04,Mar√≠a Cristina de la Cr√∫z,marisela52@laboratorios.info,5c8c2dfc-51fd-4224-a71e-92d06b2b0fa1
+10/18/2024,Guadalajara,Laptop-Gaming-16GB,904.01,1,904.01,Sr(a). David Preciado,fheredia@amador.biz,ef211983-e418-498f-bd94-b407618f19f2
+4/12/2024,Monterrey,Tablet-Mini-4GB ,344.69,5,1723.45,Jes√∫s Arce Valles,cabanaraceli@despacho.org,32d07aeb-5e62-4984-b015-b54c974f9568
+10/19/2024,Guadalajara,Teléfono-Gama baja-32GB,1564.37,1,1564.37,Vanesa Valverde Gaona,rodriguezluis@corporacin.com,57a6f553-cfd0-401a-ab8d-e08db3b7b54c
+12/18/2024,Monterrey,Laptop-Ultraliviana-16GB,2031.79,5,10158.95,Leonel Noelia Sol√≠s,fviera@farias.info,342d4b10-ea36-4f9d-a345-cbb571e1445f
+12/16/2024,Medellín,Tablet-Pro-16GB,1119.17,5,5595.85,Porfirio Lorenzo Cordero,pugasilvano@gmail.com,6b289530-390b-4fbc-a2f2-7adff1dc65eb
+12/18/2024,Guadalajara,Auriculares-Cancelaci√≥n de ruido-16GB,1031.51,1,1031.51,Pascual Gracia Robles,teodorogarrido@barragan.biz,1b8b26e6-8632-4b38-8f73-c6f0e70ccf60
+10/18/2024,Cali,Laptop-Ultraliviana-32GB,700.55,5,3502.75,Bianca √Åvalos Cant√∫,hborrego@hotmail.com,46208692-578c-41c7-a7ca-6da2fc87ff43
+2/11/2024,Monterrey,Tablet-Estándar-4GB,2138.25,2,4276.5,Espartaco Jos√© Eduardo Zayas,bustosclemente@quinones-carreon.com,d67ed293-5149-4284-baa6-032c288347c3
+10/21/2024,Guadalajara,Laptop-Gaming-8GB,1604.02,5,8020.1,Alma Mondrag√≥n Elizondo,margarita66@hotmail.com,a12e4ea3-c46c-4bfd-9028-7458aa0b25d1
+12/29/2024,Medellín,Auriculares-Con cable-4GB,714.18,4,2856.72,Dr. Aida Perales,abrilbadillo@hotmail.com,3bd772bc-8bbc-41a0-b2df-bdeee19f3595
+9/10/2024,Cali,Tablet-Mini-16GB,2181.56,5,10907.8,Jos√© Urrutia,santiagorodriquez@despacho.com,6150fdc0-97c3-4c8a-9865-22d23587632f
+12/14/2024,Ciudad de M√©xico,Laptop-Oficina-16GB,2083.24,1,2083.24,Humberto Yeni Ceballos,rgomez@gmail.com,5532c3c2-1fd2-4b63-a93a-fe0891b55345
+12/18/2024,Cali,Teléfono-Gama media-4GB,879.04,2,1758.08,Lorenzo Rafa√©l Morales Valles,zoe02@yahoo.com,346d7c42-eb45-461e-a667-5669781129fb
+4/12/2024,Medellín,Teléfono-Gama baja-4GB,1606.74,4,6426.96,Florencia Viera,nataliamaestas@yahoo.com,c18afb66-4e4c-4a10-8418-cc817467cd65
+11/11/2024,Monterrey,Tablet-Mini-4GB,2442.23,4,9768.92,Camila Arcelia Enr√≠quez Hinojosa,ehernandez@nieto.com,3f4e6744-9808-4bca-91b6-ef2b005468ab
+7/11/2024,Guadalajara,Teléfono-Gama baja-16GB,462.11,4,1848.44,Felipe Fuentes Loera,silvia37@yahoo.com,96733b38-2406-4c1b-a994-b0ac17d42098
+8/12/2024,Ciudad de M√©xico,Auriculares-Bluetooth-8GB,867.71,3,2603.13,Leonardo Griego,quinonesleonardo@industrias.com,f31c900d-f7f8-4aa9-8044-9fceda063770
+12/28/2024,Bogotá,Teléfono-Gama baja-8GB,1793.94,3,5381.82,Nadia Canales N√∫√±ez,miriam44@bravo.com,0aaaf135-b356-4f2c-bdf2-f1df1f461081
+11/25/2024,Cali,Tablet-Mini-32GB,2068.34,2,4136.68,Soledad Yeni Gonzales,marco-antonioverduzco@yahoo.com,27424277-2200-4cc7-a0af-4c423a089f4b
+12/23/2024,Medellín,Laptop-Gaming-8GB,2469.75,5,12348.75,Samuel Esteban Caraballo Balderas,eugeniocano@yahoo.com,7262df37-0083-41ed-b686-43f93dc8ea21
+10/16/2024,Ciudad de M√©xico,Teléfono-Gama baja-32GB,1268.91,2,2537.82,Rosalia Florencia Contreras,olverapamela@yahoo.com,54ac59d8-1eda-4373-bd55-691a4a1a13f9
+12/14/2024,Ciudad de M√©xico,Tablet-Estándar-32GB,818.61,3,2455.83,Eugenio Almonte,kescamilla@garza-olivares.com,b5bf5404-1040-4584-9e23-bd9aa4a748c4
+8/11/2024,Monterrey,Teléfono-Gama baja-32GB,500.92,5,2504.6,Francisca Norma Valle Lozada,joaquin53@yahoo.com,7570252f-383e-4b44-92de-ec6fa27e5c27
+3/12/2024,Cali,Teléfono-Gama baja-4GB,2247.57,4,8990.28,Olga Delgadillo,acasas@yahoo.com,d99b4d05-4df3-4c9f-a3a3-39f8b9dd5f4b
+11/20/2024,Guadalajara,Laptop-Ultraliviana-16GB,2189.91,3,6569.73,Cristina Anguiano,felixramon@gmail.com,21534354-fc0b-48d9-9d78-62a4badc1a43
+12/28/2024,Guadalajara,Tablet-Mini-8GB,2144.75,1,2144.75,Dr. Estefan√≠a Casas,madridolga@yahoo.com,1fc16a62-28d6-40bf-bd79-70a515ccaa32
+12/28/2024,Bogotá,Teléfono-Gama alta-16GB,1642.37,3,4927.11,Dr. √ìliver de Le√≥n,del-vallegabino@cornejo-valles.info,123ae22b-bc9d-4228-96dc-fc15dfb19590
+6/11/2024,Cali,Tablet-Estándar-16GB,2005.24,1,2005.24,Esperanza √ìscar Zelaya,ceciliasaiz@industrias.com,e6a2b4de-97d2-4faf-82a6-28b39ab6b1b4
+11/21/2024,Monterrey,Laptop-Oficina-8GB,1944.02,1,1944.02,Estefan√≠a Ruiz,mateocastro@club.com,6fbf18c0-1d19-4cf9-b5cc-83d5970b7678
+"Nov 19, 2024",Cali,Auriculares-Cancelación de ruido-32GB,215.41,1,215.41,Mariana Guerrero Arreola,catalina70@gmail.com,08b75205-ce56-4b95-a64f-9819304e40e0
+5/11/2024,Ciudad de M√©xico,Laptop-Oficina-16GB,2331.11,4,9324.44,Francisco Javier Gustavo Gracia Arteaga,saldanawilfrido@grupo.com,54e1665d-4b89-4a00-ac21-c0dbd0a9f8e2
+10/15/2024,Cali,Tablet-Estándar-16GB,1966.38,5,9831.9,Eloisa Orta,yzedillo@despacho.org,8f822140-8a36-4160-bf5d-68a254229e14
+11/28/2024,Guadalajara,Auriculares-Bluetooth-4GB,1496.64,2,2993.28,Magdalena Carlota P√©rez,wulloa@industrias.com,76479ec1-d623-4c0b-afe8-94ed5d2b1841
+10/15/2024,Medellín,Laptop-Oficina-8GB,2242.47,4,8969.88,Cristal Andr√©s G√≥mez,villarebeca@gmail.com,70a2c437-9cb0-4e0b-9cd5-ec6294260bb1
+12/20/2024,Ciudad de M√©xico,Laptop-Oficina-32GB,1507.69,5,7538.45,Celia Cardona Griego,luiscastellanos@club.com,dac9f21c-448d-4f16-bcea-f8eb66b827c1
+12/24/2024,Medellín,Teléfono-Gama baja-16GB,920.71,4,3682.84,Marisela Zeferino Adame Ure√±a,cintronjose-emilio@rascon-najera.com,ed9aad8e-d0c1-4dda-a2ae-ab5809b7fd52
+10/29/2024,Bogotá,Teléfono-Gama media-4GB,140.58,3,421.74,Leonel Ponce,pazrocio@gmail.com,fa9e790b-934a-4153-b8d1-cb8319d59c61
+11/12/2024,Monterrey,Auriculares-Bluetooth-16GB,1383.94,3,4151.82,Santiago Fr√≠as,nayelipedroza@samaniego.com,2fcfe31d-bbe3-4d02-997b-2a688e44aa4a
+12/15/2024,Cali,Laptop-Ultraliviana-16GB,806.78,1,806.78,Dr. Eugenia J√°quez,graya@quintero.com,24b8ae05-3a27-4a1d-b704-94fbf52b7e78
+10/29/2024,Ciudad de M√©xico,Teléfono-Gama alta-8GB,1292.41,5,6462.05,Ignacio de la Garza,rodolfolucio@gmail.com,0e47c0df-dd8b-487b-8097-21c972837f36
+5/11/2024,Medellín,Tel√©fono-Gama media-8GB,1983.71,2,3967.42,Eugenia Maga√±a Tejeda,paolaverdugo@yanez.com,f021cbf0-6ce0-45dd-82d0-c26df5f5cc72
+11/10/2024,Tulum,Teléfono-Gama media-32GB,2390.84,5,11954.2,Alfonso Ger√≥nimo Tovar Merino,xnino@yahoo.com,0a194163-91a5-4990-a439-13d2a04cdd0d
+11/15/2024,Guadalajara,Auriculares-Cancelaci√≥n de ruido-16GB,1943.33,1,1943.33,Lilia Esteban Lucio,rosarioalmaraz@gmail.com,26650ad1-0a4e-4c43-b8b0-99095f0adc66
+11/14/2024,Bogotá,Tel√©fono-Gama media-8GB,718.69,4,2874.76,Abril Fonseca,jorgecervantes@yahoo.com,0c2c5144-f911-42db-bd29-5f8d9540954e
+12/21/2024,Cali,Tel√©fono-Gama media-8GB,1979.07,1,1979.07,Adalberto Nayeli Villarreal D√°vila,raulbarela@barrera-najera.org,8e4ddf27-be01-4cd2-bc4a-4045e7298017
+10/19/2024,Cali,Auriculares-Con cable-32GB,2317.94,4,9271.76,Lic. Alfredo Fl√≥rez,franciscaarredondo@club.com,e17b8e31-1444-4e73-8d2e-98e479a23fab
+12/21/2024,Guadalajara,Laptop-Gaming-32GB,1397.8,2,2795.6,Mtro. Josefina Miramontes,veronicaalarcon@gmail.com,89a9fe2d-5336-4fdd-98cc-119f72686d97
+12/10/2024,Cali,Teléfono-Gama alta-16GB,974.06,5,4870.3,Seraf√≠n Antonio Fonseca,karinacarrera@mascarenas.info,b6857111-61b8-43f5-8981-c8ec006f2fb9
+12/30/2024,Monterrey,Auriculares-Con cable-8GB,2086.06,1,2086.06,Pedro Eric Parra Palacios,barrazacornelio@yahoo.com,2ee16a28-cb66-41ad-9e11-480593b992f3
+12/10/2024,Guadalajara,Auriculares-Cancelación de ruido-8GB,1808.15,2,3616.3,Mitzy Noelia Ramos Menchaca,montezmicaela@laboratorios.org,1801df3c-96b3-4e4a-be9c-19777e295ccd
+11/20/2024,Guadalajara,Tablet-Pro-8GB,1130.03,5,5650.15,Marisol Santana,ypichardo@hotmail.com,2928f18a-0aa5-4ac6-90e5-f816a534a90a
+10/16/2024,Ciudad de M√©xico,Laptop-Ultraliviana-8GB,903.41,3,2710.23,Diego Armando Portillo,rociopalomino@valenzuela.com,278f1d63-6044-406a-b286-8ed51ce0b45a
+10/23/2024,Medellín,Laptop-Gaming-32GB,379.64,3,1138.92,Marcos Adriana Orosco B√©tancourt,franciscabonilla@yahoo.com,673092af-8716-453b-88f4-efdc6f33c1e5
+12/26/2024,Cali,Auriculares-Con cable-8GB,554.25,1,554.25,Diego Nancy Madrid Cornejo,velafabiola@hotmail.com,69ab5c31-c863-41d0-94a7-8aa6b0126003
+5/11/2024,Monterrey,Teléfono-Gama media-4GB,1832.19,1,1832.19,Ofelia Duarte,elenagallardo@corporacin.com,572359f3-27ef-41f5-90d5-4388fd663182
+11/20/2024,Ciudad de M√©xico,Auriculares-Cancelación de ruido-32GB,1485.74,3,4457.22,Benjam√≠n Luisa Marrero Fr√≠as,maria-cristinamatos@hotmail.com,111af87c-5fa3-4502-94ae-5ee5b28a52c9
+10/11/2024,Monterrey,Auriculares-Con cable-16GB,1699.32,4,6797.28,Daniela Uribe,qcolon@laureano-solorzano.net,a1278508-c2d2-4e1a-9ab3-cd5dcc25c9cf
+9/11/2024,Ciudad de M√©xico,Auriculares-Bluetooth-4GB,1780.69,4,7122.76,Mtro. Marco Antonio Cornejo,dibarra@hotmail.com,4c951415-a35b-4aaa-9767-bb49b70a1cd4
+5/11/2024,Medellín,Tablet-Estándar-4GB,484.68,5,2423.4,Ing. Wilfrido Arenas,wgracia@yahoo.com,d00a9636-3e8a-4e5a-be93-4b7605de2c32
+3/10/2024,Bogotá,Auriculares-Bluetooth-4GB,583.8,5,2919,Elias Jos√© Eduardo Mar√≠n Palomino,isabela00@despacho.net,74e8a449-803e-4d73-82f1-7db487e8dff0
+10/14/2024,Monterrey,Auriculares-Con cable-16GB,579.54,3,1738.62,Ing. Judith Ayala,paolavergara@laboratorios.net,64e8cb7b-f59e-470c-b704-3f79a8f2cc9e
+11/29/2024,Ciudad de M√©xico,Laptop-Oficina-32GB,1615.43,5,8077.15,Lic. Cristobal Ortega,halfaro@despacho.com,b73ffa14-dae4-45da-b61f-6c3f7f80a89e
+12/22/2024,Monterrey,Auriculares-Bluetooth-16GB,489.63,1,489.63,Leonel Cruz Enr√≠quez,marmas@gmail.com,a49f90f7-8839-4571-8758-445882bf113d
+11/10/2024,Medellín,Teléfono-Gama media-4GB,1415.48,1,1415.48,Jer√≥nimo Jos√© Manu√©l Maga√±a,amaliaespino@mota-bernal.info,63646080-8a8e-4da1-9008-d9bbefce4fdd
+5/10/2024,Ciudad de M√©xico,Teléfono-Gama alta-4GB,613.16,1,613.16,Lic. Abelardo Melgar,haroaugusto@saenz.com,f3721b83-8d8d-4d6f-8765-534b41a15805
+1/11/2024,Cali,Laptop-Ultraliviana-32GB,1295.8,1,1295.8,Jaqueline Sessa Guti√©rrez,escobedogerman@hotmail.com,b4ec93f1-1142-488b-8b2b-61eeafdd8adf
+11/15/2024,Medellín,Laptop-Oficina-8GB,2040.92,1,2040.92,Indira Eugenia Fuentes,cabreraabelardo@gmail.com,3cef5bc2-1b15-4ce6-a4a3-3a3e5951e220
+11/16/2024,Medellín,Auriculares-Bluetooth-4GB,1441.97,3,4325.91,Dr. Graciela Garibay,indiracarrasco@gmail.com,d7d84721-5bb1-4a4d-b1af-1660508cc586
+4/11/2024,Guadalajara,Laptop-Oficina-32GB,1081.59,3,3244.77,Dolores Rodolfo Rojas Arellano,isabela67@hotmail.com,231bf5a4-802c-4e67-87f9-145a7ddc42e3
+10/24/2024,Ciudad de M√©xico,Teléfono-Gama baja-32GB,1901.74,4,7606.96,Karina G√°lvez Dur√°n,navajose-eduardo@peralta.org,39df2d77-4667-462c-a9a5-a4502b01e2af
+5/11/2024,Ciudad de M√©xico,Laptop-Gaming-32GB,231.5,1,231.5,Flavio Iv√°n Casillas,sonia90@yahoo.com,d2791f68-c024-4553-af35-174d74e629f4
+10/26/2024,Cali,Laptop-Gaming-32GB,724.28,4,2897.12,Dr. Emilio Leiva,mejiaricardo@yahoo.com,9a710806-780e-4656-b1d2-a4266eab7458
+2/12/2024,Medellín,Tablet-Estándar-8GB,1796.72,4,7186.88,Alicia Rosales,cochoa@industrias.com,cf2331f6-6c22-469f-92b8-831ddcc71327
+12/20/2024,Monterrey,Tablet-Mini-4GB,2086.91,5,10434.55,Elvira Marisol Reyes Alfaro,carlotaacevedo@benavidez.com,a07f9aa3-2d4a-44b5-983f-9e8c4f941136
+11/29/2024,Cali,Auriculares-Bluetooth-8GB,411.02,1,411.02,Fidel Mateo Parra Ulloa,cardonapascual@industrias.info,348f55a1-ec49-4749-b0f2-d28f1d6587c1
+6/12/2024,Ciudad de M√©xico,Teléfono-Gama baja-32GB,1064.4,3,3193.2,Mtro. Leonardo Orosco,santiago26@anaya.com,5960a10e-3314-40d0-846b-6eb21cf652c1
+6/11/2024,Monterrey,Laptop-Ultraliviana-16GB,1381.5,5,6907.5,Julio C√©sar Olivares Matos,jacinto25@almanza.com,3d38346c-86e1-40f6-996c-c0eaaf43480d
+10/30/2024,Medellín,Auriculares-Bluetooth-4GB,201.31,5,1006.55,Ing. Hern√°n Vallejo,sernaemilia@yahoo.com,f0291dc4-c15b-4bcc-97f0-04c50c8926f6
+4/12/2024,Monterrey,Teléfono-Gama alta-4GB,1083.12,1,1083.12,Miriam Arcelia Casares,reynaldoestevez@club.com,0147e75f-4472-491b-8912-4bd7d08758ad
+12/10/2024,Guadalajara,Laptop-Ultraliviana-16GB,1969.69,4,7878.76,Clara del Valle,carlotacastro@yahoo.com,af657191-85e9-4afd-94e6-b34adf3aa8e2
+11/11/2024,Bogotá,Auriculares-Con cable-16GB,2498.64,2,4997.28,Claudio Ana Aguirre Ur√≠as,celia37@guardado.com,594ee58d-dd9f-43f8-bbcc-5f4716f3b8bf
+12/27/2024,Monterrey,Laptop-Oficina-16GB,314.84,1,314.84,Ing. Georgina Murillo,angel23@yahoo.com,7a491145-3991-4010-a1e5-3b0f7d86b7e3
+4/11/2024,Cali,Auriculares-Con cable-4GB,752.58,2,1505.16,Sr(a). Catalina Mat√≠as,molinadaniel@aleman.com,d433dfae-3ab4-4d09-9f43-eecdb06eb894
+12/14/2024,    Monterrey,Auriculares-Con cable-32GB,2389.97,3,7169.91,Sr(a). Mar√≠a Navarrete,valverdeadalberto@bernal-arellano.com,d079bbf1-e637-4020-8ca5-6bb2c45c34f9
+8/12/2024,Medellín,Tablet-Pro-8GB,2374.3,1,2374.3,Pilar Collado,qgamboa@gmail.com,abd79166-5325-4e3f-92fd-bea6b2eaa389
+4/10/2024,Cali,Tablet-Estándar-8GB,532.35,3,1597.05,Arcelia Navarrete,uperez@hotmail.com,67cf0ad8-c53a-447e-84ac-fa1c61feafcc
+5/12/2024,Ciudad de M√©xico,Tablet-Mini-16GB,1490.14,1,1490.14,Amalia Soledad Alba Crespo,guillerminaborrego@grupo.org,a7c8d4b5-9c71-48ec-b135-330a9ff45957
+11/25/2024,Bogotá,Teléfono-Gama baja-4GB,1390.26,1,1390.26,Benito Monta√±ez,etoledo@gmail.com,32755cad-98f9-4eda-8888-7def2a0dd965
+12/13/2024,Bogotá,Teléfono-Gama alta-16GB,494.57,1,494.57,Mtro. Emilia Rol√≥n,alicia10@yahoo.com,3773bcf2-e766-445f-90a8-279d0bd1b1ae
+10/23/2024,Guadalajara,Teléfono-Gama alta-32GB,1582.73,2,3165.46,Aldo Lira,riveraleonardo@carrasco.com,757f4440-b8cd-45b5-9b13-c97ac0e0b03c
+11/12/2024,Guadalajara,Tablet-Mini-16GB,812.41,5,4062.05,Elvira Laboy,henriquezjose-maria@gurule.net,29b35046-a922-4222-bb43-d4f2e673f05e
+12/19/2024,Monterrey,Teléfono-Gama baja-16GB,432.18,1,432.18,Evelio Pilar Urbina,cgallegos@vaca-bahena.net,1f4ac01b-7a1a-4d64-ae6d-a13b0dd45606
+12/11/2024,Ciudad de M√©xico,Teléfono-Gama baja-4GB,1603.02,4,6412.08,Indira Orozco Cuellar,esthersantacruz@gmail.com,a2ab5f05-64d9-4b5f-a606-40a5bd1bb17c
+12/30/2024,Monterrey,Laptop-Oficina-16GB,2019.54,3,6058.62,Gilberto Fajardo Esquivel,tvaldivia@alarcon.info,5cfc2d19-d3e9-408a-82b3-9e72a480e588
+10/15/2024,Medellín,Tablet-Estándar-4GB,1896.1,2,3792.2,Elena Ballesteros,de-la-torrelorenzo@yahoo.com,36cc47e7-ea9e-410e-ab8c-53adeed2d905
+10/13/2024,Medellín,Teléfono-Gama alta-8GB,226.52,2,453.04,Ing. Cecilia Gurule,pulidoindira@industrias.org,13857721-e31a-444e-a2c2-774566eb5f26
+12/25/2024,Monterrey,Teléfono-Gama alta-4GB,2334.37,1,2334.37,Esmeralda Eugenia Ceja,hruelas@gmail.com,37a9f5be-b24a-4f6c-97bd-9b822a31fa1d
+2/11/2024,Medellín,Tel√©fono-Gama media-8GB,2180.21,3,6540.63,Roc√≠o Eugenio Villag√≥mez,lorenzo86@cervantes.org,a9224dd3-b260-4439-9c91-63c444209873
+9/12/2024,Cali,Auriculares-Cancelaci√≥n de ruido-16GB,2439.67,2,4879.34,Tania Carrera,iquintanilla@hotmail.com,d7a87238-7091-401f-a18e-21c1309e9064
+12/11/2024,Cali,Tablet-Mini-16GB,1076.71,3,3230.13,Carmen Curiel Samaniego,warellano@hotmail.com,cb8f4dea-863b-4651-a226-6e0dec00b253
+10/12/2024,Bogotá,Auriculares-Bluetooth-4GB,1163.04,1,1163.04,Mariano Fuentes Esquibel,juana28@hotmail.com,538c9408-8b8b-4785-b9f9-cd2657097173
+9/10/2024,Medellín,Teléfono-Gama baja-8GB ,1701.36,3,5104.08,Lic. Ana Mar√≠a N√°jera,jacinto89@cadena.com,100275b6-8299-499c-9ddf-e472309c9cf0
+11/26/2024,Ciudad de M√©xico,Laptop-Oficina-8GB,1892.73,5,9463.65,Mtro. D√©bora Escamilla,malaveluz@yahoo.com,1e54c09b-4c64-4a56-be8d-61e1318d7de9
+11/19/2024,Bogotá,Auriculares-Con cable-8GB,1097.51,1,1097.51,Eric Monta√±ez Vel√°zquez,eugeniobravo@gmail.com,be84e0fe-9e4b-46e0-be04-6f0f71667755
+10/23/2024,Cali,Tablet-Mini-8GB,1362.97,1,1362.97,Delia Wilfrido Valladares Tapia,dolores01@gmail.com,ee97ba16-5d7f-4349-b9a0-cc9069b8707b
+11/15/2024,Guadalajara,Teléfono-Gama media-16GB,1626.83,1,1626.83,Olivia Amelia Cadena,barriosconchita@industrias.com,4166e455-ac94-49a0-9bd8-7a5c8a17ac45
+12/18/2024,Medellín,Auriculares-Con cable-32GB,292.99,1,292.99,Ad√°n Prado,mesaursula@barragan-chapa.com,2613eb8c-73dd-4b40-8ff0-7cf4fa29b165
+11/20/2024,Medellín,Teléfono-Gama baja-4GB,1570.12,3,4710.36,Mariano Corrales Orosco,jorge49@gmail.com,22325f75-012a-4872-929d-f3dcad77dde8
+12/23/2024,Monterrey,Tablet-Mini-32GB,2174.89,2,4349.78,Ana Mar√≠a Pichardo Sep√∫lveda,partidaisrael@ramon.info,4404f1db-09be-4f2c-92f0-2d65ee6b0394
+1/12/2024,Ciudad de M√©xico,Laptop-Oficina-8GB,1288.12,1,1288.12,Cristina del R√≠o Longoria,olverahelena@yahoo.com,daf5edee-c366-417d-9cd7-be77ad5d329a
+12/28/2024,Ciudad de M√©xico,Tablet-Pro-32GB,158.82,2,317.64,Dr. Mar√≠a Eugenia Valdivia,dvaladez@saldivar.biz,66f10c57-ee31-4fe2-b3a9-4e88f49e1e71
+12/20/2024,Ciudad de M√©xico,Laptop-Gaming-4GB,1092.96,4,4371.84,Miguel Romo,barbara15@laboratorios.info,c3bb3562-c65e-4e05-bfb3-9df465d18c89
+10/19/2024,Bogotá,Laptop-Gaming-16GB,722.95,3,2168.85,Alejandro Hermelinda Mondrag√≥n Alvarado,tcamarillo@gmail.com,a84bc74c-2d98-4331-a5a9-c762bb61fb2e
+10/15/2024,Bogotá,Teléfono-Gama media-4GB,829.53,4,3318.12,Roc√≠o Villareal,roqueelsa@gmail.com,6c3fead4-1fe5-4288-be37-3b39d5d98304
+9/12/2024,Monterrey,Tablet-Mini-16GB,680.45,4,2721.8,Dr. Carlos Peralta,sierraluis-miguel@hotmail.com,2f42e9be-b4f9-41cd-9925-02253d8b26bb
+12/10/2024,Medellín,Tablet-Mini-16GB,2351.13,1,2351.13,Olga Georgina Iglesias,jrobledo@proyectos.org,d7e693a3-06a8-4900-a649-17ebdc044442
+12/29/2024,Monterrey,Tablet-Estándar-8GB,792.6,5,3963,Dalia Barrera,ymendez@yahoo.com,47c5d8d5-18ad-4bf9-80ad-542822b25aca
+12/15/2024,Guadalajara,Tablet-Pro-8GB,741.53,3,2224.59,Jorge Bernardo √Åvalos,silvano60@velasco.com,e13367f1-7d08-4bb3-a252-f1741f4928d8
+11/23/2024,Cali,Tablet-Pro-16GB,72.37,4,289.48,Emiliano Violeta Anguiano Paz,verdugooswaldo@industrias.org,0c6b7809-83fa-4fe8-ae0d-766b000834e5
+10/19/2024,Ciudad de M√©xico,Auriculares-Bluetooth-32GB,242.27,1,242.27,Ing. Guadalupe Borrego,isuarez@rodriguez.info,a87e348f-adbc-474d-84ab-934239890915
+2/11/2024,Cali,Teléfono-Gama baja-32GB,2097.38,2,4194.76,Lic. Benito Ram√≥n,villalobosmaximiliano@laboratorios.com,0b90db1b-0e53-4695-b650-7bf4633ec0f6
+10/20/2024,Medellín,Auriculares-Cancelación de ruido-8GB,270.83,3,812.49,Sr(a). Ricardo Velasco,yeni97@hotmail.com,ec133e61-2767-4fb0-ab9c-665b9e47a3d2
+2/11/2024,Bogotá,Tablet-Mini-32GB,494.09,4,1976.36,Amanda Gollum,agaona@despacho.com,caf893af-e7d0-485a-b903-5b6bb7b717d6
+10/27/2024,Ciudad de M√©xico,Tablet-Estándar-16GB,1984.42,4,7937.68,Mercedes Amanda Jurado Centeno,bacaelvia@gmail.com,fcfe31f4-1827-4f08-8c09-fac8682e5bbc
+11/16/2024,Bogotá,Laptop-Ultraliviana-4GB,992.95,3,2978.85,Mtro. Marcos Rivas,bbenavides@grupo.biz,5b8c2387-f4d6-4823-8d42-a41707a832ef
+9/12/2024,Medellín,Laptop-Oficina-16GB,2230.77,5,11153.85,Norma Mel√©ndez,gcaban@laboratorios.net,053c462d-890c-45f0-8bb4-0f12c91d58e7
+12/11/2024,Guadalajara,Tablet-Pro-8GB,1203.25,4,4813,Augusto Ad√°n Ni√±o,karla73@yahoo.com,4f0f1770-3af6-4b65-a5e9-61a996e12a76
+8/12/2024,Guadalajara,Auriculares-Cancelación de ruido-4GB,1912.01,4,7648.04,Amador Hernandes Men√©ndez,calderaamador@mora-anguiano.info,b02eb611-668d-4716-946e-2f69918d05a7
+1/12/2024,Medellín,Laptop-Oficina-32GB,2049.26,5,10246.3,Alejandro Longoria,maria-jose75@grupo.com,cc794401-1ded-4891-a6ef-5cdc5b5384d5
+3/12/2024,Medellín,Auriculares-Cancelaci√≥n de ruido-16GB,1088.33,4,4353.32,Amelia Oswaldo Bernal Ni√±o,zamoraclaudia@yahoo.com,62f7a1a9-7e11-442a-9de5-499e9da93e2f
+12/24/2024,Ciudad de M√©xico,Teléfono-Gama media-32GB,1089.03,5,5445.15,Liliana Verduzco,yamaya@yahoo.com,75a62e15-6018-4f88-b473-5dd4eb79e63b
+12/08/2024,Monterrey,Tablet-Estándar-8GB,155.7,5,778.5,Espartaco Arguello Bustamante,oscararmas@grupo.com,ed2a25dc-7b7a-4810-9252-9fa56521ff40
+"Oct 01, 2024",Bogotá,Auriculares-Con cable-32GB,716.29,1,716.29,Evelio Ramiro Arce,gaytansergio@navarro.info,10c739f0-f7fb-4c8e-a239-ed1f5c295465
+10/13/2024,Ciudad de M√©xico,Tablet-Mini-32GB,1922.79,3,5768.37,Elias Juan Carlos Est√©vez Cepeda,virginiameraz@yahoo.com,a2d32009-f750-4260-8311-8300bd425ff8
+"Nov 01, 2024",Bogotá,Teléfono-Gama alta-4GB,1992.15,2,3984.3,Mtro. Carmen Leyva,reynadulce-maria@hotmail.com,15d306a8-d422-44fb-9ae9-88cc0402b65d
+12/30/2024,Guadalajara,Auriculares-Con cable-8GB,823.08,4,3292.32,Oswaldo Maga√±a,najerazeferino@hotmail.com,4d3c7cfd-d33e-47a8-a31b-f2a694c31429
+10/06/2024,Medellín,Tablet-Estándar-32GB,1753,5,8765,Cristal Rinc√≥n,maria-teresaibarra@yahoo.com,a4b8a935-59ba-43d2-9d68-660ee91a5acd
+12/13/2024,Guadalajara,Laptop-Gaming-32GB,2145.76,5,10728.8,Mar√≠a Maximiliano Ochoa,zramos@bahena-maya.info,8f691093-3270-4ace-ae7f-f6404f3e9c97
+11/05/2024,Guadalajara,Teléfono-Gama alta-16GB,1826.03,2,3652.06,Nelly Hern√°n R√≠os Guardado,francisco-javiersalcedo@hotmail.com,c6f0a1e2-99c5-4a17-b0d8-ad6d416c81cc
+"Oct 26, 2024",Medellín,Auriculares-Cancelación de ruido-32GB,174.28,1,174.28,Yeni Tafoya,umata@despacho.com,b8d7d438-42a6-490e-878a-eabf47bc2626
+12/25/2024,Cali,Tablet-Mini-16GB,648.35,5,3241.75,Estela Alejandro Caballero,olivia25@proyectos.com,325642ee-2d8b-4a13-a954-d573be58d386
+11/16/2024,Medellín,Auriculares-Cancelación de ruido-32GB,456.65,2,913.3,Federico Angulo,federico70@velasco.biz,b97d18e7-1657-470e-bc41-0860e9f0889b
+12/07/2024,Ciudad de M√©xico,Tablet-Pro-32GB,1566.88,3,4700.64,Dr. Felix Pizarro,elena24@despacho.info,eec053a4-5ae1-415f-b30f-845523ab472b
+11/24/2024,Monterrey,Teléfono-Gama alta-4GB,1880.14,1,1880.14,Alonso Guti√©rrez Gonzales,vdavila@gmail.com,8ea7037d-ea94-41a9-96b7-83c29d8264c3
+"Oct 15, 2024",Medellín,Laptop-Ultraliviana-32GB,2377.34,2,4754.68,Natividad Armenta Espino,vcontreras@yahoo.com,a7a8f827-451d-439f-95ca-6682c5127351
+12/29/2024,Monterrey,Auriculares-Cancelaci√≥n de ruido-16GB,1811.9,1,1811.9,Sr(a). Diego Adame,hestevez@yahoo.com,8dac1bb0-62a5-4b93-9f18-74bb64e1f8a8
+11/21/2024,Bogotá,Auriculares-Cancelación de ruido-4GB,1160.21,2,2320.42,Dr. Rosa Serrano,agustin99@hotmail.com,01033810-39b1-401b-94e8-71a15ff61d49
+10/24/2024,Ciudad de M√©xico,Tablet-Estándar-8GB,,5,3716.95,Nancy Horacio Porras,karinajaimes@grupo.net,6486d7e7-8b63-4036-a105-6f846c2be7ab
+"Dec 17, 2024",Bogotá,Laptop-Ultraliviana-32GB,1698.28,3,5094.84,Lic. Hugo Polanco,aldoescamilla@grupo.com,570e94ce-b053-46a5-8a1e-1a663553c880
+12/03/2024,Cali,Laptop-Ultraliviana-8GB,690.26,4,2761.04,Sr(a). Alta  Gracia Espino,montanoreina@navarrete-botello.net,2c43e82b-a86a-44f0-a9c7-359db0ff3d83
+10/18/2024,Medellín,Tablet-Estándar-16GB,1034.4,1,1034.4,Ver√≥nica Jurado Gonzales,ivenegas@club.com,c959873c-5ee3-4647-bd0b-df86bd37e523
+11/19/2024,Ciudad de M√©xico,Auriculares-Con cable-8GB,1868.8,2,3737.6,Carolina Cab√°n Ur√≠as,bruno96@hotmail.com,6df2b0ce-9ac0-4cf2-946a-557bf24c972f
+"Oct 23, 2024",Bogotá,Tablet-Mini-16GB ,1817.8,3,5453.4,Evelio Holgu√≠n Galarza,aurelio09@fuentes.com,2f004d71-2bd5-4fdb-a629-c4409dbaf7b8
+11/10/2024,Monterrey,Tablet-Pro-16GB,1384.09,2,2768.18,Oswaldo Jorge Mota,luis-manuelperes@club.info,c6836bfa-f154-46e7-81fa-88577b4553a6
+10/16/2024,Medellín,Laptop-Ultraliviana-8GB,259.75,4,1039,Dr. Diana Olivas,vmesa@valdes-suarez.com,f2f8a751-e6da-4e2b-b90b-7189fd4833ad
+"Dec 24, 2024",Medellín,Tablet-Mini-16GB,500.74,4,2002.96,Dolores Pablo Men√©ndez,beatriz85@almanza-carrera.com,2119f43d-1200-4439-ad32-eab189cb6475
+12/04/2024,Tulum,Teléfono-Gama alta-16GB,1113.91,2,2227.82,Abigail Castillo,flavio50@proyectos.com,4d39c9a6-3193-454d-9981-2f01cdfb6409
+11/14/2024,Monterrey,Auriculares-Bluetooth-8GB ,2474.36,2,4948.72,Dr. Ram√≥n Miramontes,prietojorge@hotmail.com,33b5cb0d-ba44-4160-8e1f-1175cb33b310
+"Dec 06, 2024",Bogotá,Auriculares-Con cable-4GB,1440.56,1,1440.56,Mart√≠n Sara Verduzco,susanarodrigez@granado-mora.com,b21c5672-3d61-481e-bd82-6e363e042060
+10/21/2024,Medellín,Teléfono-Gama baja-32GB,72.75,3,218.25,Omar Irene Corral,agamboa@corporacin.com,41fe435e-4e1c-498f-8112-8a52ebd37db7
+"Nov 22, 2024",Bogotá,Tablet-Estándar-8GB,776.93,1,776.93,Irene Saldivar,isabel20@macias.org,df7beeeb-1466-45c0-b687-7861cff4c459
+12/14/2024,Guadalajara,Laptop-Gaming-4GB,997.09,2,1994.18,Raquel Crespo Carri√≥n,flaviorosado@yahoo.com,7896d226-252e-4fbf-902d-719da7aaaf24
+"Dec 16, 2024",Monterrey,Laptop-Gaming-32GB,842.36,5,4211.8,Raquel Dom√≠nguez Vanegas,victor71@hotmail.com,732de4a4-0325-4391-a400-19ffb39fdec9
+10/17/2024,Cali,Tablet-Pro-32GB,228.78,1,228.78,Antonio Jes√∫s Vallejo Bravo,uescalante@gmail.com,3a57b856-992a-4aa3-a497-f62acef32235
+"Oct 25, 2024",Guadalajara,Auriculares-Bluetooth-4GB,2382.64,4,9530.56,Barbara Perla God√≠nez,yolandamontalvo@gmail.com,1dada63c-2f5a-48d7-8e04-d26aacd30687
+"Nov 09, 2024",Tulum,Auriculares-Cancelación de ruido-4GB,1111.98,4,4447.92,Salvador Barela,itapia@despacho.com,11a0323a-7513-4fd6-84cf-79c923b2e72e
+12/23/2024,Monterrey,Tablet-Pro-32GB,1148.92,4,4595.68,Mayte Acevedo Viera,umayorga@yahoo.com,c7da08b2-c581-41ed-8398-757d407a24ef
+"Oct 19, 2024",Guadalajara,Tablet-Pro-4GB,1279.5,2,2559,Carmen Mac√≠as,zmelgar@corporacin.com,d9c044d0-2d9f-4974-b4ef-0cbae299e695
+11/12/2024,Guadalajara,Tablet-Estándar-16GB,424.12,2,848.24,Sr(a). Luc√≠a Montoya,jcintron@hotmail.com,c048f440-4471-4f5b-8f49-4805f745f284
+12/28/2024,Guadalajara,Auriculares-Bluetooth-32GB,1088.66,4,4354.64,Eugenio Fernando Delgado,zcamarillo@yahoo.com,983f661d-1d5c-478c-aef5-611a679c13a6
+"Oct 13, 2024",Bogotá,Tablet-Pro-8GB,,2,4429.96,Alta  Gracia Marrero Ocasio,leonardorosas@laboratorios.com,fad038ce-1b32-4c25-85bc-38c2262677ee
+12/26/2024,Guadalajara,Teléfono-Gama media-16GB,173.36,2,346.72,Conchita Calvillo Alba,sara71@lucero.com,257f5799-af41-462b-b2f9-acae82ba412c
+"Nov 30, 2024",Medellín,Laptop-Oficina-4GB,1560.05,1,1560.05,Alicia Agust√≠n Pi√±a,melgarbenjamin@laboratorios.com,586df37b-bacf-4952-94e8-20049c50d537
+12/20/2024,Guadalajara,Auriculares-Con cable-16GB,2114.97,1,2114.97,Cristian Mercedes Rubio Medrano,armando76@grupo.net,9e9a947c-796d-4653-bc4d-b777a5aa5e38
+"Oct 11, 2024",Cali,Tablet-Mini-32GB,1578.34,3,4735.02,Gustavo Berta Arag√≥n,del-riojuan@velasco.com,afc92f17-61fe-4e4e-84c2-09515ccc8e07
+"Nov 08, 2024",Medellín,Teléfono-Gama baja-32GB,427.92,2,855.84,√ìliver Ulloa,anel88@lugo.com,0d9c3f44-a748-478b-8652-36bac0fde7f7
+12/05/2024,Cali,Tablet-Pro-16GB,1742.12,4,6968.48,Lourdes Reyes Valladares,calderontania@hotmail.com,32a2277a-2bbc-47d0-9874-fcd6195b5e16
+"Nov 07, 2024",Bogotá,Auriculares-Bluetooth-4GB,841.48,2,1682.96,Humberto Rosas,andresquinonez@yahoo.com,98bc06e4-82c3-4589-93d7-e941e1ae7c85
+"Dec 10, 2024",Ciudad de M√©xico,Teléfono-Gama baja-4GB,173.92,3,521.76,Jer√≥nimo Palomino Lozano,aguilarespartaco@luevano.com,2d00fa46-ed9d-4a83-8d4f-00268740aa20
+10/14/2024,Medellín,Tablet-Mini-4GB,796.49,3,2389.47,Carmen Rufino T√©llez Benavides,leonortoledo@solorzano.com,dac843fc-5bc0-475f-a01e-8c48a965a9c2
+"Nov 20, 2024",Monterrey,Laptop-Gaming-16GB,2469.75,3,7409.25,Anel Marco Antonio Pati√±o,soledad84@yahoo.com,8faa345b-0095-4a30-b89a-79a7b53e217a
+10/10/2024,Cali,Teléfono-Gama alta-32GB,1420.28,4,5681.12,Alejandra N√°jera Miramontes,umadrigal@despacho.biz,38daf333-0f89-435f-9b2d-a6d639ff33df
+12/14/2024,Ciudad de M√©xico,Tablet-Mini-16GB,1939.56,5,9697.8,Jon√°s Pe√±a,rzavala@yahoo.com,71b6157e-f3ed-4bd0-83ed-fc382c96bff0
+11/25/2024,Ciudad de M√©xico,Auriculares-Bluetooth-8GB,1438.41,4,5753.64,Abril Rolando Cardona,estefania56@marrero.com,1e7c8a1d-abaf-4fac-be1b-22c8312a6026
+12/15/2024,Ciudad de M√©xico,Teléfono-Gama alta-32GB,1423.68,1,1423.68,Gabriela Aida Chapa,ycolon@gmail.com,b343399a-8398-43c0-a157-92dd7a44f5c7
+7/12/2024,Bogotá,Auriculares-Cancelaci√≥n de ruido-16GB,419.85,1,419.85,Guillermina Guajardo Griego,noelia85@gmail.com,0df64a43-b0b9-4928-8b22-58438782855d
+11/17/2024,Ciudad de M√©xico,Laptop-Gaming-4GB,877.11,1,877.11,Olga Merino Benavides,juanaceja@corporacin.org,3d80365e-3ca4-4c40-b7b5-8655955878bf
+16/16/2024,Bogotá,Tablet-Estándar-32GB,2260.99,2,4521.98,Florencia Jaramillo,trinidadmoya@yahoo.com,8f0f8ae1-20a3-4c9d-b76d-f1ebaf765b63
+10/31/2024,Medellín,Auriculares-Con cable-16GB,273.01,1,273.01,√Ångel Aldo Tello Noriega,rivascristian@grupo.com,60961cdf-09a7-4a32-8c6c-2d05f517439d
+2/12/2024,Cali,Auriculares-Cancelación de ruido-4GB,1919.62,2,3839.24,Timoteo Alvaro Lemus,eveliolara@peres.com,ba9d11bd-abcf-425b-a84b-aa0bb71654e0
+12/20/2024,Bogotá,Teléfono-Gama media-16GB,2077.18,4,8308.72,Dr. Fabiola Galindo,asuncion98@yahoo.com,a8b647c7-bcba-44a0-8e1a-6b49fad5f46a
+11/17/2024,Ciudad de M√©xico,Tablet-Mini-16GB,304.68,5,1523.4,Cristina Alejandro,mayteramon@gmail.com,df1772a5-47bc-4e80-a07f-cca86b2ebcdc
+10/14/2024,Bogotá,Tel√©fono-Gama media-8GB,1838.04,4,7352.16,Wendolin Fonseca,linda23@gmail.com,fc8a05ee-e84e-44f7-96be-898033a352b4
+11/21/2024,Ciudad de M√©xico,Auriculares-Con cable-16GB,536.87,1,536.87,Dr. Cristobal Villa,linda75@hotmail.com,27c73c7b-510b-4161-81d3-83559a1ad5b1
+11/14/2024,Cali,Tablet-Mini-4GB,1876.88,4,7507.52,Mar√≠a Cristina Esparta Partida Lozano,valenzuelarodolfo@yahoo.com,344db87d-a5d1-4172-aec9-fa915cf7c5b7
