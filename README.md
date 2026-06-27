@@ -7,6 +7,11 @@ Este proyecto aborda el ciclo de vida del dato para VentaExpress. Transformé un
 * **Sanitización**: Limpieza de correos y normalización de tipos.
 * **Arquitectura**: 5 capas (Raw, Cleaning, Metrics, Pivot, Executive Summary).
 * **Métricas**: Tablas Dinámicas Puras para integridad matricial.
+
+## :+1: Proceso de limpieza
+
+No se muestran datos duplicados tomando en cuenta el ID de orden 19 datos vacios en columnas "precio y monto" se sustituyeron con regla de 3; estos equivalen al 1.9% del total
+
 ## 🔬 Hallazgos
 * 🚨 **Anomalía de Captura**: 6% de órdenes nulas (fricción en pagos).
 * 📍 **Mercado Dominante**: Bogotá (38% volumen).
