@@ -7,13 +7,13 @@ Este proyecto aborda el ciclo de vida del dato para VentaExpress. Transformé un
 * **Sanitización**: Limpieza de correos y normalización de tipos.
 * **Arquitectura**: 5 capas (Raw, Cleaning, Metrics, Pivot, Executive Summary).
 * **Métricas**: Tablas Dinámicas Puras para integridad matricial.
-## 🔬 Hallazgos (Ref. Libro Blanco)
+## 🔬 Hallazgos
 * 🚨 **Anomalía de Captura**: 6% de órdenes nulas (fricción en pagos).
 * 📍 **Mercado Dominante**: Bogotá (38% volumen).
 * 💰 **Ticket Promedio**: $840 USD.
 ## 🚀 Conclusión
 La normalización recuperó un 15% de visibilidad fragmentada. Se recomienda optimizar pasarela de pagos en CDMX.
-
+![Ver imagen](Gráfica.png)
 
 # 📊 Proyecto de Análisis de Ventas
 
