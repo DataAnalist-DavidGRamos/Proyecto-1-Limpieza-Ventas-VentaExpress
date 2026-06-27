@@ -18,14 +18,19 @@ La normalización recuperó un 15% de visibilidad fragmentada. Se recomienda opt
 # 📊 Proyecto de Análisis de Ventas
 
 ## 📈 Datos del proyecto
-Métricas	Respuesta
-Ventas totales del trimestre	$3,053,684.32
-Venta promedio por transacción	$3,899.98
-Número total de transacciones	783
-Producto más vendido (por cantidad)	Laptop Oficina 32GB
-Ciudad con las mayores ventas totales	Ciudad De México
-Mes con los mejores resultados	Mes de octubre
-Precio promedio por categoría de producto	$1,256,212.44
+
+### Resumen de Métricas Trimestrales
+
+| Métricas | Respuesta |
+| :--- | :--- |
+| **Ventas totales del trimestre** | $3,053,684.32 |
+| **Venta promedio por transacción** | $3,899.98 |
+| **Número total de transacciones** | 783 |
+| **Producto más vendido (por cantidad)** | Laptop Oficina 32GB |
+| **Ciudad con las mayores ventas totales** | Ciudad De México |
+| **Mes con los mejores resultados** | Mes de octubre |
+| **Precio promedio por categoría de producto** | $1,256,212.44 |
+
 Los datos de este proyecto están alojados en Google Sheets para facilitar su visualización y edición colaborativa.
 
 ### 🔗 Acceso a los datos:
