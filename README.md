@@ -89,4 +89,12 @@ Proyecto-1-Limpieza-Ventas-VentaExpress/
 
 └── README.md                              → Este archivo
 
-## Estructura del Repositorio
+
+David Germán Ramos Rodríguez
+[LinkedIn](https://www.linkedin.com/in/david-g-ramos/) | 
+[Portfolio](https://dataanalist-davidgramos.github.io/mi-sitio-web/)
+
+
+
+
+
