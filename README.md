@@ -69,7 +69,7 @@ Los datos están alojados en Google Sheets para facilitar visualización colabor
 
 [Ver hoja de cálculo](https://docs.google.com/spreadsheets/d/1MtolYHRKBtReXPtxajD_Lg8OHgttBUWT/edit?usp=drive_link&ouid=104669285906035319765&rtpof=true&sd=true)
 
-## Estructura del repositorio:
+## 📁 Estructura del Repositorio:
 
 Proyecto-1-Limpieza-Ventas-VentaExpress/
 
@@ -90,17 +90,7 @@ Proyecto-1-Limpieza-Ventas-VentaExpress/
 └── README.md                                                              → Este archivo
 
 
-## 📁 Estructura del Repositorio
 
-📦 Proyecto-1-Limpieza-Ventas-VentaExpress
- ┣ 📂 docs
- ┃ ┣ 📄 Proyecto_1_Limpieza_y_resumen.md   → Resumen completo del proyecto
- ┃ ┗ 📄 resumen_ejecutivo_cfi.md           → Informe ejecutivo C-F-I
- ┣ 📂 img
- ┃ ┣ 🖼️ grafico_ventas_por_pais.png        → Gráfico comparativo por ciudad
- ┃ ┗ 🖼️ resumen_ejecutivo.png              → Vista del dashboard ejecutivo
- ┣ 📝 Notas.md                             → Observaciones del analista
- ┗ 📋 README.md                            → Este archivo
 
 
 ### AUTOR:
