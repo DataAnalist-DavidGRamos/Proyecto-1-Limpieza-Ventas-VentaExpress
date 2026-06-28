@@ -96,7 +96,7 @@ Proyecto-1-Limpieza-Ventas-VentaExpress/
 ### AUTOR:
 David Germán Ramos Rodríguez
 [LinkedIn](https://www.linkedin.com/in/david-g-ramos/) | 
-[Portfolio](https://dataanalist-davidgramos.github.io/mi-sitio-web/)
+[Sitio Web](https://dataanalist-davidgramos.github.io/mi-sitio-web/)
 
 
 
