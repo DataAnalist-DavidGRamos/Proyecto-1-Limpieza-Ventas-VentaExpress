@@ -18,7 +18,7 @@ No se muestran datos duplicados tomando en cuenta el ID de orden 19 datos vacios
 * 💰 **Ticket Promedio**: $840 USD.
 ## 🚀 Conclusión
 La normalización recuperó un 15% de visibilidad fragmentada. Se recomienda optimizar pasarela de pagos en CDMX.
-![Ver imagen](Gráfica.png)
+![Ver imagen](img/dashboard_ejecutivo.png)
 
 # 📊 Proyecto de Análisis de Ventas
 
