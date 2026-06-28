@@ -92,8 +92,6 @@ Proyecto-1-Limpieza-Ventas-VentaExpress/
 
 ## 📁 Estructura del Repositorio
 
-## 📁 Estructura del Repositorio
-
 📦 Proyecto-1-Limpieza-Ventas-VentaExpress
  ┣ 📂 docs
  ┃ ┣ 📄 Proyecto_1_Limpieza_y_resumen.md   → Resumen completo del proyecto
@@ -103,6 +101,7 @@ Proyecto-1-Limpieza-Ventas-VentaExpress/
  ┃ ┗ 🖼️ resumen_ejecutivo.png              → Vista del dashboard ejecutivo
  ┣ 📝 Notas.md                             → Observaciones del analista
  ┗ 📋 README.md                            → Este archivo
+
 
 ### AUTOR:
 David Germán Ramos Rodríguez
