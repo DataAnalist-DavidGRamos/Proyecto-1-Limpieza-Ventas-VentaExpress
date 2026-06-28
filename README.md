@@ -20,7 +20,7 @@ comerciales reales para los directivos de VentaExpress.
 ## Metodología
 
 - **Arquitectura de 5 capas:** Raw → Cleaning → Metrics → Pivot → Executive Summary
-- **Sanitización:** normalización de correos, tipos de dato, caracteres especiales
+- **Limpieza de datos:** normalización de correos, tipos de dato, caracteres especiales
 - **Métricas:** tablas dinámicas para integridad matricial y validación de resultados
 
 ## Proceso de Limpieza
