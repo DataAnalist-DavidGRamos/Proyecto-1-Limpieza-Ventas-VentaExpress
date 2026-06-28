@@ -3,6 +3,7 @@
 ![Excel](https://img.shields.io/badge/Tool-Google%20Sheets%20%7C%20Excel-green)
 ## 📌 Contexto
 Este proyecto aborda el ciclo de vida del dato para VentaExpress. Transformé un dataset caótico del Q4 2024 en un reporte ejecutivo reproducible.
+
 ## 🛠️ Metodología
 * **Sanitización**: Limpieza de correos y normalización de tipos.
 * **Arquitectura**: 5 capas (Raw, Cleaning, Metrics, Pivot, Executive Summary).
@@ -15,7 +16,7 @@ No se muestran datos duplicados tomando en cuenta el ID de orden 19 datos vacios
 ## 🔬 Hallazgos
 * 🚨 **Anomalía de Captura**: 6% de órdenes nulas (fricción en pagos).
 * 📍 **Mercado Dominante**: Bogotá (38% volumen).
-* 💰 **Ticket Promedio**: $840 USD.
+* 💰 **Ticket Promedio**: $3,899.98 USD.
 ## 🚀 Conclusión
 La normalización recuperó un 15% de visibilidad fragmentada. Se recomienda optimizar pasarela de pagos en CDMX.
 ## Vista del entregable
@@ -46,9 +47,12 @@ Los datos de este proyecto están alojados en Google Sheets para facilitar su vi
 
 ## 📋 Estructura del proyecto
 
-- `README.md`: Este archivo con la documentación
-- `notas.md`: (opcional) Mis observaciones del análisis
-
+- docs/Proyecto_1_Limpieza_y_resume...   → Resumen del proyecto
+- docs/resumen_ejecutivo_cfi.md          → Informe ejecutivo C-F-I
+- img/grafico_ventas_por_pais.png        → Gráfico de distribución geográfica
+- img/resumen_ejecutivo.png              → Vista del dashboard ejecutivo
+- Notas.md                               → Observaciones del analista
+- README.md                              → Este archivo
 ## 🎯 Objetivo del análisis
 
 El propósito fundamental es demostrar el proceso completo de transformación de datos crudos en información valiosa para la toma de decisiones empresariales.
