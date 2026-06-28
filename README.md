@@ -75,19 +75,19 @@ Proyecto-1-Limpieza-Ventas-VentaExpress/
 
 ├── docs/
 
-│   ├── Proyecto_1_Limpieza_y_resumen.md   → Resumen completo del proyecto
+│   ├── Proyecto_1_ Limpieza_y_resumen_de_datos_en_hojas_de_cálculo.xlsx   → Resumen completo del proyecto
 
-│   └── resumen_ejecutivo_cfi.md           → Informe ejecutivo C-F-I
+│   └── resumen_ejecutivo_cfi.md                                           → Informe ejecutivo C-F-I
 
 ├── img/
 
-│   ├── grafico_ventas_por_pais.png        → Gráfico comparativo por ciudad
+│   ├── grafico_ventas_por_pais.png                                        → Gráfico comparativo por ciudad
 
-│   └── resumen_ejecutivo.png              → Vista del dashboard ejecutivo
+│   └── resumen_ejecutivo.png                                              → Vista del dashboard ejecutivo
 
-├── Notas.md                               → Observaciones del analista
+├── Notas.md                                                               → Observaciones del analista
 
-└── README.md                              → Este archivo
+└── README.md                                                              → Este archivo
 
 
 David Germán Ramos Rodríguez
