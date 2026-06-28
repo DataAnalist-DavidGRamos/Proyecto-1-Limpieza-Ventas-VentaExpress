@@ -90,6 +90,20 @@ Proyecto-1-Limpieza-Ventas-VentaExpress/
 └── README.md                                                              → Este archivo
 
 
+## 📁 Estructura del Repositorio
+
+📦 Proyecto-1-Limpieza-Ventas-VentaExpress
+ ┣ 📂 docs
+ ┃ ┣ 📄 Proyecto_1_Limpieza_y_resumen.xlsx   → Resumen completo del proyecto
+ ┃ ┗ 📄 resumen_ejecutivo_cfi.md             → Informe ejecutivo C-F-I
+ ┣ 📂 img
+ ┃ ┣ 🖼️ grafico_ventas_por_pais.png          → Gráfico comparativo por ciudad
+ ┃ ┗ 🖼️ resumen_ejecutivo.png                → Vista del dashboard ejecutivo
+ ┣ 📝 Notas.md                               → Observaciones del analista
+ ┗ 📋 README.md                              → Este archivo
+
+
+### AUTOR:
 David Germán Ramos Rodríguez
 [LinkedIn](https://www.linkedin.com/in/david-g-ramos/) | 
 [Portfolio](https://dataanalist-davidgramos.github.io/mi-sitio-web/)
